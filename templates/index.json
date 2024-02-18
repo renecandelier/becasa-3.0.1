@@ -1,1 +1,1824 @@
-{"sections":{"16558445044f80743b":{"type":"image-hero","blocks":{"d0cd2366-7930-4809-80d7-2b38d2d4fb07":{"type":"heading","settings":{"heading_font_class":"fs-heading-display-2"}},"8a49de45-4784-4f5d-adcf-b87e81e76548":{"type":"subheading","settings":{"subheading_font_class":"fs-heading-5-base"}},"d525a297-b0ac-4079-a90c-68d26f07aae7":{"type":"button","settings":{"link":"","button_style":"btn--primary"}},"15c58a65-cec7-4639-8936-8e3534462aff":{"type":"button","settings":{"link":"","button_style":"btn--secondary"}}},"block_order":["d0cd2366-7930-4809-80d7-2b38d2d4fb07","8a49de45-4784-4f5d-adcf-b87e81e76548","d525a297-b0ac-4079-a90c-68d26f07aae7","15c58a65-cec7-4639-8936-8e3534462aff"],"settings":{"image_aspect":"custom","desktop_height":70,"mobile_height":50,"focal_point":"image_presentation","mobile_focal_point":"image_presentation","media_link":"","text_position":"center_center","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":51,"section_padding":"section--vertical-padding-none"}},"1655855477ee9538e0":{"type":"countdown-bar","settings":{"min_height":60,"min_height_mobile":60,"year":2023,"month":"january","day":"1","hour":"0","minute":"0","hide_timer_on_complete":false,"timer_complete_message":"","button_style":"btn--secondary","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","background_color":"#c51c26","color_overlay":"#000000","color_overlay_gradient":"","overlay_opacity":0,"full_width":true,"section_padding":"section--vertical-padding-none"}},"1654878022d8e24a9a":{"type":"grid","blocks":{"165487802257d72399-2":{"type":"item","settings":{"width":"33","height":500,"mobile_height":360,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"flex-start_flex-end","accent":"","subheading_font_class":"fs-heading-6-base","text":"","text_font_class":"fs-body-100","link":"","link_text":"Shop now","button_style":"btn--callout","background_color":"","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1) 52%, rgba(0, 0, 0, 1) 100%)","overlay_opacity":50}},"165487802257d72399-1":{"type":"item","settings":{"width":"33","height":500,"mobile_height":360,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"flex-start_flex-end","accent":"","title":"Grid item","subheading_font_class":"fs-heading-6-base","text":"","text_font_class":"fs-body-100","link":"","link_text":"","button_style":"btn--callout","background_color":"","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1) 52%, rgba(0, 0, 0, 1) 100%)","overlay_opacity":50}},"165487802257d72399-0":{"type":"item","settings":{"width":"33","height":600,"mobile_height":360,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"flex-start_flex-end","accent":"","subheading_font_class":"fs-heading-6-base","text":"","text_font_class":"fs-body-100","link":"","button_style":"btn--callout","background_color":"","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.1) 43%, rgba(0, 0, 0, 1) 100%)","overlay_opacity":50}}},"block_order":["165487802257d72399-2","165487802257d72399-1","165487802257d72399-0"],"settings":{"divider_style":"solid"}},"16549177944ec2347e":{"type":"rich-text","blocks":{"1654917794cdc0bc3c-0":{"type":"heading","settings":{"heading_font_class":"fs-heading-3-base"}},"1654917794cdc0bc3c-1":{"type":"text","settings":{"text_font_class":"fs-body-100"}}},"block_order":["1654917794cdc0bc3c-0","1654917794cdc0bc3c-1"],"settings":{"alignment":"center_center","divider_style":"solid","content_width":"custom","custom_content_width":650}},"1655855558c1ac2348":{"type":"featured-collection-slider","blocks":{"16558555587b915de6-0":{"type":"collection","settings":{"show_view_all":true,"collection":"","collection_name":"First collection"}},"16558555587b915de6-1":{"type":"collection","settings":{"show_view_all":true,"collection":"","collection_name":"Second collection"}}},"block_order":["16558555587b915de6-0","16558555587b915de6-1"],"settings":{"heading":"Featured collection","subheading":"","link":"","link_text":"","maximum_products":8,"columns":"4","mobile_columns":"2","divider_style":"solid","section_padding":"section--vertical-padding-top-bottom"}},"16548772614c49ba39":{"type":"featured-collection-slider","blocks":{"767ac6c0-8826-4284-bd74-6eb8a441d7bc":{"type":"collection","settings":{"show_view_all":true,"collection":"","collection_name":"Collection"}}},"block_order":["767ac6c0-8826-4284-bd74-6eb8a441d7bc"],"settings":{"subheading":"","link":"","link_text":"View all products","maximum_products":8,"columns":"4","mobile_columns":"2","divider_style":"solid","section_padding":"section--vertical-padding-top-bottom"}},"16558561315f6147d3":{"type":"sales-banner","settings":{"min_height":300,"min_height_mobile":500,"sale_type":"up to","sale_amount":"60","sale_unit":"percent_off","sale_font_size":150,"sale_font_size_mobile":150,"currency_symbol_position":"before","heading_font_class":"fs-heading-3-base","button_style":"btn--secondary","button_style_2":"btn--secondary","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_color":"#FFFFFF","button_background_color":"#FFFFFF","button_text_color":"#000000","background_color":"#C51C26","color_overlay":"#000","color_overlay_gradient":"","overlay_opacity":0,"show_frame":true,"full_width":false,"section_padding":"section--vertical-padding-top-only"}},"1655747757d7226f15":{"type":"grid","blocks":{"e866e078-81cd-4f2b-8678-817de7dc830a":{"type":"item","settings":{"width":"50","height":500,"mobile_height":500,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"center_center","accent":"","subheading_font_class":"fs-heading-5-base","text":"","text_font_class":"fs-body-100","link":"","button_style":"btn--primary","background_color":"","text_color":"#FFFFFF","button_background_color":"#FFFFFF","button_text_color":"#000000","color_overlay":"#000","color_overlay_gradient":"","overlay_opacity":30}},"c832af30-0b0e-4968-9284-ab8633c9a7c3":{"type":"item","settings":{"width":"50","height":500,"mobile_height":500,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"center_center","accent":"","subheading_font_class":"fs-heading-5-base","text":"","text_font_class":"fs-body-100","link":"","link_text":"","button_style":"btn--primary","background_color":"","text_color":"#FFFFFF","button_background_color":"#FFFFFF","button_text_color":"#000000","color_overlay":"#000","color_overlay_gradient":"","overlay_opacity":30}},"c51c0355-4ad0-4933-b13d-f827c724bcf5":{"type":"item","settings":{"width":"33","height":500,"mobile_height":500,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"center_center","accent":"","subheading_font_class":"fs-heading-5-base","text":"","text_font_class":"fs-body-100","link":"","link_text":"","button_style":"btn--primary","background_color":"","text_color":"#FFFFFF","button_background_color":"#FFFFFF","button_text_color":"#000000","color_overlay":"#000","color_overlay_gradient":"","overlay_opacity":30}},"c49fee52-014f-4275-968c-dc288d31fd2b":{"type":"item","settings":{"width":"33","height":500,"mobile_height":500,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"center_center","accent":"","subheading_font_class":"fs-heading-5-base","text":"","text_font_class":"fs-body-100","link":"","link_text":"","button_style":"btn--primary","background_color":"","text_color":"#FFFFFF","button_background_color":"#FFFFFF","button_text_color":"#000000","color_overlay":"#000","color_overlay_gradient":"","overlay_opacity":30}},"765a5e2e-93df-44f3-aa92-3c26e95174c2":{"type":"item","settings":{"width":"33","height":500,"mobile_height":500,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"center_center","accent":"","subheading_font_class":"fs-heading-5-base","text":"","text_font_class":"fs-body-100","link":"","link_text":"","button_style":"btn--primary","background_color":"","text_color":"#FFFFFF","button_background_color":"#FFFFFF","button_text_color":"#000000","color_overlay":"#000","color_overlay_gradient":"","overlay_opacity":30}},"48a4e426-4325-412e-a437-c11aa5b4edf2":{"type":"item","settings":{"width":"100","height":500,"mobile_height":500,"media_fit":"cover","focal_point":"image_presentation","mobile_focal_point":"image_presentation","text_position":"center_center","accent":"","subheading_font_class":"fs-heading-5-base","text":"","text_font_class":"fs-body-100","link":"","link_text":"","button_style":"btn--primary","background_color":"","text_color":"#FFFFFF","button_background_color":"#FFFFFF","button_text_color":"#000000","color_overlay":"#000","color_overlay_gradient":"","overlay_opacity":30}}},"block_order":["e866e078-81cd-4f2b-8678-817de7dc830a","c832af30-0b0e-4968-9284-ab8633c9a7c3","c51c0355-4ad0-4933-b13d-f827c724bcf5","c49fee52-014f-4275-968c-dc288d31fd2b","765a5e2e-93df-44f3-aa92-3c26e95174c2","48a4e426-4325-412e-a437-c11aa5b4edf2"],"settings":{"divider_style":"none"}},"165488047346f59e49":{"type":"collection-list-slider","settings":{"heading":"Collection list","subheading":"","columns":"5","mobile_columns":"2","collection_list":[],"collection_listing_aspect_ratio":"portrait","label_style":"overlay","overlay_title_background_style":"gradient","overlay_text_color":"#ffffff","overlay_title_background":"#000000","divider_style":"solid","section_padding":"section--vertical-padding-top-bottom"}},"1654913893935a57bd":{"type":"image-with-text-split","blocks":{"1654913893d03d0b33-0":{"type":"accent","settings":{}},"1654913893d03d0b33-1":{"type":"heading","settings":{"heading_font_class":"fs-heading-1-base"}},"1654913893d03d0b33-2":{"type":"subheading","settings":{"subheading_font_class":"fs-heading-5-base"}},"63e2f450-ccdf-4ba0-8c95-8e7b01b5c7f5":{"type":"image","settings":{"image_size":250,"image_size_mobile":200}},"7f329234-f652-4947-8f09-cad43d072028":{"type":"button","settings":{"link":"","button_style":"btn--secondary"}}},"block_order":["1654913893d03d0b33-0","1654913893d03d0b33-1","1654913893d03d0b33-2","63e2f450-ccdf-4ba0-8c95-8e7b01b5c7f5","7f329234-f652-4947-8f09-cad43d072028"],"settings":{"image_position":"right","image_mobile_position":"above-content","image_padding":"none","aspect_ratio":"natural","focal_point":"image_presentation","content_alignment":"center","background_color":"#0b3b3e","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#ffffff","section_padding":"section--vertical-padding-top-bottom"}},"165489980473ecbf41":{"type":"image-with-text","blocks":{"1654899804e4fc48ec-0":{"type":"heading","settings":{"heading_font_class":"fs-heading-display-3"}},"1654899804e4fc48ec-1":{"type":"subheading","settings":{"subheading_font_class":"fs-heading-5-base"}},"1654899804e4fc48ec-2":{"type":"button","settings":{"link":"","button_style":"btn--primary"}}},"block_order":["1654899804e4fc48ec-0","1654899804e4fc48ec-1","1654899804e4fc48ec-2"],"settings":{"image_position":"left","text_alignment":"center","aspect_ratio":"natural","focal_point":"image_presentation","image_caption":"","show_small_image":true,"image_small_aspect_ratio":"natural","image_small_focal_point":"center","background_color":"#ffffff","text_color":"#000000","button_background_color":"#000000","button_text_color":"#ffffff","divider_style":"solid","section_padding":"section--vertical-padding-top-bottom"}},"1654880426b1f83355":{"type":"image-with-text","blocks":{"16548804264c48a1d9-0":{"type":"heading","settings":{"heading_font_class":"fs-heading-display-3"}},"16548804264c48a1d9-1":{"type":"subheading","settings":{"subheading_font_class":"fs-heading-5-base"}},"16548804264c48a1d9-2":{"type":"button","settings":{"link":"","button_style":"btn--primary"}}},"block_order":["16548804264c48a1d9-0","16548804264c48a1d9-1","16548804264c48a1d9-2"],"settings":{"image_position":"right","text_alignment":"center","aspect_ratio":"natural","focal_point":"image_presentation","image_caption":"","show_small_image":true,"image_small_aspect_ratio":"natural","image_small_focal_point":"center","background_color":"","text_color":"#000000","button_background_color":"#000000","button_text_color":"#ffffff","divider_style":"none","section_padding":"section--vertical-padding-top-bottom"}},"16558561940a4fe50f":{"type":"testimonials","blocks":{"1655856194e7b43695-0":{"type":"testimonial","settings":{"product":"","image_position":"right","aspect_ratio":"square","focal_point":"image_presentation","show_rating":true,"rating":5}},"1655856194e7b43695-1":{"type":"testimonial","settings":{"product":"","image_position":"right","aspect_ratio":"square","focal_point":"image_presentation","show_rating":true,"rating":4.5}},"1655856194e7b43695-2":{"type":"testimonial","settings":{"product":"","image_position":"right","aspect_ratio":"square","focal_point":"image_presentation","show_rating":true,"rating":5}}},"block_order":["1655856194e7b43695-0","1655856194e7b43695-1","1655856194e7b43695-2"],"settings":{"image_size":"small","quote_font":"heading","background_color":"#000000","text_color":"#ffffff","divider_style":"none","section_padding":"section--vertical-padding-top-bottom"}},"16548834739d532589":{"type":"shoppable-feature","blocks":{"16548834735b1dc2a7-0":{"type":"hotspot","settings":{"product_item":"","horizontal_position":37,"vertical_position":69}},"16548834735b1dc2a7-1":{"type":"hotspot","settings":{"product_item":"","horizontal_position":43,"vertical_position":37}},"16548834735b1dc2a7-2":{"type":"hotspot","settings":{"product_item":"","horizontal_position":63,"vertical_position":18}}},"block_order":["16548834735b1dc2a7-0","16548834735b1dc2a7-1","16548834735b1dc2a7-2"],"settings":{"image_position":"left","image_size":50,"aspect_ratio":"portrait_alt","link":"","button_style":"btn--callout","divider_style":"solid","content_position_desktop":"inside"}},"1654916105fd939f8f":{"type":"video-hero","blocks":{"1654916105bea353be-0":{"type":"accent","settings":{}},"1654916105bea353be-1":{"type":"heading","settings":{"heading_font_class":"fs-heading-display-3"}},"535519ef-68f5-42dd-8ad6-15ab68afaa95":{"type":"subheading","settings":{"subheading_font_class":"fs-heading-5-base"}},"39a1cced-a841-48eb-bf01-2041e2134155":{"type":"play-button","settings":{"video_url":"","aspect_ratio":"landscape","icon_style":"light"}}},"block_order":["1654916105bea353be-0","1654916105bea353be-1","535519ef-68f5-42dd-8ad6-15ab68afaa95","39a1cced-a841-48eb-bf01-2041e2134155"],"settings":{"image_aspect":"custom","desktop_height":65,"mobile_height":50,"media_link":"","focal_point":"image_presentation","text_position":"center_flex-end","text_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","color_overlay":"#000000","color_overlay_gradient":"linear-gradient(180deg, rgba(0, 0, 0, 0.24) 38%, rgba(0, 0, 0, 1) 100%)","overlay_opacity":67,"section_padding":"section--vertical-padding-none"}},"16548801325228c324":{"type":"blog-posts","settings":{"heading":"Blog posts","subheading":"","button_link":"","display_type":"all","blog":"news","max_articles":2,"show_tags":true,"show_author":false,"show_date":true,"show_excerpt":true,"show_featured_image":true,"aspect_ratio":"landscape","divider_style":"solid","section_padding":"section--vertical-padding-top-bottom"}},"1655748277aeb95c8a":{"type":"image-with-text","blocks":{"1655748276a16c587f-0":{"type":"heading","settings":{"heading_font_class":"fs-heading-1-base"}},"a20757dc-e69a-44d7-a715-2a5d06580517":{"type":"border","settings":{}},"1655748276a16c587f-1":{"type":"subheading","settings":{"subheading_font_class":"fs-heading-5-base"}},"2c5ae3e6-0766-4bad-aff5-a724000e1ddd":{"type":"text","settings":{"text_font_class":"fs-body-75"}},"6bfc7d96-f5a5-41c5-b66f-6b8eb23d8a52":{"type":"border","settings":{}},"737ce2a8-7a79-4050-901a-b48412cad79e":{"type":"subheading","settings":{"subheading_font_class":"fs-heading-5-base"}},"78b87e77-53f6-4b58-828a-36ba7eeaa4f1":{"type":"text","settings":{"text_font_class":"fs-body-75"}},"1655748276a16c587f-2":{"type":"button","settings":{"link":"","button_style":"btn--secondary"}}},"block_order":["1655748276a16c587f-0","a20757dc-e69a-44d7-a715-2a5d06580517","1655748276a16c587f-1","2c5ae3e6-0766-4bad-aff5-a724000e1ddd","6bfc7d96-f5a5-41c5-b66f-6b8eb23d8a52","737ce2a8-7a79-4050-901a-b48412cad79e","78b87e77-53f6-4b58-828a-36ba7eeaa4f1","1655748276a16c587f-2"],"settings":{"image_position":"left","text_alignment":"left","aspect_ratio":"square","focal_point":"image_presentation","image_caption":"","show_small_image":false,"image_small_aspect_ratio":"square","image_small_focal_point":"center","background_color":"","text_color":"#000000","button_background_color":"#000000","button_text_color":"#ffffff","divider_style":"solid","section_padding":"section--vertical-padding-top-bottom"}},"165489278903cc3881":{"type":"image-with-text-split","blocks":{"cec1e4e1-4b28-4709-8d1a-c986ad40425b":{"type":"image","settings":{"image_size":160,"image_size_mobile":110}},"da0d8502-d1a9-42c4-946f-f3143ddb712c":{"type":"heading","settings":{"heading_font_class":"fs-heading-1-base"}},"16548927896be1844d-2":{"type":"subheading","settings":{"subheading_font_class":"fs-heading-5-base"}},"82fd259e-87e0-4232-9b45-72472ceab4dc":{"type":"button","settings":{"link":"","button_style":"btn--callout"}},"7792bb9a-dddb-46ca-9045-e26f6f6948b5":{"type":"button","settings":{"link":"","button_style":"btn--callout"}}},"block_order":["cec1e4e1-4b28-4709-8d1a-c986ad40425b","da0d8502-d1a9-42c4-946f-f3143ddb712c","16548927896be1844d-2","82fd259e-87e0-4232-9b45-72472ceab4dc","7792bb9a-dddb-46ca-9045-e26f6f6948b5"],"settings":{"image_position":"right","image_mobile_position":"above-content","image_padding":"none","aspect_ratio":"landscape","focal_point":"image_presentation","content_alignment":"center","background_color":"#562a26","text_color":"#d1d8c0","button_background_color":"#d1d8c0","button_text_color":"#ffffff","section_padding":"section--vertical-padding-top-only"}},"d71df2af-ba99-428a-9772-57ebe99ef94d":{"type":"newsletter-compact","blocks":{"template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-0":{"type":"text_content","settings":{"width":"600","title":"Subscribe to our newsletter","heading_font_class":"fs-heading-4-base","subheading":"","subheading_font_class":"fs-heading-6-base","text":"<p>Include a short sentence describing what someone can expect from your newsletter.<\/p>","text_font_class":"fs-body-75"}},"template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-1":{"type":"newsletter_signup","settings":{"signup_link_text":"Sign up","footer_text":"<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.<\/p>"}}},"block_order":["template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-0","template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-1"],"settings":{"spacing_mode":"between","alignment":"left","focal_point":"image_presentation","background_color":"#f5f5f5","text_color":"#000000","input_color":"#000000","input_background":"#fff","button_background_color":"#000000","button_text_color":"#FFFFFF","color_overlay":"#000","color_overlay_gradient":"","overlay_opacity":0,"enable_animation":true,"divider_style":"none","section_padding":"section--vertical-padding-top-bottom"}}},"order":["16558445044f80743b","1655855477ee9538e0","1654878022d8e24a9a","16549177944ec2347e","1655855558c1ac2348","16548772614c49ba39","16558561315f6147d3","1655747757d7226f15","165488047346f59e49","1654913893935a57bd","165489980473ecbf41","1654880426b1f83355","16558561940a4fe50f","16548834739d532589","1654916105fd939f8f","16548801325228c324","1655748277aeb95c8a","165489278903cc3881","d71df2af-ba99-428a-9772-57ebe99ef94d"]}
+{
+  "sections": {
+    "01ffb404-403f-4ca8-a4b9-e6b50f94da3e": {
+      "type": "image-hero",
+      "blocks": {
+        "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-accent-1": {
+          "type": "accent",
+          "settings": {
+            "accent": ""
+          }
+        },
+        "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "resort dresses",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Our latest collection is meant to take you places, preferably in the sun.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "button_GGMxag": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/resort-presale",
+            "link_text": "shop the resort dress presale",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-accent-1",
+        "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-heading-1",
+        "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-text-1",
+        "button_GGMxag"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/VSP_3350.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/VSP_3337.jpg",
+        "focal_point": "center",
+        "mobile_focal_point": "center",
+        "media_link": "shopify:\/\/collections\/resort-presale",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#a77a06",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 5,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "9904d35a-b0c1-4760-9f4c-82c5783d55f0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15630978023477__9904d35a-b0c1-4760-9f4c-82c5783d55f0-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Rich text",
+            "heading_font_class": "fs-heading-2-base"
+          }
+        },
+        "template--15630978023477__9904d35a-b0c1-4760-9f4c-82c5783d55f0-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "template--15630978023477__9904d35a-b0c1-4760-9f4c-82c5783d55f0-heading-1",
+        "template--15630978023477__9904d35a-b0c1-4760-9f4c-82c5783d55f0-text-1"
+      ],
+      "settings": {
+        "alignment": "left_left",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "image_with_text_fn8ipJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LzVdkQ": {
+          "type": "heading",
+          "settings": {
+            "title": "Pre-Sale",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "subheading_nyKA8L": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Grab your favorite resort dress before they fly this spring.",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "button_wJiUHV": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/resort-presale",
+            "link_text": "shop now",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LzVdkQ",
+        "subheading_nyKA8L",
+        "button_wJiUHV"
+      ],
+      "settings": {
+        "image_position": "right",
+        "text_alignment": "center",
+        "image": "shopify:\/\/shop_images\/resort-dress-mini-garden-10.jpg",
+        "aspect_ratio": "square",
+        "focal_point": "center",
+        "image_caption": "",
+        "show_small_image": true,
+        "image_small": "shopify:\/\/shop_images\/resort-dress-maxi-leparadis-6.jpg",
+        "image_small_aspect_ratio": "natural",
+        "image_small_focal_point": "center",
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "3c8c13e6-f86e-43f5-a617-701f26007732": {
+      "type": "image-hero",
+      "blocks": {
+        "template--15511990272053__3c8c13e6-f86e-43f5-a617-701f26007732-16850253733a89fbd0-0": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "template--15511990272053__3c8c13e6-f86e-43f5-a617-701f26007732-16850253733a89fbd0-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image hero",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--15511990272053__3c8c13e6-f86e-43f5-a617-701f26007732-16850253733a89fbd0-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "5fdddbbb-b708-4a79-a559-47a1841fda57": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15511990272053__3c8c13e6-f86e-43f5-a617-701f26007732-16850253733a89fbd0-0",
+        "template--15511990272053__3c8c13e6-f86e-43f5-a617-701f26007732-16850253733a89fbd0-1",
+        "template--15511990272053__3c8c13e6-f86e-43f5-a617-701f26007732-16850253733a89fbd0-2",
+        "5fdddbbb-b708-4a79-a559-47a1841fda57"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/resort-dress-maxi-poppy-6.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/resort-dress-maxi-poppy-6.jpg",
+        "focal_point": "top",
+        "mobile_focal_point": "top",
+        "media_link": "https:\/\/shopbecasa.com\/collections\/resort-presale\/products\/resort-dress-maxi?variant=42867672416309",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "3a2d7467-0626-4894-bbb0-e4eb846771d1": {
+      "type": "quote",
+      "blocks": {
+        "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><em>\"It is a peaceful feeling here at the beach; almost time for spring.\"<\/em><\/p>",
+            "title": "",
+            "font_size": "small"
+          }
+        },
+        "67a45d1a-0144-4cff-b0ec-b7dc315f1750": {
+          "type": "quote",
+          "disabled": true,
+          "settings": {
+            "quote": "<p>Goodbye to summer, hello to the in-between <br\/><br\/>Three New Styles – our Linen Day Caftan, Dock Shirt, and Margo Midi Dress to style for the next season<\/p>",
+            "title": "Emily Raffield, Founder + Designer BECASA",
+            "font_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0",
+        "67a45d1a-0144-4cff-b0ec-b7dc315f1750"
+      ],
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "16558445044f80743b": {
+      "type": "image-hero",
+      "blocks": {
+        "d0cd2366-7930-4809-80d7-2b38d2d4fb07": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "SHOP NEW COLLECTION",
+            "heading_font_class": "fs-heading-display-1"
+          }
+        },
+        "8a49de45-4784-4f5d-adcf-b87e81e76548": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Collection Live",
+            "subheading_font_class": "fs-heading-4-base"
+          }
+        },
+        "38096650-b945-4063-a710-9c1c2b610440": {
+          "type": "border",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "d525a297-b0ac-4079-a90c-68d26f07aae7": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/rachel-november",
+            "link_text": "ready to ship",
+            "button_style": "btn--primary"
+          }
+        },
+        "15c58a65-cec7-4639-8936-8e3534462aff": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--secondary"
+          }
+        },
+        "1f5f941d-2040-40b6-897b-11eb03cdf7ee": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_size": 200,
+            "image_size_mobile": 200
+          }
+        },
+        "4830f803-8e36-42ea-9dc1-ae1706c14aac": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "space": 4
+          }
+        },
+        "b6de3f76-284e-4ba0-8cfa-835e50b42ac6": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography.",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        }
+      },
+      "block_order": [
+        "d0cd2366-7930-4809-80d7-2b38d2d4fb07",
+        "8a49de45-4784-4f5d-adcf-b87e81e76548",
+        "38096650-b945-4063-a710-9c1c2b610440",
+        "d525a297-b0ac-4079-a90c-68d26f07aae7",
+        "15c58a65-cec7-4639-8936-8e3534462aff",
+        "1f5f941d-2040-40b6-897b-11eb03cdf7ee",
+        "4830f803-8e36-42ea-9dc1-ae1706c14aac",
+        "b6de3f76-284e-4ba0-8cfa-835e50b42ac6"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/BecasaAugust2023-0277.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-0276_1.jpg",
+        "focal_point": "bottom",
+        "mobile_focal_point": "center",
+        "media_link": "shopify:\/\/collections\/rachel-november",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "linear-gradient(182deg, rgba(255, 247, 247, 1) 45%, rgba(244, 238, 231, 1) 59%)",
+        "overlay_opacity": 9,
+        "enable_animation": false,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "78432426-6df3-40c1-935f-3c905f16913f": {
+      "type": "complete-the-look",
+      "blocks": {
+        "template--15452995485749__78432426-6df3-40c1-935f-3c905f16913f-1676603352f6092e11-0": {
+          "type": "product",
+          "settings": {
+            "product_item": "saturday-shirt-white"
+          }
+        },
+        "template--15452995485749__78432426-6df3-40c1-935f-3c905f16913f-1676603352f6092e11-1": {
+          "type": "product",
+          "settings": {
+            "product_item": "concon-crochet-straw-basket"
+          }
+        },
+        "template--15452995485749__78432426-6df3-40c1-935f-3c905f16913f-1676603352f6092e11-2": {
+          "type": "product",
+          "settings": {
+            "product_item": "becasa-beach-bangles",
+            "custom_product_image": "shopify:\/\/shop_images\/becasa-Beach-Bangles-27.jpg"
+          }
+        },
+        "template--15452995485749__78432426-6df3-40c1-935f-3c905f16913f-1676603352f6092e11-3": {
+          "type": "product",
+          "settings": {
+            "product_item": "day-caftan-dress"
+          }
+        }
+      },
+      "block_order": [
+        "template--15452995485749__78432426-6df3-40c1-935f-3c905f16913f-1676603352f6092e11-0",
+        "template--15452995485749__78432426-6df3-40c1-935f-3c905f16913f-1676603352f6092e11-1",
+        "template--15452995485749__78432426-6df3-40c1-935f-3c905f16913f-1676603352f6092e11-2",
+        "template--15452995485749__78432426-6df3-40c1-935f-3c905f16913f-1676603352f6092e11-3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Becasa-July-0038.jpg",
+        "video_loop": false,
+        "video_controls": false,
+        "image_position": "left",
+        "aspect_ratio": "natural",
+        "heading": "spring basics",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "button_style": "btn--callout",
+        "product_image_size": "large",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "713701db-85db-49b4-b65c-a9567ca86c05": {
+      "type": "featured-collection-slider",
+      "blocks": {
+        "template--15452995485749__713701db-85db-49b4-b65c-a9567ca86c05-1676604317bc34a4e7-0": {
+          "type": "collection",
+          "settings": {
+            "show_view_all": true,
+            "collection": "rachel-november",
+            "collection_name": "Second Summer"
+          }
+        },
+        "template--15452995485749__713701db-85db-49b4-b65c-a9567ca86c05-1676604317bc34a4e7-1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "show_view_all": true,
+            "collection": "",
+            "collection_name": "Second collection"
+          }
+        }
+      },
+      "block_order": [
+        "template--15452995485749__713701db-85db-49b4-b65c-a9567ca86c05-1676604317bc34a4e7-0",
+        "template--15452995485749__713701db-85db-49b4-b65c-a9567ca86c05-1676604317bc34a4e7-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "link": "shopify:\/\/collections\/rachel-november",
+        "link_text": "SHOP our latest styles",
+        "maximum_products": 11,
+        "columns": "5",
+        "mobile_columns": "2",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "f0d3ab67-bc81-4459-b5f1-afea099f386f": {
+      "type": "image-hero",
+      "blocks": {
+        "template--15472021504053__f0d3ab67-bc81-4459-b5f1-afea099f386f-1679058264ab3dd88e-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "SECOND SUMMER",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "a1d48a4c-e452-44c8-a5c8-2347ec45b4b3": {
+          "type": "border",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "370aadb4-03e8-4b15-bae8-f98f69095807": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "EXPLORE THE CAMPAIGN - F\/W 2023",
+            "subheading_font_class": "fs-heading-4-base"
+          }
+        },
+        "template--15472021504053__f0d3ab67-bc81-4459-b5f1-afea099f386f-1679058264ab3dd88e-0": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "explore the campaign"
+          }
+        },
+        "template--15472021504053__f0d3ab67-bc81-4459-b5f1-afea099f386f-1679058264ab3dd88e-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>LOOKBOOK<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "8e1498a6-e9bf-4715-848a-3c269183a7ca": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/pages\/hazel-flora",
+            "link_text": "Lookbook",
+            "button_style": "btn--secondary"
+          }
+        },
+        "d49588dc-ac94-4906-92ff-b05fa0861350": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image hero",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        }
+      },
+      "block_order": [
+        "template--15472021504053__f0d3ab67-bc81-4459-b5f1-afea099f386f-1679058264ab3dd88e-1",
+        "a1d48a4c-e452-44c8-a5c8-2347ec45b4b3",
+        "370aadb4-03e8-4b15-bae8-f98f69095807",
+        "template--15472021504053__f0d3ab67-bc81-4459-b5f1-afea099f386f-1679058264ab3dd88e-0",
+        "template--15472021504053__f0d3ab67-bc81-4459-b5f1-afea099f386f-1679058264ab3dd88e-2",
+        "8e1498a6-e9bf-4715-848a-3c269183a7ca",
+        "d49588dc-ac94-4906-92ff-b05fa0861350"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 85,
+        "mobile_height": 85,
+        "image": "shopify:\/\/shop_images\/Copy_of_A_Creative_Culinary_Beach_Retreat_October_19_-_23_2023.png",
+        "image_mobile": "shopify:\/\/shop_images\/Copy_of_A_Creative_Culinary_Beach_Retreat_October_19_-_23_2023.png",
+        "focal_point": "center",
+        "mobile_focal_point": "center",
+        "media_link": "shopify:\/\/pages\/hazel-flora",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "7ac8e2ee-169d-414e-8b56-2676cc72d5a1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15472021504053__7ac8e2ee-169d-414e-8b56-2676cc72d5a1-16790210829658b2cb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "seasons change",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "template--15472021504053__7ac8e2ee-169d-414e-8b56-2676cc72d5a1-16790210829658b2cb-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Meet our Boyfriend Maxi Dress",
+            "subheading_font_class": "fs-heading-4-base"
+          }
+        },
+        "template--15472021504053__7ac8e2ee-169d-414e-8b56-2676cc72d5a1-16790210829658b2cb-2": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/boyfriend-maxi-dress-1",
+            "link_text": "SHOP NOW",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15472021504053__7ac8e2ee-169d-414e-8b56-2676cc72d5a1-16790210829658b2cb-0",
+        "template--15472021504053__7ac8e2ee-169d-414e-8b56-2676cc72d5a1-16790210829658b2cb-1",
+        "template--15472021504053__7ac8e2ee-169d-414e-8b56-2676cc72d5a1-16790210829658b2cb-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_position": "right",
+        "text_alignment": "center",
+        "image": "shopify:\/\/shop_images\/BecasaAugust2023-0154.jpg",
+        "aspect_ratio": "portrait",
+        "focal_point": "center",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small": "shopify:\/\/shop_images\/VSP_1726.jpg",
+        "image_small_aspect_ratio": "portrait",
+        "image_small_focal_point": "center",
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "2b9f7d63-bf6e-4b90-9369-a11a2b31c92d": {
+      "type": "featured-product",
+      "blocks": {
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-0": {
+          "type": "product_header",
+          "settings": {
+            "show_divider": true,
+            "show_vendor": false,
+            "show_sku": false,
+            "show_discount": true,
+            "discount_format": "percent_off",
+            "show_product_rating": false,
+            "show_sale_badge": true,
+            "show_custom_badges": true
+          }
+        },
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-1": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_popup_option": "Size",
+            "variant_popup_icon": "none",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": "",
+            "swatch_size": "medium",
+            "chip_layout": "3col"
+          }
+        },
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-2": {
+          "type": "quantity_selector",
+          "settings": {
+            "show_labels": true
+          }
+        },
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-4": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "column_placement": "right",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-0",
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-1",
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-2",
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-3",
+        "template--15380251672629__2b9f7d63-bf6e-4b90-9369-a11a2b31c92d-167215747030d3694d-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "featured_product": "saturday-shirt-white",
+        "gallery_size": "small",
+        "enable_video_looping": true,
+        "enable_product_lightbox": true,
+        "image_aspect_ratio": "portrait",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "7da12547-59a5-4faa-bed7-e69480265a19": {
+      "type": "slideshow",
+      "blocks": {
+        "e816c680-5a1e-4f81-bcfb-238f797e1ea9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1591.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1554.jpg",
+            "focal_point": "top",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/collections\/rachel-november",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "362e941e-9ada-42c1-bf79-27fea76ab6e2": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Slideshow",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p>Use this section to make a bold statement<\/p>",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        },
+        "a4d2e160-f372-4c92-a636-ef8d368097b5": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1696_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1696_1.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/collections\/rachel-november",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15376799498293__7da12547-59a5-4faa-bed7-e69480265a19-16680467312397aaa9-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1493.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1493.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/collections\/rachel-november",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-200",
+            "link_1": "shopify:\/\/collections\/sale-2023",
+            "link_text_1": "",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "b1f1cd94-4e87-41ae-b059-e45a2986e839": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-0547.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-0547.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/collections\/rachel-november",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "c80aacc4-86d5-4f0f-9e99-6a315ecbab24": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1974_8e9e9e4d-d5cb-468e-879d-814abb3614bc.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1974_8e9e9e4d-d5cb-468e-879d-814abb3614bc.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/collections\/rachel-november",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "a30ac8b0-6265-4e40-947f-ac14f44d1d50": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Becasa-July-0162.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/Becasa-July-0681.jpg",
+            "focal_point": "top",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/collections\/august-2023-launch",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "template--15376799498293__7da12547-59a5-4faa-bed7-e69480265a19-16680467312397aaa9-0": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/029A9871.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/029A9864_7e4209f3-89be-4d7d-9257-d2ee53276285.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/collections\/april-23",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "959545b3-9386-4e75-9e51-b477a3a9e03d": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/029A0735.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "60a5ecc1-d0c0-4607-9788-556b1748c696": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/029A3193.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "177f031d-90bc-4f31-871a-ba144492175e": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/029A2831.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "e816c680-5a1e-4f81-bcfb-238f797e1ea9",
+        "362e941e-9ada-42c1-bf79-27fea76ab6e2",
+        "a4d2e160-f372-4c92-a636-ef8d368097b5",
+        "template--15376799498293__7da12547-59a5-4faa-bed7-e69480265a19-16680467312397aaa9-1",
+        "b1f1cd94-4e87-41ae-b059-e45a2986e839",
+        "c80aacc4-86d5-4f0f-9e99-6a315ecbab24",
+        "a30ac8b0-6265-4e40-947f-ac14f44d1d50",
+        "template--15376799498293__7da12547-59a5-4faa-bed7-e69480265a19-16680467312397aaa9-0",
+        "959545b3-9386-4e75-9e51-b477a3a9e03d",
+        "60a5ecc1-d0c0-4607-9788-556b1748c696",
+        "177f031d-90bc-4f31-871a-ba144492175e"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 75,
+        "mobile_height": 100,
+        "enable_autoplay": true,
+        "duration_autoplay": 4,
+        "navigation_alignment": "center",
+        "navigation_color_foreground": "#ffffff",
+        "navigation_color_background": "",
+        "navigation_background_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "none"
+      }
+    },
+    "1ab92b20-880b-49b4-ac63-70cb13febd25": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15452995485749__1ab92b20-880b-49b4-ac63-70cb13febd25-167657729151f7b017-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Linen Dunes Top",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "template--15452995485749__1ab92b20-880b-49b4-ac63-70cb13febd25-167657729151f7b017-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "introducing | Bronze + Black",
+            "subheading_font_class": "fs-heading-6-base"
+          }
+        },
+        "template--15452995485749__1ab92b20-880b-49b4-ac63-70cb13febd25-167657729151f7b017-2": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/linen-dunes-top",
+            "link_text": "SHOP NOW",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15452995485749__1ab92b20-880b-49b4-ac63-70cb13febd25-167657729151f7b017-0",
+        "template--15452995485749__1ab92b20-880b-49b4-ac63-70cb13febd25-167657729151f7b017-1",
+        "template--15452995485749__1ab92b20-880b-49b4-ac63-70cb13febd25-167657729151f7b017-2"
+      ],
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "center",
+        "image": "shopify:\/\/shop_images\/BecasaAugust2023-1429_a85f49b5-ff8a-4843-ac58-1dbdf9666467.jpg",
+        "aspect_ratio": "natural",
+        "focal_point": "center",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small": "shopify:\/\/shop_images\/BecasaAugust2023-1429_a85f49b5-ff8a-4843-ac58-1dbdf9666467.jpg",
+        "image_small_aspect_ratio": "natural",
+        "image_small_focal_point": "center",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "72cfcdbc-1917-4fb1-b91f-8822526f9943": {
+      "type": "video-hero",
+      "blocks": {
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-0": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Video hero",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this section to promote a particular feature with editorial video.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-3": {
+          "type": "play-button",
+          "disabled": true,
+          "settings": {
+            "video_url": "",
+            "aspect_ratio": "square",
+            "text": "Watch now",
+            "icon_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-0",
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-1",
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-2",
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 80,
+        "mobile_height": 80,
+        "media_link": "",
+        "focal_point": "center",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "5db70220-8dd3-4c68-9522-4d4dc22bb4f8": {
+      "type": "image-hero",
+      "blocks": {
+        "template--15477137113141__5db70220-8dd3-4c68-9522-4d4dc22bb4f8-1684774301e4e4c0c8-0": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "template--15477137113141__5db70220-8dd3-4c68-9522-4d4dc22bb4f8-1684774301e4e4c0c8-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image hero",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--15477137113141__5db70220-8dd3-4c68-9522-4d4dc22bb4f8-1684774301e4e4c0c8-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "template--15477137113141__5db70220-8dd3-4c68-9522-4d4dc22bb4f8-1684774301e4e4c0c8-0",
+        "template--15477137113141__5db70220-8dd3-4c68-9522-4d4dc22bb4f8-1684774301e4e4c0c8-1",
+        "template--15477137113141__5db70220-8dd3-4c68-9522-4d4dc22bb4f8-1684774301e4e4c0c8-2"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 85,
+        "mobile_height": 85,
+        "image": "shopify:\/\/shop_images\/BecasaAugust2023-0542.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-0652_57a49582-759f-488c-9254-3107dc4d1e81.jpg",
+        "focal_point": "center",
+        "mobile_focal_point": "center",
+        "media_link": "shopify:\/\/products\/scout-peasant-top",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "71a826c1-83cd-4f34-bcd3-171f8fc51493": {
+      "type": "featured-product",
+      "blocks": {
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-product_header-1": {
+          "type": "product_header",
+          "settings": {
+            "show_divider": true,
+            "show_vendor": false,
+            "show_sku": false,
+            "show_discount": true,
+            "discount_format": "percent_off",
+            "show_product_rating": false,
+            "show_sale_badge": true,
+            "show_custom_badges": true
+          }
+        },
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_popup_option": "Size",
+            "variant_popup_icon": "none",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": "",
+            "swatch_size": "medium",
+            "chip_layout": "3col"
+          }
+        },
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+            "show_labels": true
+          }
+        },
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-description-1": {
+          "type": "description",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "column_placement": "right",
+            "display_as_collapsible_row": true,
+            "expand_by_default": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-product_header-1",
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-variant_picker-1",
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-quantity_selector-1",
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-buy_buttons-1",
+        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-description-1"
+      ],
+      "settings": {
+        "featured_product": "linen-tilda-slipover",
+        "gallery_size": "medium",
+        "enable_video_looping": true,
+        "enable_product_lightbox": true,
+        "image_aspect_ratio": "portrait",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "5150decb-e44c-41bf-a9bc-491a7173d262": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15554391310389__5150decb-e44c-41bf-a9bc-491a7173d262-slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-2450.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-2408.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "persimmon",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link_text_1": "BECASA crewneck sweatshirts",
+            "button_style_1": "btn--secondary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 13
+          }
+        },
+        "template--15554391310389__5150decb-e44c-41bf-a9bc-491a7173d262-slide-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BECASA-9244.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BECASA-9709.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "RESTOCKED!",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link_text_1": "SHOP JETTY CREWNECK",
+            "button_style_1": "btn--secondary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        },
+        "53c9ed6f-9ff8-4e98-812d-05cabc7c17ce": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BECASA-9341_3ca5ddd5-79bd-49da-8ce4-8596f1022959.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BECASA-9341_3ca5ddd5-79bd-49da-8ce4-8596f1022959.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "template--15554391310389__5150decb-e44c-41bf-a9bc-491a7173d262-slide-2",
+        "template--15554391310389__5150decb-e44c-41bf-a9bc-491a7173d262-slide-1",
+        "53c9ed6f-9ff8-4e98-812d-05cabc7c17ce"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "enable_autoplay": true,
+        "duration_autoplay": 6,
+        "navigation_alignment": "center",
+        "navigation_color_foreground": "#ffffff",
+        "navigation_color_background": "",
+        "navigation_background_opacity": 100,
+        "enable_animation": true,
+        "section_padding": "none"
+      }
+    },
+    "ecf923bb-5df9-490a-a136-852ed7481b68": {
+      "type": "image-hero-split",
+      "blocks": {
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-2450_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-2450_1.jpg",
+            "focal_point": "top",
+            "mobile_focal_point": "center",
+            "title": "",
+            "text": "",
+            "link": "https:\/\/shopbecasa.com\/collections\/rachel-november\/products\/crewneck-sweatshirt-1?variant=42596530356277",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-2467.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-2467.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "title": "",
+            "text": "",
+            "link": "https:\/\/shopbecasa.com\/collections\/rachel-november\/products\/crewneck-sweatshirt-1?variant=42596530356277",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0",
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "text_position": "center",
+        "text_color": "#111111",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#111111",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 7,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "d4adabce-8189-4c09-aee5-fb53b4ef25b4": {
+      "type": "image-hero",
+      "blocks": {
+        "template--15477137113141__d4adabce-8189-4c09-aee5-fb53b4ef25b4-1681321241d2766287-0": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "template--15477137113141__d4adabce-8189-4c09-aee5-fb53b4ef25b4-1681321241d2766287-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image hero",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--15477137113141__d4adabce-8189-4c09-aee5-fb53b4ef25b4-1681321241d2766287-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Second Summer<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "dafab0b4-9223-4639-84b6-71b2c8911664": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "NEW ARRIVALS",
+            "subheading_font_class": "fs-heading-4-base"
+          }
+        },
+        "81d49fa0-09d8-4022-b3a5-17d972dfe805": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "NEW ARRIVALS",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "bdb40340-cf22-47f7-87c7-36d681bd672b": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link_text": "NEW CREWNECK COLOR",
+            "button_style": "btn--callout"
+          }
+        }
+      },
+      "block_order": [
+        "template--15477137113141__d4adabce-8189-4c09-aee5-fb53b4ef25b4-1681321241d2766287-0",
+        "template--15477137113141__d4adabce-8189-4c09-aee5-fb53b4ef25b4-1681321241d2766287-1",
+        "template--15477137113141__d4adabce-8189-4c09-aee5-fb53b4ef25b4-1681321241d2766287-2",
+        "dafab0b4-9223-4639-84b6-71b2c8911664",
+        "81d49fa0-09d8-4022-b3a5-17d972dfe805",
+        "bdb40340-cf22-47f7-87c7-36d681bd672b"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 60,
+        "mobile_height": 60,
+        "image": "shopify:\/\/shop_images\/BecasaAugust2023-2450.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-2450.jpg",
+        "focal_point": "center",
+        "mobile_focal_point": "center",
+        "media_link": "https:\/\/shopbecasa.com\/collections\/august-2023-launch\/products\/margo-midi-dress?variant=42439956234293",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "16548834739d532589": {
+      "type": "shoppable-feature",
+      "blocks": {
+        "16548834735b1dc2a7-1": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "linen-dunes-top",
+            "horizontal_position": 29,
+            "vertical_position": 39
+          }
+        },
+        "f6a7acc9-d502-4cf8-83bd-4e2b0200174d": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product_item": "linen-dunes-top",
+            "horizontal_position": 54,
+            "vertical_position": 60
+          }
+        },
+        "2a6ef1ba-e603-4443-bc22-db2d32e587e3": {
+          "type": "hotspot",
+          "disabled": true,
+          "settings": {
+            "product_item": "",
+            "horizontal_position": 50,
+            "vertical_position": 50
+          }
+        }
+      },
+      "block_order": [
+        "16548834735b1dc2a7-1",
+        "f6a7acc9-d502-4cf8-83bd-4e2b0200174d",
+        "2a6ef1ba-e603-4443-bc22-db2d32e587e3"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BecasaAugust2023-1466.jpg",
+        "image_position": "left",
+        "image_size": 50,
+        "aspect_ratio": "portrait_alt",
+        "heading": "",
+        "subheading": "",
+        "link": "",
+        "link_text": "SHOP THE LOOK",
+        "button_style": "btn--callout",
+        "enable_animation": false,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_position_desktop": "outside"
+      }
+    },
+    "6ab7aec1-b72d-4e90-a96e-10f04f723c48": {
+      "type": "promo-banner",
+      "disabled": true,
+      "settings": {
+        "min_height": 390,
+        "min_height_mobile": 500,
+        "left_column_width": 61,
+        "giant_heading": "<p>PRESALE OPEN<\/p>",
+        "giant_heading_font_size": 62,
+        "giant_heading_font_size_mobile": 50,
+        "left_column_alignment": "left",
+        "left_column_alignment_mobile": "left",
+        "heading": "Saints of Old Florida",
+        "heading_font_class": "fs-heading-3-base",
+        "text": "<p>a coastal lifestyle book <br\/><br\/>Preorder your copies today. Thrilled for its first reprint in years - secure a copy for yourself, to gift or stash away for years to come. Old Florida lives in our hearts forever ... x Emily<\/p>",
+        "right_column_alignment": "left",
+        "right_column_alignment_mobile": "left",
+        "link": "shopify:\/\/products\/saints-of-old-florida-a-coastal-lifestyle-book",
+        "link_text": "PREORDER NOW",
+        "button_style": "btn--primary",
+        "link_2": "",
+        "link_text_2": "",
+        "button_style_2": "btn--primary",
+        "image": "shopify:\/\/shop_images\/SOF_Product_Shots-50.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/SOF_Product_Shots-50.jpg",
+        "focal_point": "center",
+        "mobile_focal_point": "center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#0b0a0a",
+        "background_color": "#eee6e7",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 36,
+        "enable_animation": true,
+        "show_frame": false,
+        "full_width": false,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "fa899858-de05-4b36-8335-323075588e0c": {
+      "type": "newsletter",
+      "blocks": {
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-0": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "space": 40
+          }
+        },
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-1": {
+          "type": "heading",
+          "settings": {
+            "title": "JOIN OUR NEWSLETTER",
+            "heading_font_class": "fs-heading-3-base"
+          }
+        },
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>stay in the loop.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-3": {
+          "type": "spacer",
+          "settings": {
+            "space": 4
+          }
+        },
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-4": {
+          "type": "newsletter_signup",
+          "settings": {
+            "signup_link_text": "Sign up"
+          }
+        },
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-5": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "space": 40
+          }
+        }
+      },
+      "block_order": [
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-0",
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-1",
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-2",
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-3",
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-4",
+        "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-5"
+      ],
+      "settings": {
+        "alignment": "center",
+        "focal_point": "center",
+        "background_color": "#ffffff",
+        "text_color": "#000000",
+        "input_color": "#000000",
+        "input_background": "#ffffff",
+        "button_background_color": "#0b0a0a",
+        "button_text_color": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 700
+      }
+    },
+    "b849cb16-b99c-46a5-a478-b739f87071d2": {
+      "type": "grid",
+      "blocks": {
+        "template--15376799498293__b849cb16-b99c-46a5-a478-b739f87071d2-1668048956d3f88e45-0": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 560,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/Film-16.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Film-16.jpg",
+            "media_fit": "cover",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "About",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/pages\/about",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 10
+          }
+        },
+        "template--15376799498293__b849cb16-b99c-46a5-a478-b739f87071d2-1668048956d3f88e45-1": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/Becasa-July-2564.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Becasa-July-2564.jpg",
+            "media_fit": "cover",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Visit us",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/pages\/our-stores",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 11
+          }
+        }
+      },
+      "block_order": [
+        "template--15376799498293__b849cb16-b99c-46a5-a478-b739f87071d2-1668048956d3f88e45-0",
+        "template--15376799498293__b849cb16-b99c-46a5-a478-b739f87071d2-1668048956d3f88e45-1"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "content_alignment": "left",
+        "enable_animation": true,
+        "full_width": false,
+        "spacing": 24,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "16548801325228c324": {
+      "type": "blog-posts",
+      "settings": {
+        "heading": "JOURNAL",
+        "subheading": "",
+        "button_link": "",
+        "link_text": "View all posts",
+        "display_type": "all",
+        "blog": "news",
+        "max_articles": 2,
+        "show_tags": true,
+        "show_author": false,
+        "show_date": true,
+        "show_excerpt": true,
+        "show_featured_image": true,
+        "aspect_ratio": "landscape",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "1668050752213aaea5": {
+      "type": "apps",
+      "blocks": {
+        "e64e55ea-619f-4614-a210-99d5d62cf2d4": {
+          "type": "shopify:\/\/apps\/maestrooo-section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
+          "settings": {
+            "title": "JOIN US ON INSTAGRAM",
+            "subheading": "",
+            "button_text": "",
+            "button_link": "",
+            "layout": "grid",
+            "image_size": "large",
+            "add_spacing": false,
+            "rows_count": 2,
+            "show_author": false,
+            "show_caption": true,
+            "show_date": false,
+            "click_action": "open_instagram",
+            "heading_color": "#000000",
+            "subheading_color": "#000000",
+            "button_background": "#000000",
+            "button_color": "#ffffff",
+            "overlay_color": "#a77a06",
+            "overlay_text_color": "#ffffff",
+            "overlay_opacity": 65
+          }
+        }
+      },
+      "block_order": [
+        "e64e55ea-619f-4614-a210-99d5d62cf2d4"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "01ffb404-403f-4ca8-a4b9-e6b50f94da3e",
+    "9904d35a-b0c1-4760-9f4c-82c5783d55f0",
+    "image_with_text_fn8ipJ",
+    "3c8c13e6-f86e-43f5-a617-701f26007732",
+    "3a2d7467-0626-4894-bbb0-e4eb846771d1",
+    "16558445044f80743b",
+    "78432426-6df3-40c1-935f-3c905f16913f",
+    "713701db-85db-49b4-b65c-a9567ca86c05",
+    "f0d3ab67-bc81-4459-b5f1-afea099f386f",
+    "7ac8e2ee-169d-414e-8b56-2676cc72d5a1",
+    "2b9f7d63-bf6e-4b90-9369-a11a2b31c92d",
+    "7da12547-59a5-4faa-bed7-e69480265a19",
+    "1ab92b20-880b-49b4-ac63-70cb13febd25",
+    "72cfcdbc-1917-4fb1-b91f-8822526f9943",
+    "5db70220-8dd3-4c68-9522-4d4dc22bb4f8",
+    "71a826c1-83cd-4f34-bcd3-171f8fc51493",
+    "5150decb-e44c-41bf-a9bc-491a7173d262",
+    "ecf923bb-5df9-490a-a136-852ed7481b68",
+    "d4adabce-8189-4c09-aee5-fb53b4ef25b4",
+    "16548834739d532589",
+    "6ab7aec1-b72d-4e90-a96e-10f04f723c48",
+    "fa899858-de05-4b36-8335-323075588e0c",
+    "b849cb16-b99c-46a5-a478-b739f87071d2",
+    "16548801325228c324",
+    "1668050752213aaea5"
+  ]
+}
