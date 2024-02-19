@@ -42,10 +42,10 @@
         "meganav-0": {
           "type": "full_width_meganav",
           "settings": {
-            "dropdown_parent_link": "",
-            "column_count": 2,
+            "dropdown_parent_link": "Shop",
+            "column_count": 3,
             "show_column_borders": true,
-            "show_promo": true,
+            "show_promo": false,
             "promo_width": 700,
             "promo_height": 400,
             "secondary_position": "right",
