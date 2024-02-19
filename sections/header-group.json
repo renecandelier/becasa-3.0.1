@@ -98,7 +98,7 @@
         "logo_width": 170,
         "mobile_logo_width": 90,
         "menu": "2-0-main-menu",
-        "secondary_menu": "",
+        "secondary_menu": "top-right-menu",
         "enable_transparent_on_home": false,
         "enable_transparent_template_list": "",
         "logo_transparent": "shopify:\/\/shop_images\/BECASA.png",
