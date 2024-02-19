@@ -1487,7 +1487,6 @@
         "81d49fa0-09d8-4022-b3a5-17d972dfe805",
         "bdb40340-cf22-47f7-87c7-36d681bd672b"
       ],
-      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 60,
@@ -1507,58 +1506,6 @@
         "overlay_opacity": 0,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
-      }
-    },
-    "16548834739d532589": {
-      "type": "shoppable-feature",
-      "blocks": {
-        "16548834735b1dc2a7-1": {
-          "type": "hotspot",
-          "settings": {
-            "product_item": "linen-dunes-top",
-            "horizontal_position": 29,
-            "vertical_position": 39
-          }
-        },
-        "f6a7acc9-d502-4cf8-83bd-4e2b0200174d": {
-          "type": "hotspot",
-          "disabled": true,
-          "settings": {
-            "product_item": "linen-dunes-top",
-            "horizontal_position": 54,
-            "vertical_position": 60
-          }
-        },
-        "2a6ef1ba-e603-4443-bc22-db2d32e587e3": {
-          "type": "hotspot",
-          "disabled": true,
-          "settings": {
-            "product_item": "",
-            "horizontal_position": 50,
-            "vertical_position": 50
-          }
-        }
-      },
-      "block_order": [
-        "16548834735b1dc2a7-1",
-        "f6a7acc9-d502-4cf8-83bd-4e2b0200174d",
-        "2a6ef1ba-e603-4443-bc22-db2d32e587e3"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BecasaAugust2023-1466.jpg",
-        "image_position": "left",
-        "image_size": 50,
-        "aspect_ratio": "portrait_alt",
-        "heading": "",
-        "subheading": "",
-        "link": "",
-        "link_text": "SHOP THE LOOK",
-        "button_style": "btn--callout",
-        "enable_animation": false,
-        "divider_style": "solid",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_position_desktop": "outside"
       }
     },
     "6ab7aec1-b72d-4e90-a96e-10f04f723c48": {
@@ -1833,7 +1780,6 @@
     "5150decb-e44c-41bf-a9bc-491a7173d262",
     "ecf923bb-5df9-490a-a136-852ed7481b68",
     "d4adabce-8189-4c09-aee5-fb53b4ef25b4",
-    "16548834739d532589",
     "6ab7aec1-b72d-4e90-a96e-10f04f723c48",
     "fa899858-de05-4b36-8335-323075588e0c",
     "b849cb16-b99c-46a5-a478-b739f87071d2",
