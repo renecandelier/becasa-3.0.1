@@ -36,7 +36,10 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false
+            "show_dynamic_checkout": false,
+            "enable_sticky_atc_bar_desktop": false,
+            "enable_sticky_atc_bar_mobile": false,
+            "divider_width": "none"
           }
         },
         "description": {
@@ -109,7 +112,8 @@
             "label": "Availability",
             "inventory_max": "100",
             "low_inventory_threshold": "5",
-            "show_status_bar": true
+            "show_status_bar": true,
+            "show_untracked_quantity": false
           }
         }
       },
@@ -130,11 +134,15 @@
         "show_breadcrumbs": false,
         "show_navigation_buttons": false,
         "gallery_style": "thumbnails",
+        "gallery_style_mobile": "carousel",
         "gallery_size": "medium",
         "gallery_overflow": "never",
+        "enable_mobile_carousel_looping": false,
         "enable_video_looping": true,
         "enable_product_lightbox": true,
         "image_aspect_ratio": "natural",
+        "enable_multiple_variant_media": false,
+        "enable_gift_card_recipient": true,
         "enable_animation": true
       }
     },
