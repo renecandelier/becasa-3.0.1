@@ -27,10 +27,18 @@
         },
         "button_GGMxag": {
           "type": "button",
+          "disabled": true,
           "settings": {
-            "link": "shopify:\/\/collections\/resort-presale",
-            "link_text": "shop the resort dress presale",
+            "link": "shopify:\/\/collections\/becasa-x-l-williams",
+            "link_text": "L WILLIAMS X BECASA",
             "button_style": "btn--primary"
+          }
+        },
+        "text_aQMVpj": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><em>L WILLIAMS x BECASA<\/em><\/h1>",
+            "text_font_class": "fs-body-200"
           }
         }
       },
@@ -38,17 +46,18 @@
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-accent-1",
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-heading-1",
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-text-1",
-        "button_GGMxag"
+        "button_GGMxag",
+        "text_aQMVpj"
       ],
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/VSP_3350.jpg",
+        "image": "shopify:\/\/shop_images\/029A7004.jpg",
         "image_mobile": "shopify:\/\/shop_images\/VSP_3337.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
-        "media_link": "shopify:\/\/collections\/resort-presale",
+        "media_link": "shopify:\/\/collections\/becasa-x-l-williams",
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
@@ -612,6 +621,7 @@
           "type": "description",
           "disabled": true,
           "settings": {
+            "title": "Description",
             "text_font_class": "fs-body-100",
             "column_placement": "right",
             "display_as_collapsible_row": false,
@@ -633,6 +643,7 @@
         "enable_video_looping": true,
         "enable_product_lightbox": true,
         "image_aspect_ratio": "portrait",
+        "enable_gift_card_recipient": true,
         "enable_animation": true,
         "divider_style": "solid",
         "section_padding": "section--vertical-padding-top-bottom"
@@ -1092,6 +1103,7 @@
           "type": "play-button",
           "disabled": true,
           "settings": {
+            "video_source": "external",
             "video_url": "",
             "aspect_ratio": "square",
             "text": "Watch now",
@@ -1112,6 +1124,7 @@
         "mobile_height": 80,
         "media_link": "",
         "focal_point": "center",
+        "focal_point_mobile": "image_presentation",
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
@@ -1219,6 +1232,7 @@
         "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-description-1": {
           "type": "description",
           "settings": {
+            "title": "Description",
             "text_font_class": "fs-body-100",
             "column_placement": "right",
             "display_as_collapsible_row": true,
@@ -1239,6 +1253,7 @@
         "enable_video_looping": true,
         "enable_product_lightbox": true,
         "image_aspect_ratio": "portrait",
+        "enable_gift_card_recipient": true,
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
@@ -1791,6 +1806,10 @@
         "e64e55ea-619f-4614-a210-99d5d62cf2d4"
       ],
       "settings": {
+        "heading": "App section",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
       }
     }
   },
