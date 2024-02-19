@@ -135,13 +135,13 @@
         "show_navigation_buttons": false,
         "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
-        "gallery_size": "medium",
+        "gallery_size": "xlarge",
         "gallery_overflow": "never",
-        "enable_mobile_carousel_looping": false,
+        "enable_mobile_carousel_looping": true,
         "enable_video_looping": true,
         "enable_product_lightbox": true,
         "image_aspect_ratio": "natural",
-        "enable_multiple_variant_media": false,
+        "enable_multiple_variant_media": true,
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }
