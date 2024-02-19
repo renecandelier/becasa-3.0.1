@@ -131,7 +131,7 @@
       ],
       "settings": {
         "enable_sticky_product_details": true,
-        "show_breadcrumbs": false,
+        "show_breadcrumbs": true,
         "show_navigation_buttons": false,
         "gallery_style": "thumbnails",
         "gallery_style_mobile": "carousel",
