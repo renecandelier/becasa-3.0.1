@@ -178,7 +178,10 @@
             {{ 'sections.footer.rights' | t }}
             {{ 'sections.footer.see_terms' | t }}
           </p>
+{%- comment -%}
+***&&&***
           {{ section.settings.additional_copyright_text }}
+{%- endcomment -%}
           <p>{{ powered_by_link | replace: 'rel="nofollow"', 'rel="nofollow noopener"' }}</p>
         </div>
       </div>
