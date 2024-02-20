@@ -3372,7 +3372,6 @@ html.no-js .product__media-show-more{
         .product__media-item[data-aspect-ratio="portrait"] .media[data-media-type="video"] .plyr__video-wrapper,
         .product__media-item[data-aspect-ratio="portrait"] .media[data-media-type="video"] .plyr__poster,
         .product__media-item[data-aspect-ratio="portrait"] .media[data-media-type="video"] video{
-          aspect-ratio:var(--video-aspect-ratio);
           width:100%;
           height:auto;
           max-width:100%;
