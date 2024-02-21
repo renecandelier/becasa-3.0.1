@@ -185,15 +185,18 @@
             data-option-buttons
             data-product-option="option{{ option.position }}"
           >
-            <div
-              class="
-                product__color-swatches--inner
-                {% if dynamic_options %}
-                  dynamic-variant-input-wrap
-                {% endif %}
-              "
-              data-index="option{{ forloop.index }}"
-            >
+                      <div
+            class="
+              product__color-chips
+              {% if dynamic_options %}
+                dynamic-variant-input-wrap
+              {% endif %}
+            "
+            data-option-buttons
+            data-product-option="option{{ option.position }}"
+            data-index="option{{ forloop.index }}"
+            data-layout="{{ chip_layout }}"
+          >
               {%- for value in option.values -%}
                 <button
                   type="button"
@@ -231,7 +234,7 @@
           <!-- Handle chips -->
           <div
             class="
-              product__chip
+              product__color-chips
               {% if dynamic_options %}
                 dynamic-variant-input-wrap
               {% endif %}
