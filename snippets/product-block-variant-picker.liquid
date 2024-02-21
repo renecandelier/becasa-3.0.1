@@ -196,26 +196,23 @@
             >
               {%- for value in option.values -%}
                 {%- assign custom_swatch_image = value | handle | append: '.' | append: file_extension -%}
-                <button
-                  type="button"
-                  data-option-origin="{{ option.name }}"
-                  data-button
-                  data-label="{{ value | url_encode }}"
-                  aria-label="{{ value | replace: '"', "'" }}"
-                  data-option-value="{{ value | escape }}"
-                  data-option-handle="{{ value | handleize }}--{{ forloop.index0 }}"
-                  class="
-                  
-                    product__color-chips
-                    {% if option.selected_value == value %}
-                      selected
-                    {% endif %}
-                    {% if dynamic_options %}
-                      dynamic-variant-button
-                    {% endif %}
-                  "
-                  
-                  >
+               <button
+                type="button"
+                data-button
+                data-label="{{ value | url_encode }}"
+                aria-label="{{ value | replace: '"', "'" }}"
+                data-option-value="{{ value | escape }}"
+                data-option-handle="{{ value | handleize }}--{{ forloop.index0 }}"
+                class="
+                  product__chip
+                  {% if option.selected_value == value %}
+                    selected
+                  {% endif %}
+                  {% if dynamic_options %}
+                    dynamic-variant-button
+                  {% endif %}
+                "
+              >
                  
                                 {{ value }}
 
