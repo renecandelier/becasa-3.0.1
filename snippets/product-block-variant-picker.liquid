@@ -195,6 +195,7 @@
               data-index="option{{ forloop.index }}"
             >
               {%- for value in option.values -%}
+                {%- assign custom_swatch_image = value | handle | append: '.' | append: file_extension -%}
                 <button
                   type="button"
                   data-option-origin="{{ option.name }}"
@@ -203,6 +204,8 @@
                   aria-label="{{ value | replace: '"', "'" }}"
                   data-option-value="{{ value | escape }}"
                   data-option-handle="{{ value | handleize }}--{{ forloop.index0 }}"
+                  data-shape="{{ swatch_shape }}"
+                  data-size="{{ swatch_size }}"
                   class="
                   
                     product__chip
