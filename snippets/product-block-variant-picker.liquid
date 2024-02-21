@@ -195,8 +195,7 @@
               data-index="option{{ forloop.index }}"
             >
               {%- for value in option.values -%}
-                {%- assign custom_swatch_image = value | handle | append: '.' | append: file_extension -%}
-               <button
+                <button
                 type="button"
                 data-button
                 data-label="{{ value | url_encode }}"
