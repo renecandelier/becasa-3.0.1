@@ -51,7 +51,7 @@
       %}
     </{{ media_link_element }}>
   {%- elsif media.media_type == 'video' -%}
-    {{ media | video_tag: image_size: '1024x' }}
+    {{ media | video_tag: autoplay: true, image_size: '1024x' }}
   {%- elsif media.media_type == 'external_video' -%}
     {%- liquid
       if loop_video
