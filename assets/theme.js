@@ -949,7 +949,7 @@ var pageTransition = (() => {
 * tabbable 5.3.3
 * @license MIT, https://github.com/focus-trap/tabbable/blob/master/LICENSE
 */
-var candidateSelectors = ['input', 'select', 'textarea', 'a[href]', 'button', '[tabindex]', 'audio[controls]', 'video[controls]', '[contenteditable]:not([contenteditable="false"])', 'details>summary:first-of-type', 'details'];
+var candidateSelectors = ['input', 'select', 'textarea', 'a[href]', 'button', '[tabindex]:not(slot)', 'audio[controls]', 'video[controls]', '[contenteditable]:not([contenteditable="false"])', 'details>summary:first-of-type', 'details'];
 var candidateSelector = /* #__PURE__ */candidateSelectors.join(',');
 var NoElement = typeof Element === 'undefined';
 var matches = NoElement ? function () {} : Element.prototype.matches || Element.prototype.msMatchesSelector || Element.prototype.webkitMatchesSelector;
@@ -5363,106 +5363,20 @@ function OptionButtons(els) {
   };
 }
 function createOptionGroup(el) {
-  var select = n$2("select", el);
-  var buttons = t$2("[data-button]", el);
-  var buttonClick = e$2(buttons, "click", e => {
+  const select = n$2("select", el);
+  const buttons = t$2("[data-button]", el);
+  const buttonClick = e$2(buttons, "click", e => {
     e.preventDefault();
-    
-    var buttonEl = e.currentTarget;
-    var optionHandle = buttonEl.dataset.optionHandle;
-    var optionHandleValue = buttonEl.dataset.optionValue;
-    var colorOptionHandle = buttonEl.dataset.optionOrigin;
-   
-    const optionHandleValueLower = optionHandleValue.toLowerCase();
-     
-    const productThumb = document.querySelectorAll(".product-thumbnails__items img");
-    const mainProductThumb = document.querySelectorAll(".product__media-container img");
-    const carouselWrapper = document.querySelector(".product__media.carousel__wrapper.swiper-wrapper")
-    const carouselMobile = document.querySelector(".below-mobile.swiper");
-    if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
-       productThumb.forEach(thumb => {
-      const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement
-      
-      if(optionHandleValueLower !== thumb.alt.toLowerCase()){
-        //console.log("optionHandleValueLower",optionHandleValueLower, thumb.alt.toLowerCase())
-        thumbParent.classList.add("hide__img");
-        thumbParent.classList.remove("visible__img");   
-         
-      }else {
-        console.log("optionHandleValueLower",optionHandleValueLower, thumb.alt.toLowerCase())
-        thumbParent.classList.add("visible__img");
-        thumbParent.classList.remove("hide__img", "hidden");
-
-      }
-    })
-    }
-
-    if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
-       mainProductThumb.forEach(thumb => {
-      const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement.parentElement;
-      const lightThumbParent = thumb.parentElement.parentElement.parentElement;
-     
-      if(optionHandleValueLower !== thumb.alt.toLowerCase()){
-        thumbParent.classList.add("hide__img");
-        thumbParent.classList.remove("visible__img");
-
-        lightThumbParent.classList.add("lighthouse__hide_img");
-        lightThumbParent.classList.remove("lighthouse__visible_img");
-
-
-      
-      }else {
-        thumbParent.classList.add("visible__img");
-        thumbParent.classList.remove("hide__img", "hidden");
-        
-        lightThumbParent.classList.remove("lighthouse__hide_img");
-        lightThumbParent.classList.add("lighthouse__visible_img");
-      }
-    })
-    }
-
-    
-    
-   
-    //console.log("product-thumbnails__items",productThumb)
-    buttons.forEach(function (btn) {
+    const buttonEl = e.currentTarget;
+    const {
+      optionHandle
+    } = buttonEl.dataset;
+    buttons.forEach(btn => {
       l(btn, "selected", btn.dataset.optionHandle === optionHandle);
     });
-    var opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
-    console.log("OPT", opt, colorOptionHandle);
+    const opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
     opt.selected = true;
-
     select.dispatchEvent(new Event("change"));
-    // if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
-    //   select.dispatchEvent(new Event("change"));
-    // }
-
-
-    import(flu.chunks.swiper).then(function (_ref) {
-      var Swiper = _ref.Swiper,
-          Pagination = _ref.Pagination;
-        var mobileSwiper = new Swiper(carouselMobile, {
-        pagination: {
-          el: ".swiper-pagination",
-          type: "bullets",
-          dynamicBullets: true,
-          dynamicMainBullets: 3,
-          clickable: true
-        },
-        watchSlidesProgress: true,
-        autoHeight: true
-      });
-
-    });
-
-    // var swiper = new Swiper(carouselMobile, {
-    //   navigation: {
-    //     nextEl: '.swiper-button-next',
-    //     prevEl: '.swiper-button-prev',
-    //   }
-    // });
-    
-    
   });
   return () => buttonClick();
 }
@@ -6333,8 +6247,7 @@ const {
   icons: icons$1
 } = window.theme;
 function productLightbox() {
-  var lightboxImages = t$2(".lightbox-image.lighthouse__visible_img", document);
-  //const lightboxImages = t$2(".lightbox-image", document);
+  const lightboxImages = t$2(".lightbox-image", document);
   if (!lightboxImages.length) return;
   let productLightbox;
   import(flu.chunks.photoswipe).then(_ref => {
@@ -6344,7 +6257,7 @@ function productLightbox() {
     } = _ref;
     productLightbox = new PhotoSwipeLightbox({
       gallery: ".lightbox-media-container",
-      children: ".lightbox-image.lighthouse__visible_img",
+      children: ".lightbox-image",
       showHideAnimationType: "zoom",
       pswpModule: PhotoSwipe,
       mainClass: "pswp--product-lightbox",
