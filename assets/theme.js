@@ -5354,6 +5354,7 @@ function reviewsHandler (node, container) {
 
 function OptionButtons(els) {
   const groups = els.map(createOptionGroup);
+  console.log("Helllôo 111111")
   function destroy() {
     groups && groups.forEach(group => group());
   }
@@ -5364,6 +5365,7 @@ function OptionButtons(els) {
 }
 
 function createOptionGroup(el) {
+  console.log("Helllôo 2222")
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
           console.log("CLICKED 1",productThumb)
