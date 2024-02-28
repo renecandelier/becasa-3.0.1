@@ -250,8 +250,8 @@
   >
     <div class="product__primary-left">
       {% if gallery_style_mobile == 'carousel' -%}
-        <div class="product__media-container below-mobile carousel swiper{% if section.settings.enable_product_lightbox %} lightbox-media-container{% endif %}">
-          <div class="product__media carousel__wrapper swiper-wrapper">
+        <div class="product__media-container below-mobile carousel {% if section.settings.enable_product_lightbox %} lightbox-media-container{% endif %}">
+          <div class="product__media">
             {%- assign media_index = 0 -%}
 
             {% for media in product.media -%}
@@ -279,13 +279,14 @@
                 endif
               -%}
               <div
-                class="product__media-item carousel_slide swiper-slide"
+                class="product__media-item"
                 data-is-featured="{{ is_featured_media }}"
                 data-slide-index="{{ media_index }}"
                 data-media-item-id="{{ media.id }}"
                 data-media-type="{{ media.media_type }}"
                 data-product-media-wrapper
                 data-aspect-ratio="{{ media_aspect_ratio }}"
+                {% if product.selected_or_first_available_variant.featured_media.alt != blank and product.selected_or_first_available_variant.featured_media.alt != media.alt %}style="display: none"{% endif %}
               >
                 {% render 'media',
                   fallback_alt: product.title,
@@ -296,7 +297,8 @@
                   aspect_ratio: media_aspect_ratio,
                   sizes: '90vw',
                   prioritize_loading: prioritize_loading,
-                  within_carousel: true
+                  within_carousel: true,
+                  product:product
                 %}
               </div>
 
