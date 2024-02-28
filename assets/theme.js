@@ -5366,7 +5366,11 @@ function OptionButtons(els) {
 function createOptionGroup(el) {
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
+          console.log("CLICKED 1",productThumb)
+
   var buttonClick = e$2(buttons, "click", function (e) {
+        console.log("CLICKED 2 ",productThumb)
+
     e.preventDefault();
     
     var buttonEl = e.currentTarget;
