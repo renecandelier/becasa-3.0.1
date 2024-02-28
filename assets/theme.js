@@ -5433,9 +5433,9 @@ function createOptionGroup(el) {
     opt.selected = true;
 
     select.dispatchEvent(new Event("change"));
-    // if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
-    //   select.dispatchEvent(new Event("change"));
-    // }
+     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
+       select.dispatchEvent(new Event("change"));
+    }
 
 
     import(flu.chunks.swiper).then(function (_ref) {
