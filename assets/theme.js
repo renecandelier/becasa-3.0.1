@@ -5435,6 +5435,7 @@ function createOptionGroup(el) {
     console.log("product-thumbnails__items",productThumb)
     buttons.forEach(function (btn) {
       l(btn, "selected", btn.dataset.optionHandle === optionHandle);
+      console.log("Helllôo 2222")
     });
     var opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
     console.log("OPT", opt, colorOptionHandle);
