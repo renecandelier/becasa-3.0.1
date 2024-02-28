@@ -30,7 +30,7 @@
     </button>
     <div class="product-thumbnails__viewport" data-scroll-container-viewport>
       <div class="scroll-sentinal scroll-sentinal--start" data-position="start"></div>
-      <ul class="product-thumbnails__items">
+      <ul class="product-thumbnails__items" {% if product.selected_or_first_available_variant.featured_media.alt != blank and product.selected_or_first_available_variant.featured_media.alt != media.alt %}style="display: none"{% endif %}>
         {% for media in product.media %}
           {% if forloop.index < initial_variant_media_position or forloop.index > next_variant_media_index %}
             {% continue %}
