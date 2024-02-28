@@ -5405,10 +5405,11 @@ function createOptionGroup(el) {
     }
 
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
+      console.log("Helllôo 4444")
        mainProductThumb.forEach(thumb => {
       const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement.parentElement;
       const lightThumbParent = thumb.parentElement.parentElement.parentElement;
-     
+     console.log("Helllôo 777")
       if(optionHandleValueLower !== thumb.alt.toLowerCase()){
         thumbParent.classList.add("hide__img");
         thumbParent.classList.remove("visible__img");
@@ -5430,7 +5431,7 @@ function createOptionGroup(el) {
 
     
     
-   
+   console.log("Helllôo 33333")
     console.log("product-thumbnails__items",productThumb)
     buttons.forEach(function (btn) {
       l(btn, "selected", btn.dataset.optionHandle === optionHandle);
