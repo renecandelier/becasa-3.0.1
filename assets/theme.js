@@ -6346,7 +6346,7 @@ function productLightbox() {
     } = _ref;
     productLightbox = new PhotoSwipeLightbox({
       gallery: ".lightbox-media-container",
-       children: ".lightbox-image.lighthouse__visible_img",
+      children: ".lightbox-image.lighthouse__visible_img",
       showHideAnimationType: "zoom",
       pswpModule: PhotoSwipe,
       mainClass: "pswp--product-lightbox",
