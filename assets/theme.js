@@ -5362,6 +5362,7 @@ function OptionButtons(els) {
     destroy
   };
 }
+
 function createOptionGroup(el) {
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
@@ -5464,9 +5465,7 @@ function createOptionGroup(el) {
     
     
   });
-  return function () {
-    return buttonClick();
-  };
+  return () => buttonClick();
 }
 
 const selectors$M = {
