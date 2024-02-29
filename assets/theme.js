@@ -5318,11 +5318,11 @@ function updateBuyButton (btn, variant) {
     langSoldOut
   } = btn.dataset;
   if (!variant) {
-   btn.setAttribute("disabled", "disabled");
-    text.textContent = langSoldOut;
+    btn.setAttribute("disabled", "disabled");
+    text.textContent = langUnavailable;
   } else if (variant.available) {
-   btn.setAttribute("disabled", "disabled");
-    text.textContent = langSoldOut;
+    btn.removeAttribute("disabled");
+    text.textContent = langAvailable;
   } else {
     btn.setAttribute("disabled", "disabled");
     text.textContent = langSoldOut;
@@ -5405,7 +5405,7 @@ function createOptionGroup(el) {
     }
 
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
-      console.log("Helllôo 4444")
+      console.log("Helllôo 7")
        mainProductThumb.forEach(thumb => {
       const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement.parentElement;
       const lightThumbParent = thumb.parentElement.parentElement.parentElement;
@@ -5435,7 +5435,6 @@ function createOptionGroup(el) {
     console.log("product-thumbnails__items",productThumb)
     buttons.forEach(function (btn) {
       l(btn, "selected", btn.dataset.optionHandle === optionHandle);
-      console.log("Helllôo 2222")
     });
     var opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
     console.log("OPT", opt, colorOptionHandle);
