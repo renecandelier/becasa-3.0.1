@@ -5352,7 +5352,17 @@ function reviewsHandler (node, container) {
   i$1(accordion, classes$q.hidden);
 }
 
-
+function OptionButtons(els) {
+  const groups = els.map(createOptionGroup);
+  console.log("Helllôo 111111")
+  function destroy() {
+    groups && groups.forEach(group => group());
+  }
+  return {
+    groups,
+    destroy
+  };
+}
 
 function createOptionGroup(el) {
   var select = n$2("select", el);
