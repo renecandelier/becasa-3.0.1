@@ -5043,19 +5043,7 @@ const selectors$S = {
 const classes$r = {
   hidden: "hidden"
 };
-function switchImage (container, imageId, inYourSpaceButton) {
-  const newImage = n$2(selectors$S.imageWrapper + selectors$S.imageById(imageId), container);
-  const otherImages = t$2("".concat(selectors$S.imageWrapper, ":not(").concat(selectors$S.imageById(imageId), ")"), container);
-  newImage && i$1(newImage, classes$r.hidden);
 
-  // Update view in space button
-  if (inYourSpaceButton) {
-    if (newImage.dataset.mediaType === "model") {
-      inYourSpaceButton.setAttribute("data-shopify-model3d-id", newImage.dataset.mediaItemId);
-    }
-  }
-  otherImages.forEach(image => u$1(image, classes$r.hidden));
-}
 
 // This loads the polyfill chunk if necessary
 function provideResizeObserver() {
