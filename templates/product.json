@@ -134,7 +134,7 @@
         "show_breadcrumbs": true,
         "show_navigation_buttons": false,
         "gallery_style": "thumbnails",
-        "gallery_style_mobile": "grid",
+        "gallery_style_mobile": "carousel",
         "gallery_size": "xlarge",
         "gallery_overflow": "never",
         "enable_mobile_carousel_looping": true,
