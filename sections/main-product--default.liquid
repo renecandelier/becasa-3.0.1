@@ -302,13 +302,11 @@
 
               {%- assign media_index = media_index | plus: 1 -%}
             {%- else -%}
-              <div class="product__media-item placeholder-image">
-                {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
-              </div>
+              
             {%- endfor %}
           </div>
 
-
+          <div class="swiper-pagination"></div>
         </div>
       {%- else -%}
         {% comment -%}
