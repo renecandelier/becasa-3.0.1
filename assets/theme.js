@@ -5367,6 +5367,16 @@ function OptionButtons(els) {
   };
 }
 
+function OptionButtons(els) {
+  const groups = els.map(createOptionGroup);
+  function destroy() {
+    groups && groups.forEach(group => group());
+  }
+  return {
+    groups,
+    destroy
+  };
+}
 function createOptionGroup(el) {
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
@@ -6340,7 +6350,7 @@ const {
   icons: icons$1
 } = window.theme;
 function productLightbox() {
-  const lightboxImages = t$2(".lightbox-image", document);
+  var lightboxImages = t$2(".lightbox-image.lighthouse__visible_img", document);
   if (!lightboxImages.length) return;
   let productLightbox;
   import(flu.chunks.photoswipe).then(_ref => {
@@ -6350,7 +6360,7 @@ function productLightbox() {
     } = _ref;
     productLightbox = new PhotoSwipeLightbox({
       gallery: ".lightbox-media-container",
-      children: ".lightbox-image",
+      children: ".lightbox-image.lighthouse__visible_img",
       showHideAnimationType: "zoom",
       pswpModule: PhotoSwipe,
       mainClass: "pswp--product-lightbox",
