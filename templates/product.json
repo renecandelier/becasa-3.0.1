@@ -133,7 +133,7 @@
         "enable_sticky_product_details": true,
         "show_breadcrumbs": true,
         "show_navigation_buttons": false,
-        "gallery_style": "list",
+        "gallery_style": "grid",
         "gallery_style_mobile": "grid",
         "gallery_size": "xlarge",
         "gallery_overflow": "never",
