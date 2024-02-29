@@ -5369,7 +5369,8 @@ function createOptionGroup(el) {
   var buttons = t$2("[data-button]", el);
   var buttonClick = e$2(buttons, "click", function (e) {
     e.preventDefault();
-    
+      console.log("Helllôo 2222")
+
     var buttonEl = e.currentTarget;
     var optionHandle = buttonEl.dataset.optionHandle;
     var optionHandleValue = buttonEl.dataset.optionValue;
@@ -5428,6 +5429,8 @@ function createOptionGroup(el) {
    
     //console.log("product-thumbnails__items",productThumb)
     buttons.forEach(function (btn) {
+        console.log("Helllôo 333")
+
       l(btn, "selected", btn.dataset.optionHandle === optionHandle);
     });
     var opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
