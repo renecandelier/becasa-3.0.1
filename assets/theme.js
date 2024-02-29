@@ -5365,9 +5365,13 @@ function OptionButtons(els) {
 }
 
 function createOptionGroup(el) {
+    console.log("Helllôo 2222")
+
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
   var buttonClick = e$2(buttons, "click", e => {
+        console.log("Helllôo 444")
+
     e.preventDefault();
     
     var buttonEl = e.currentTarget;
@@ -5375,6 +5379,8 @@ function createOptionGroup(el) {
       optionHandle
     } = buttonEl.dataset;
     buttons.forEach(btn => {
+          console.log("Helllôo 3333")
+
       l(btn, "selected", btn.dataset.optionHandle === optionHandle);
     });
     const opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
