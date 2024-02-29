@@ -20,10 +20,7 @@
     }
 }
 
-document.addEventListener("product:variant-change", function (evt) {
-  console.log("Product variant changed");
-  console.log(evt.detail.variant);
-});
+
 
 document.addEventListener("product:variant-change", function (evt) {
   setTimeout(()=> {
