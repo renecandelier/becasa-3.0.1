@@ -5318,11 +5318,11 @@ function updateBuyButton (btn, variant) {
     langSoldOut
   } = btn.dataset;
   if (!variant) {
-    btn.setAttribute("disabled", "disabled");
-    text.textContent = langUnavailable;
+   btn.setAttribute("disabled", "disabled");
+    text.textContent = langSoldOut;
   } else if (variant.available) {
-    btn.removeAttribute("disabled");
-    text.textContent = langAvailable;
+   btn.setAttribute("disabled", "disabled");
+    text.textContent = langSoldOut;
   } else {
     btn.setAttribute("disabled", "disabled");
     text.textContent = langSoldOut;
