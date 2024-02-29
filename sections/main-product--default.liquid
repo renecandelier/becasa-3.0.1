@@ -286,7 +286,6 @@
                 data-media-type="{{ media.media_type }}"
                 data-product-media-wrapper
                 data-aspect-ratio="{{ media_aspect_ratio }}"
-                {% if product.selected_or_first_available_variant.featured_media.alt != blank and product.selected_or_first_available_variant.featured_media.alt != media.alt %}style="display: none"{% endif %}
               >
                 {% render 'media',
                   fallback_alt: product.title,
