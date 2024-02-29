@@ -5352,16 +5352,26 @@ function reviewsHandler (node, container) {
   i$1(accordion, classes$q.hidden);
 }
 
-function OptionButtons(els) {
-  const groups = els.map(createOptionGroup);
-  console.log("Helllôo 111111")
-  function destroy() {
-    groups && groups.forEach(group => group());
-  }
-  return {
-    groups,
-    destroy
-  };
+
+
+function createOptionGroup(el) {
+  var select = n$2("select", el);
+  var buttons = t$2("[data-button]", el);
+  var buttonClick = e$2(buttons, "click", e => {
+    e.preventDefault();
+    
+    var buttonEl = e.currentTarget;
+    const {
+      optionHandle
+    } = buttonEl.dataset;
+    buttons.forEach(btn => {
+      l(btn, "selected", btn.dataset.optionHandle === optionHandle);
+    });
+    const opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
+    opt.selected = true;
+    select.dispatchEvent(new Event("change"));
+  });
+  return () => buttonClick();
 }
 
 const selectors$M = {
