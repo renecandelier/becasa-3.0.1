@@ -406,64 +406,7 @@
               --overflow-gallery-transition-multiplier: {{ transition_multiplier }};
             "
           {%- endif %}
-        >
-          {% for media in product.media -%}
-            {% liquid
-              if forloop.index < initial_variant_media_position or forloop.index > next_variant_media_index
-                continue
-              endif
-
-              assign media_aspect_ratio = image_aspect_ratio
-
-              if media.media_type == 'model'
-                assign media_aspect_ratio = 'square'
-              endif
-            -%}
-            <div
-              class="
-                product__media-item
-                {% if forloop.index0 >= media_show_limit %}product__media-item--hide-on-load{% endif %}
-                {% unless media.id == featured_media.id or gallery_style != "thumbnails" %}hidden{% endunless %}
-                animation--product-media
-              "
-              data-media-item-id="{{ media.id }}"
-              data-media-type="{{ media.media_type }}"
-              data-product-media-wrapper
-              {% if gallery_style == 'grid' or media.media_type == 'image' or media.media_type == 'model' -%}
-                data-aspect-ratio="{{ media_aspect_ratio }}"
-              {%- endif %}
-            >
-              {% render 'media',
-                media: media,
-                fallback_alt: product.title,
-                featured_media: featured_media,
-                enable_product_lightbox: section.settings.enable_product_lightbox,
-                loop_video: section.settings.enable_video_looping,
-                aspect_ratio: media_aspect_ratio,
-                sizes: desktop_image_sizes_attribute,
-                animate: true
-              %}
-            </div>
-          {%- else -%}
-            <div class="product__media-item placeholder-image">
-              {{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}
-            </div>
-          {%- endfor %}
-
-          {% if over_media_show_limit -%}
-            <div class="product__media-show-more" data-more-media-bar>
-              <button
-                class="btn btn--tertiary btn--small"
-                type="button"
-                data-more-media
-                data-lang-more-media="{{ 'products.product.more_media' | t | escape }}"
-                data-lang-less-media="{{ 'products.product.less_media' | t | escape }}"
-              >
-                {{ 'products.product.more_media' | t }}
-              </button>
-            </div>
-          {%- endif %}
-        </div>
+        ></div>
       </div>
 
       {% if first_3d_model -%}
