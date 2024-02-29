@@ -287,7 +287,17 @@
                 data-product-media-wrapper
                 data-aspect-ratio="{{ media_aspect_ratio }}"
               >
-                
+                {% render 'media',
+                  fallback_alt: product.title,
+                  media: media,
+                  featured_media: featured_media,
+                  enable_product_lightbox: section.settings.enable_product_lightbox,
+                  loop_video: section.settings.enable_video_looping,
+                  aspect_ratio: media_aspect_ratio,
+                  sizes: '90vw',
+                  prioritize_loading: prioritize_loading,
+                  within_carousel: true
+                %}
               </div>
 
               {%- assign media_index = media_index | plus: 1 -%}
