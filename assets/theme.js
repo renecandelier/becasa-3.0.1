@@ -6582,11 +6582,9 @@ class Product {
     if (this.isFullProduct && this.productHandle !== null) {
       updateRecentProducts(this.productHandle);
     }
-    this._loadMedia();
     this._initEvents();
 
     // Handle dynamic variant options
-    this.variantAvailability = variantAvailability(this.container);
 
     // Handle sibling products
     this.siblingProducts = siblingProducts(this.container);
