@@ -6564,9 +6564,7 @@ class Product {
     this.customOptionInputs = t$2(selectors$E.customOptionInputs, this.container);
     this.socialButtons = t$2("[data-social-share]", this.container);
     this.featuredProducts = featuredProducts(this.container);
-    if (enableStickyContainer === "true") {
-      this._initStickyScroll();
-    }
+    
     this._loadAccordions();
     this.optionButtons = OptionButtons(t$2("[data-option-buttons]", this.container));
     this.informationPopup = informationPopup(this.container);
