@@ -5405,7 +5405,7 @@ function createOptionGroup(el) {
     }
 
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
-      console.log("Helllôo 7")
+      console.log("Helllôo")
        mainProductThumb.forEach(thumb => {
       const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement.parentElement;
       const lightThumbParent = thumb.parentElement.parentElement.parentElement;
@@ -6597,7 +6597,35 @@ class Product {
     // Sticky ATC Bar
     this.stickyAtcBar = stickyAtcBar(this.container);
   }
+  _initEvents() {
+    this.events = [e$2(this.productThumbnailItems, "click", e => {
+      e.preventDefault();
+      const {
+        currentTarget: {
+          dataset
+        }
+      } = e;
+      this.productThumbnailItems.forEach(thumb => i$1(thumb, "active"));
+      u$1(e.currentTarget, "active");
+      switchImage(this.desktopMedia, dataset.thumbnailId, this.viewInYourSpace);
+    })];
 
+    // Adds listeners for each custom option, to sync input changes
+    if (this.customOptionInputs) {
+      this.customOptionInputs.forEach(input => {
+        const id = input.dataset.customOptionInput;
+        const target = n$2(selectors$E.customOptionInputTargetsById(id), this.container);
+        this.events.push(e$2(input, "change", e => {
+          // Update the hidden input within the form, per type
+          if (e.target.type === "checkbox") {
+            target.checked = e.target.checked;
+          } else {
+            target.value = e.target.value;
+          }
+        }));
+      });
+    }
+  }
   _initStickyScroll() {
     if (this.mobileQuery.matches) {
       if (this.stickyScroll) {
@@ -6608,8 +6636,50 @@ class Product {
       this.stickyScroll = stickyScroll(this.container);
     }
   }
-
-
+  _initPhotoCarousel() {
+    let swiperWrapper = n$2(selectors$E.photosMobile, this.container);
+    const mobileFeaturedImage = n$2(selectors$E.mobileFeaturedImage, swiperWrapper);
+    const initialSlide = mobileFeaturedImage ? parseInt(mobileFeaturedImage.dataset.slideIndex) : 0;
+    import(flu.chunks.swiper).then(_ref => {
+      let {
+        Swiper,
+        Pagination
+      } = _ref;
+      this.mobileSwiper = new Swiper(swiperWrapper, {
+        modules: [Pagination],
+        slidesPerView: 1,
+        spaceBetween: 4,
+        grabCursor: true,
+        pagination: {
+          el: ".swiper-pagination",
+          type: "bullets",
+          dynamicBullets: true,
+          dynamicMainBullets: 7,
+          clickable: true
+        },
+        watchSlidesProgress: true,
+        loop: this.loopMobileCarousel,
+        autoHeight: true,
+        initialSlide: initialSlide
+      });
+      this.mobileSwiper.on("slideChange", evt => {
+        if (this.viewInYourSpace) {
+          const activeSlide = evt.slides[evt.activeIndex];
+          if (activeSlide.dataset.mediaType === "model") {
+            this.viewInYourSpace.setAttribute("data-shopify-model3d-id", activeSlide.dataset.mediaItemId);
+          }
+        }
+        this.mediaContainersMobile && this.mediaContainersMobile.pauseActiveMedia();
+      });
+    });
+  }
+  _initThumbnails() {
+    this.productThumbnails = n$2(selectors$E.thumbs, this.container);
+    this.productThumbnailItems = t$2(selectors$E.thumb, this.container);
+    if (this.productThumbnails) {
+      this.productThumbnailsScroller = scrollContainer(this.productThumbnails);
+    }
+  }
   _loadMedia() {
     this.mobileMedia = n$2(selectors$E.photosMobile, this.container);
     this.desktopMedia = n$2(selectors$E.photosDesktop, this.container);
