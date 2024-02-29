@@ -5368,15 +5368,22 @@ function OptionButtons(els) {
 }
 
 function OptionButtons(els) {
-  const groups = els.map(createOptionGroup);
+  var groups = els.map(createOptionGroup);
+
   function destroy() {
-    groups && groups.forEach(group => group());
+    groups && groups.forEach(function (group) {
+      return group();
+    });
   }
+
   return {
-    groups,
-    destroy
+    groups: groups,
+    destroy: destroy
   };
 }
+
+// ***&&&*** variant project 
+
 function createOptionGroup(el) {
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
