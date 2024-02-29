@@ -5364,26 +5364,6 @@ function OptionButtons(els) {
   };
 }
 
-function createOptionGroup(el) {
-  var select = n$2("select", el);
-  var buttons = t$2("[data-button]", el);
-  var buttonClick = e$2(buttons, "click", e => {
-    e.preventDefault();
-    
-    var buttonEl = e.currentTarget;
-    const {
-      optionHandle
-    } = buttonEl.dataset;
-    buttons.forEach(btn => {
-      l(btn, "selected", btn.dataset.optionHandle === optionHandle);
-    });
-    const opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
-    opt.selected = true;
-    select.dispatchEvent(new Event("change"));
-  });
-  return () => buttonClick();
-}
-
 const selectors$M = {
   counterContainer: "[data-inventory-counter]",
   inventoryMessage: ".inventory-counter__message",
