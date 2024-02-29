@@ -21,7 +21,3 @@
 }
 
 
-document.addEventListener("product:variant-change", function (evt) {
-document.querySelector('.product-thumbnails__item .active')
-.scrollIntoView({block:'center'});
-}); 
