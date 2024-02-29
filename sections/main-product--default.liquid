@@ -250,8 +250,8 @@
   >
     <div class="product__primary-left">
       {% if gallery_style_mobile == 'carousel' -%}
-        <div class="product__media-container below-mobile carousel {% if section.settings.enable_product_lightbox %} lightbox-media-container{% endif %}">
-          <div class="product__media">
+         <div class="product__media-container below-mobile carousel {% if section.settings.enable_product_lightbox %} lightbox-media-container{% endif %}">
+        <div class="product__media ">
             {%- assign media_index = 0 -%}
 
             {% for media in product.media -%}
