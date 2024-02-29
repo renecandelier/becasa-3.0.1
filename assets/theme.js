@@ -6568,7 +6568,6 @@ class Product {
       this._initStickyScroll();
     }
     this._loadAccordions();
-    this.optionButtons = OptionButtons(t$2("[data-option-buttons]", this.container));
     this.informationPopup = informationPopup(this.container);
     const productDescriptionWrapper = n$2(".product__description", this.container);
     if (productDescriptionWrapper) {
