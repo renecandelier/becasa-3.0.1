@@ -137,7 +137,7 @@
         "gallery_style_mobile": "carousel",
         "gallery_size": "xlarge",
         "gallery_overflow": "never",
-        "enable_mobile_carousel_looping": true,
+        "enable_mobile_carousel_looping": false,
         "enable_video_looping": true,
         "enable_product_lightbox": true,
         "image_aspect_ratio": "natural",
