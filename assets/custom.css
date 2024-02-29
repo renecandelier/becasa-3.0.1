@@ -21,12 +21,7 @@
 }
 
 
-
 document.addEventListener("product:variant-change", function (evt) {
-  console.log("Product variant changed");
-  console.log(evt.detail.variant);
-
-    document.querySelector('.product-thumbnails__item .active')
-      .scrollIntoView({block:'center'});
-
-});
+document.querySelector('.product-thumbnails__item .active')
+.scrollIntoView({block:'center'});
+}); 
