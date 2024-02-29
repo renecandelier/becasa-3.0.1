@@ -38,7 +38,7 @@
           <li class="product-thumbnails__item" {% if product.selected_or_first_available_variant.featured_media.alt != blank and product.selected_or_first_available_variant.featured_media.alt != media.alt %}style="display: none"{% endif %}>
             <button
               type="button"
-              class="product-thumbnails__item-link{% if media.id == featured_media.id %} active{% endif %}"
+              class="product-thumbnails__item-link"
               data-thumbnail-id="{{ media.id }}"
               data-product-thumbnail
               aria-label="{{ 'general.accessibility.image_thumbail' | t: number: forloop.index }}"
