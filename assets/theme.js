@@ -5353,14 +5353,17 @@ function reviewsHandler (node, container) {
 }
 
 function OptionButtons(els) {
-  const groups = els.map(createOptionGroup);
-  console.log("Helllôo 111111")
+  var groups = els.map(createOptionGroup);
+
   function destroy() {
-    groups && groups.forEach(group => group());
+    groups && groups.forEach(function (group) {
+      return group();
+    });
   }
+
   return {
-    groups,
-    destroy
+    groups: groups,
+    destroy: destroy
   };
 }
 
