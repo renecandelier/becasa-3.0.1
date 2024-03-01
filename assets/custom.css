@@ -19,11 +19,11 @@
         overflow: hidden !important;
     }
 }
-.lighthouse__hide_img {
+.product-thumbnails__item.lighthouse__hide_img {
   display: none !important;
 }
 
-.lighthouse__visible_img{
+.product-thumbnails__item.lighthouse__visible_img{
   display: block !important;
 }
 
