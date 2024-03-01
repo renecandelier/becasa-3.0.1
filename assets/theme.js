@@ -6822,8 +6822,7 @@ class Product {
     // We need to set the id input manually so the Dynamic Checkout Button works
     const selectedVariantOpt = n$2("".concat(selectors$E.variantSelect, " ").concat(selectors$E.optionById(variant.id)), this.container);
     selectedVariantOpt.selected = true;
-
-    // We need to dispatch an event so Shopify pay knows the form has changed
+console.log('ddd');    // We need to dispatch an event so Shopify pay knows the form has changed
     this.formElement.dispatchEvent(new Event("change"));
 
     // Update selected variant image and thumb
