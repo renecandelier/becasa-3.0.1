@@ -5385,11 +5385,12 @@ function OptionButtons(els) {
 // ***&&&*** variant project 
 
 function createOptionGroup(el) {
+  console.log("ee");
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
   var buttonClick = e$2(buttons, "click", function (e) {
     e.preventDefault();
-    
+    console.log("fff");
     var buttonEl = e.currentTarget;
     var optionHandle = buttonEl.dataset.optionHandle;
     var optionHandleValue = buttonEl.dataset.optionValue;
@@ -5404,7 +5405,7 @@ function createOptionGroup(el) {
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
        productThumb.forEach(thumb => {
       const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement
-      console.log(thumbParent);
+      
       if(optionHandleValueLower !== thumb.alt.toLowerCase()){
         console.log("optionHandleValueLower",optionHandleValueLower, thumb.alt.toLowerCase())
         thumbParent.classList.add("hide__img");
