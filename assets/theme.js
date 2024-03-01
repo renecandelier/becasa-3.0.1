@@ -5385,12 +5385,11 @@ function OptionButtons(els) {
 // ***&&&*** variant project 
 
 function createOptionGroup(el) {
-  console.log("ee");
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
   var buttonClick = e$2(buttons, "click", function (e) {
     e.preventDefault();
-    console.log("fff");
+    
     var buttonEl = e.currentTarget;
     var optionHandle = buttonEl.dataset.optionHandle;
     var optionHandleValue = buttonEl.dataset.optionValue;
@@ -6773,7 +6772,7 @@ class Product {
     const buyButtonEls = t$2(selectors$E.addToCart, this.container);
     const priceWrapper = n$2(selectors$E.priceWrapper, this.container);
     priceWrapper && l(priceWrapper, "hide", !variant);
-console.log('ddd');   
+
     // Update prices to reflect selected variant
     const defaultProductTemplate = this.isFullProduct === "true" ? true : false;
     updatePrices(this.container, variant, defaultProductTemplate);
@@ -6822,7 +6821,8 @@ console.log('ddd');
     // We need to set the id input manually so the Dynamic Checkout Button works
     const selectedVariantOpt = n$2("".concat(selectors$E.variantSelect, " ").concat(selectors$E.optionById(variant.id)), this.container);
     selectedVariantOpt.selected = true;
- // We need to dispatch an event so Shopify pay knows the form has changed
+
+    // We need to dispatch an event so Shopify pay knows the form has changed
     this.formElement.dispatchEvent(new Event("change"));
 
     // Update selected variant image and thumb
