@@ -5426,7 +5426,7 @@ console.log('ddd');
         
         lightThumbParent.classList.remove("lighthouse__hide_img");
         lightThumbParent.classList.add("lighthouse__visible_img");
-        console.log('ddd');
+        console.log('fff');
 
       }
     })
