@@ -5404,7 +5404,7 @@ function createOptionGroup(el) {
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
        productThumb.forEach(thumb => {
       const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement
-      
+      console.log(thumbParent);
       if(optionHandleValueLower !== thumb.alt.toLowerCase()){
         console.log("optionHandleValueLower",optionHandleValueLower, thumb.alt.toLowerCase())
         thumbParent.classList.add("hide__img");
