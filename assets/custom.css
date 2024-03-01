@@ -19,12 +19,6 @@
         overflow: hidden !important;
     }
 }
-.product-thumbnails__item.lighthouse__hide_img {
-  display: none !important;
-}
 
-.product-thumbnails__item.lighthouse__visible_img{
-  display: block !important;
-}
 
 
