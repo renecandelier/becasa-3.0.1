@@ -6773,7 +6773,7 @@ class Product {
     const buyButtonEls = t$2(selectors$E.addToCart, this.container);
     const priceWrapper = n$2(selectors$E.priceWrapper, this.container);
     priceWrapper && l(priceWrapper, "hide", !variant);
-
+data-media-item-id
     // Update prices to reflect selected variant
     const defaultProductTemplate = this.isFullProduct === "true" ? true : false;
     updatePrices(this.container, variant, defaultProductTemplate);
