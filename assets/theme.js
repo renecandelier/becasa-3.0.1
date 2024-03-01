@@ -5408,7 +5408,7 @@ function createOptionGroup(el) {
 
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
        mainProductThumb.forEach(thumb => {
-      const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement.parentElement;
+      const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement;
       const lightThumbParent = thumb.parentElement.parentElement.parentElement;
      
       if(optionHandleValueLower !== thumb.alt.toLowerCase()){
