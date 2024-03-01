@@ -5418,7 +5418,7 @@ function createOptionGroup(el) {
         lightThumbParent.classList.add("lighthouse__hide_img");
         lightThumbParent.classList.remove("lighthouse__visible_img");
 
-
+console.log('ddd');
       
       }else {
         thumbParent.classList.add("visible__img");
@@ -5426,6 +5426,8 @@ function createOptionGroup(el) {
         
         lightThumbParent.classList.remove("lighthouse__hide_img");
         lightThumbParent.classList.add("lighthouse__visible_img");
+        console.log('ddd');
+
       }
     })
     }
