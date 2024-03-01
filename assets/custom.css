@@ -19,5 +19,12 @@
         overflow: hidden !important;
     }
 }
+.lighthouse__hide_img {
+  display: none !important;
+}
+
+.lighthouse__visible_img{
+  display: block !important;
+}
 
 
