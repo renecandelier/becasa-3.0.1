@@ -18043,7 +18043,7 @@ html:not(.no-js):not(.prefers-reduced-motion) .animation.animation--apps .animat
 
 @media(max-width: 960px){
   .product__media-item.visible__img {
-    display: flex !important;
+    display: block !important;
 }
   .product__media-container .product__media {
     display: flex;
