@@ -624,18 +624,22 @@
   }
 </script>
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Get the first child of the element with class "visible__img"
-    var visibleImg = document.querySelector('.visible__img');
-    var firstChild = visibleImg.firstElementChild;
+  import(flu.chunks.swiper).then(function (_ref) {
+      var Swiper = _ref.Swiper,
+          Pagination = _ref.Pagination;
+        var mobileSwiper = new Swiper(carouselMobile, {
+        pagination: {
+          el: ".swiper-pagination",
+          type: "bullets",
+          dynamicBullets: true,
+          dynamicMainBullets: 3,
+          clickable: true
+        },
+        watchSlidesProgress: true,
+        autoHeight: true
+      });
 
-    // Add the "swiper-slide-visible" class to the first child after a 3-second delay
-    if (firstChild) {
-      setTimeout(function() {
-        firstChild.classList.add('swiper-slide-visible');
-      }, 7000); // 3000 milliseconds = 3 seconds
-    }
-  });
+    });
 </script>
 {% schema %}
 {
