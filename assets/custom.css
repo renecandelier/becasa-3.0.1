@@ -18,9 +18,9 @@
     .product__media-container.below-mobile .product__media-item, .product__media-container.below-mobile .product__media-item .media {
         overflow: hidden !important;
     }
-  .product__media-item:has(.lighthouse__hide_img){
+  /*.product__media-item:has(.lighthouse__hide_img){
     display: none;
-  }
+  }*/
 }
 
 .product-thumbnails__item.lighthouse__hide_img {
