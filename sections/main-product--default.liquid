@@ -629,9 +629,11 @@
     var visibleImg = document.querySelector('.visible__img');
     var firstChild = visibleImg.firstElementChild;
 
-    // Add the "swiper-slide-visible" class to the first child
+    // Add the "swiper-slide-visible" class to the first child after a 3-second delay
     if (firstChild) {
-      firstChild.classList.add('swiper-slide-visible');
+      setTimeout(function() {
+        firstChild.classList.add('swiper-slide-visible');
+      }, 3000); // 3000 milliseconds = 3 seconds
     }
   });
 </script>
