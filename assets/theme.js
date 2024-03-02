@@ -5478,6 +5478,23 @@ console.log('ddd');
   return function () {
     return buttonClick();
   };
+
+  import(flu.chunks.swiper).then(function (_ref) {
+      var Swiper = _ref.Swiper,
+          Pagination = _ref.Pagination;
+        var mobileSwiper = new Swiper(carouselMobile, {
+        pagination: {
+          el: ".swiper-pagination",
+          type: "bullets",
+          dynamicBullets: true,
+          dynamicMainBullets: 3,
+          clickable: true
+        },
+        watchSlidesProgress: true,
+        autoHeight: true
+      });
+
+    });
 }
 
 const selectors$M = {
