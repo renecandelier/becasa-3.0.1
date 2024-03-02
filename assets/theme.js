@@ -5478,7 +5478,7 @@ console.log('ddd');
   return function () {
     return buttonClick();
   };
-
+document.addEventListener('DOMContentLoaded', function() {
   import(flu.chunks.swiper).then(function (_ref) {
       var Swiper = _ref.Swiper,
           Pagination = _ref.Pagination;
@@ -5495,6 +5495,7 @@ console.log('ddd');
       });
 
     });
+  });
 }
 
 const selectors$M = {
