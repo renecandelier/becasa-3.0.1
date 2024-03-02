@@ -5409,11 +5409,15 @@ function createOptionGroup(el) {
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
        mainProductThumb.forEach(thumb => {
       const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement;
+         const videoParent = thumb.parentElement.parentElement.parentElement.parentElement.parentElement;
       const lightThumbParent = thumb.parentElement.parentElement.parentElement;
      
       if(optionHandleValueLower !== thumb.alt.toLowerCase()){
         thumbParent.classList.add("hide__img");
         thumbParent.classList.remove("visible__img");
+
+        videoParent.classList.add("hide__img");
+        videoParent.classList.remove("visible__img");
 
         lightThumbParent.classList.add("lighthouse__hide_img");
         lightThumbParent.classList.remove("lighthouse__visible_img");
@@ -5423,6 +5427,9 @@ console.log('ddd');
       }else {
         thumbParent.classList.add("visible__img");
         thumbParent.classList.remove("hide__img", "hidden");
+
+        videoParent.classList.add("visible__img");
+        videoParent.classList.remove("hide__img", "hidden");
         
         lightThumbParent.classList.remove("lighthouse__hide_img");
         lightThumbParent.classList.add("lighthouse__visible_img");
