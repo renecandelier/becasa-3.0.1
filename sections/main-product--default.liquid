@@ -624,6 +624,8 @@
   }
 </script>
 <script>
+    document.addEventListener('DOMContentLoaded', function() {
+
   const carouselMobile = document.querySelector(".below-mobile.swiper");
   import(flu.chunks.swiper).then(function (_ref) {
       var Swiper = _ref.Swiper,
@@ -641,6 +643,7 @@
       });
 
     });
+      });
 </script>
 {% schema %}
 {
