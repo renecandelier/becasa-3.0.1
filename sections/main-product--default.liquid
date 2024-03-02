@@ -623,7 +623,18 @@
     ]
   }
 </script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Get the first child of the element with class "visible__img"
+    var visibleImg = document.querySelector('.visible__img');
+    var firstChild = visibleImg.firstElementChild;
 
+    // Add the "swiper-slide-visible" class to the first child
+    if (firstChild) {
+      firstChild.classList.add('swiper-slide-visible');
+    }
+  });
+</script>
 {% schema %}
 {
   "name": "t:sections.main_product_overview.name",
