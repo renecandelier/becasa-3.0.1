@@ -23,10 +23,10 @@
 {% endif %}
 
 {% # Set the following line to true to import custom-events.js %}
-{% assign useCustomEvents = true %}
+{% assign useCustomEvents = false %}
 
 {% # Set the following line to true to import custom.css %}
-{% assign useCustomCSS = true %}
+{% assign useCustomCSS = false %}
 
 {% if useCustomEvents %}
   <script src="{{ 'custom-events.js' | asset_url }}" defer></script>
