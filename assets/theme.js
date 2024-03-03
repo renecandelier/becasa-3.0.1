@@ -6856,7 +6856,7 @@ class Product {
           const targetSlide = n$2("[data-media-item-id=\"".concat(variant.featured_media.id, "\"]"), slidesWrap);
           if (targetSlide) {
             const targetSlideIndex = [...targetSlide.parentElement.children].indexOf(targetSlide);
-            this.mobileSwiper.slideTo(targetSlideIndex);
+            this.mobileSwiper.slideTo(0, false,false);
           }
         } else {
           const imagesWrap = n$2(".product__media-container.above-mobile");
