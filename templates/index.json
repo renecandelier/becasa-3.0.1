@@ -70,37 +70,32 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "9904d35a-b0c1-4760-9f4c-82c5783d55f0": {
-      "type": "rich-text",
+    "featured_collection_slider_rtaCW8": {
+      "type": "featured-collection-slider",
       "blocks": {
-        "template--15630978023477__9904d35a-b0c1-4760-9f4c-82c5783d55f0-heading-1": {
-          "type": "heading",
-          "disabled": true,
+        "collection_JyMnPH": {
+          "type": "collection",
           "settings": {
-            "title": "Rich text",
-            "heading_font_class": "fs-heading-2-base"
-          }
-        },
-        "template--15630978023477__9904d35a-b0c1-4760-9f4c-82c5783d55f0-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-            "text_font_class": "fs-body-100"
+            "show_view_all": true,
+            "collection": "becasa-x-l-williams",
+            "collection_name": "BECASA x L Williams"
           }
         }
       },
       "block_order": [
-        "template--15630978023477__9904d35a-b0c1-4760-9f4c-82c5783d55f0-heading-1",
-        "template--15630978023477__9904d35a-b0c1-4760-9f4c-82c5783d55f0-text-1"
+        "collection_JyMnPH"
       ],
       "settings": {
-        "alignment": "left_left",
+        "heading": "Featured collection",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "maximum_products": 8,
+        "columns": "4",
+        "mobile_columns": "2",
         "enable_animation": true,
         "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom",
-        "content_width": "custom",
-        "custom_content_width": 700
+        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "image_with_text_fn8ipJ": {
@@ -1693,7 +1688,7 @@
   },
   "order": [
     "01ffb404-403f-4ca8-a4b9-e6b50f94da3e",
-    "9904d35a-b0c1-4760-9f4c-82c5783d55f0",
+    "featured_collection_slider_rtaCW8",
     "image_with_text_fn8ipJ",
     "3c8c13e6-f86e-43f5-a617-701f26007732",
     "3a2d7467-0626-4894-bbb0-e4eb846771d1",
