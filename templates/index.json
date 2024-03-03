@@ -136,7 +136,7 @@
         "aspect_ratio": "square",
         "focal_point": "center",
         "image_caption": "",
-        "show_small_image": true,
+        "show_small_image": false,
         "image_small": "shopify:\/\/shop_images\/resort-dress-maxi-leparadis-6.jpg",
         "image_small_aspect_ratio": "natural",
         "image_small_focal_point": "center",
