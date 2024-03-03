@@ -780,7 +780,7 @@
           "type": "shopify:\/\/apps\/maestrooo-section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
           "settings": {
             "title": "",
-            "subheading": "<p>join<\/p>",
+            "subheading": "",
             "button_text": "",
             "button_link": "",
             "layout": "collage",
@@ -793,7 +793,7 @@
             "click_action": "open_instagram",
             "heading_color": "#000000",
             "subheading_color": "#000000",
-            "button_background": "#000000",
+            "button_background": "#FFFFFF",
             "button_color": "#ffffff",
             "overlay_color": "#e7dbca",
             "overlay_text_color": "#ffffff",
