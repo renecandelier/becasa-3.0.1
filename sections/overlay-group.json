@@ -48,6 +48,7 @@
         },
         "popup_signup_ijUiE9": {
           "type": "popup_signup",
+          "disabled": true,
           "settings": {
             "delay": "timer_3000",
             "frequency": "frequency_100000",
@@ -85,11 +86,48 @@
             "tab_text_color": "#000000",
             "tab_background_color": "#ffffff"
           }
+        },
+        "flyout_signup_DEAbYH": {
+          "type": "flyout_signup",
+          "settings": {
+            "delay": "timer_3000",
+            "frequency": "frequency_100000",
+            "show_on_exit_intent": false,
+            "disable_for_account_holders": true,
+            "show_on_specific_page": false,
+            "target_page": "",
+            "accent": "",
+            "heading": "Let's Keep In Touch",
+            "heading_font_class": "fs-heading-2-base",
+            "text": "<p>Stay in the loop about the latest launches, events and more!<\/p>",
+            "link_text": "Continue",
+            "dismiss_text": "No thanks",
+            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time<\/p>",
+            "tags": "newsletter",
+            "flyout_position": "right",
+            "content_alignment": "center",
+            "focal_point": "image_presentation",
+            "background_color": "#f5f3f0",
+            "text_color": "#2c241b",
+            "input_color": "#2c241b",
+            "input_background": "#f5f5f5",
+            "button_background_color": "#2c241b",
+            "button_text_color": "#f5f5f5",
+            "color_overlay": "#000",
+            "overlay_opacity": 0,
+            "enable_tab": false,
+            "tab_text": "",
+            "text_font_class": "fs-body-100",
+            "tab_position": "bottom_left_floating",
+            "tab_text_color": "#000000",
+            "tab_background_color": "#ffffff"
+          }
         }
       },
       "block_order": [
         "flyout_7LXreq",
-        "popup_signup_ijUiE9"
+        "popup_signup_ijUiE9",
+        "flyout_signup_DEAbYH"
       ],
       "settings": {
       }
