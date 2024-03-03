@@ -5383,12 +5383,14 @@ function createOptionGroup(el) {
           type: "bullets",
           dynamicBullets: true,
           dynamicMainBullets: 3,
-          initialSlide: 0,
+          
           clickable: true
         },
         watchSlidesProgress: true,
+          initialSlide: 0,
         autoHeight: true
       });
+    mobileSwiper.slideTo(1, false,false);
 
     });
   var select = n$2("select", el);
