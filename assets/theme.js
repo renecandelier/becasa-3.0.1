@@ -5372,6 +5372,27 @@ function OptionButtons(els) {
 // ***&&&*** variant project 
 
 function createOptionGroup(el) {
+  console.log('sdsd');
+  const carouselMobiles = document.querySelector(".below-mobile.swiper");
+  import(flu.chunks.swiper).then(function (_ref) {
+      var Swiper = _ref.Swiper,
+          Pagination = _ref.Pagination;
+        var mobileSwiper = new Swiper(carouselMobiles, {
+        pagination: {
+          el: ".swiper-pagination",
+          type: "bullets",
+          dynamicBullets: true,
+          dynamicMainBullets: 3,
+          
+          clickable: true
+        },
+        watchSlidesProgress: true,
+          initialSlide: 0,
+        autoHeight: true
+      });
+    mobileSwiper.slideTo(0, false,false);
+
+    });
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
   var buttonClick = e$2(buttons, "click", function (e) {
@@ -5388,6 +5409,7 @@ function createOptionGroup(el) {
     const mainProductThumb = document.querySelectorAll(".product__media-container img");
     const carouselWrapper = document.querySelector(".product__media.carousel__wrapper.swiper-wrapper")
     const carouselMobile = document.querySelector(".below-mobile.swiper");
+    console.log("clickcheck");
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
        productThumb.forEach(thumb => {
       const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement
@@ -5673,7 +5695,7 @@ var Carousel = (function (node) {
     // and will always sliding now
 
     if (document.body.classList.contains("user-is-tabbing")) {
-      carousel.slideTo(slideIndex);
+      carousel.slideTo(0, false,false);
     }
   }
   import(flu.chunks.swiper).then(_ref => {
@@ -6834,7 +6856,7 @@ class Product {
           const targetSlide = n$2("[data-media-item-id=\"".concat(variant.featured_media.id, "\"]"), slidesWrap);
           if (targetSlide) {
             const targetSlideIndex = [...targetSlide.parentElement.children].indexOf(targetSlide);
-            this.mobileSwiper.slideTo(targetSlideIndex);
+            this.mobileSwiper.slideTo(0, false,false);
           }
         } else {
           const imagesWrap = n$2(".product__media-container.above-mobile");
