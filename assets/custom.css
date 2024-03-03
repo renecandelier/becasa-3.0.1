@@ -14,6 +14,9 @@
         padding: 8px 6px;
         font-size: 16px;
     }
+  .oc_pro{
+    display: block !important;
+  }
 
     .product__media-container.below-mobile .product__media-item, .product__media-container.below-mobile .product__media-item .media {
         overflow: hidden !important;
