@@ -473,6 +473,7 @@
         "8e1498a6-e9bf-4715-848a-3c269183a7ca",
         "d49588dc-ac94-4906-92ff-b05fa0861350"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 85,
@@ -603,7 +604,6 @@
       "blocks": {
         "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-0": {
           "type": "spacer",
-          "disabled": true,
           "settings": {
             "space": 40
           }
@@ -611,19 +611,20 @@
         "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-1": {
           "type": "heading",
           "settings": {
-            "title": "JOIN OUR NEWSLETTER",
-            "heading_font_class": "fs-heading-3-base"
+            "title": "sign up for emails",
+            "heading_font_class": "fs-heading-2-base"
           }
         },
         "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-2": {
           "type": "text",
           "settings": {
-            "text": "<p>stay in the loop.<\/p>",
-            "text_font_class": "fs-body-100"
+            "text": "<p><em>& don't miss a thing!<\/em><\/p>",
+            "text_font_class": "fs-body-75"
           }
         },
         "template--15380251672629__fa899858-de05-4b36-8335-323075588e0c-16683614051ebf4698-3": {
           "type": "spacer",
+          "disabled": true,
           "settings": {
             "space": 4
           }
@@ -657,8 +658,8 @@
         "text_color": "#000000",
         "input_color": "#000000",
         "input_background": "#ffffff",
-        "button_background_color": "#0b0a0a",
-        "button_text_color": "#ffffff",
+        "button_background_color": "#e7dbca",
+        "button_text_color": "#000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
         "overlay_opacity": 0,
