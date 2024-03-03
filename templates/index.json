@@ -215,6 +215,15 @@
             "font_size": "small"
           }
         },
+        "quote_rMMixa": {
+          "type": "quote",
+          "disabled": true,
+          "settings": {
+            "quote": "<p><em>\"Leigh is a style expert. She has an eye for sharp designs that are incredibly wearable in everyday life - it just works. She took our quality fabrics and mood & together we dreamed up something fresh with the Rosewood collection.\" -- BECASA founder, Emily Raffield<br\/><\/em><\/p><p><\/p>",
+            "title": "",
+            "font_size": "small"
+          }
+        },
         "67a45d1a-0144-4cff-b0ec-b7dc315f1750": {
           "type": "quote",
           "disabled": true,
@@ -227,6 +236,7 @@
       },
       "block_order": [
         "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0",
+        "quote_rMMixa",
         "67a45d1a-0144-4cff-b0ec-b7dc315f1750"
       ],
       "settings": {
