@@ -697,7 +697,7 @@
         "e64e55ea-619f-4614-a210-99d5d62cf2d4"
       ],
       "settings": {
-        "heading": "App section",
+        "heading": "",
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
