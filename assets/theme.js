@@ -5390,7 +5390,7 @@ function createOptionGroup(el) {
           initialSlide: 0,
         autoHeight: true
       });
-    mobileSwiper.slideTo(1, false,false);
+    mobileSwiper.slideTo(0, false,false);
 
     });
   var select = n$2("select", el);
