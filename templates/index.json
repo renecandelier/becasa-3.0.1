@@ -102,17 +102,6 @@
     },
     "image_hero_wjPh9K": {
       "type": "image-hero",
-      "blocks": {
-        "accent_dA7n3G": {
-          "type": "accent",
-          "settings": {
-            "accent": "Accent"
-          }
-        }
-      },
-      "block_order": [
-        "accent_dA7n3G"
-      ],
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 100,
