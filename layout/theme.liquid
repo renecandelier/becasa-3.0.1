@@ -63,6 +63,11 @@
     {%- render 'theme-globals' -%}
 
     {{ content_for_header }}
+
+    link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+<!-- JavaScript -->
+<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+
   </head>
 
   <body class="template-{{ request.page_type | handle }}">
