@@ -23,7 +23,7 @@
             "variant_popup_icon": "none",
             "variant_popup_text": "Size guide",
             "variant_popup_page": "",
-            "swatch_size": "medium",
+            "swatch_size": "small",
             "chip_layout": "natural"
           }
         },
