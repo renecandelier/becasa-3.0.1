@@ -1190,75 +1190,6 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "71a826c1-83cd-4f34-bcd3-171f8fc51493": {
-      "type": "featured-product",
-      "blocks": {
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-product_header-1": {
-          "type": "product_header",
-          "settings": {
-            "show_divider": true,
-            "show_vendor": false,
-            "show_sku": false,
-            "show_discount": true,
-            "discount_format": "percent_off",
-            "show_product_rating": false,
-            "show_sale_badge": true,
-            "show_custom_badges": true
-          }
-        },
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-variant_picker-1": {
-          "type": "variant_picker",
-          "settings": {
-            "variant_popup_option": "Size",
-            "variant_popup_icon": "none",
-            "variant_popup_text": "Size guide",
-            "variant_popup_page": "",
-            "swatch_size": "medium",
-            "chip_layout": "3col"
-          }
-        },
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
-            "show_labels": true
-          }
-        },
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-description-1": {
-          "type": "description",
-          "settings": {
-            "title": "Description",
-            "text_font_class": "fs-body-100",
-            "column_placement": "right",
-            "display_as_collapsible_row": true,
-            "expand_by_default": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-product_header-1",
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-variant_picker-1",
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-quantity_selector-1",
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-buy_buttons-1",
-        "template--15549197877301__71a826c1-83cd-4f34-bcd3-171f8fc51493-description-1"
-      ],
-      "settings": {
-        "featured_product": "linen-tilda-slipover",
-        "gallery_size": "medium",
-        "enable_video_looping": true,
-        "enable_product_lightbox": true,
-        "image_aspect_ratio": "portrait",
-        "enable_gift_card_recipient": true,
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
     "5150decb-e44c-41bf-a9bc-491a7173d262": {
       "type": "slideshow",
       "blocks": {
@@ -1776,7 +1707,6 @@
     "1ab92b20-880b-49b4-ac63-70cb13febd25",
     "72cfcdbc-1917-4fb1-b91f-8822526f9943",
     "5db70220-8dd3-4c68-9522-4d4dc22bb4f8",
-    "71a826c1-83cd-4f34-bcd3-171f8fc51493",
     "5150decb-e44c-41bf-a9bc-491a7173d262",
     "ecf923bb-5df9-490a-a136-852ed7481b68",
     "d4adabce-8189-4c09-aee5-fb53b4ef25b4",
