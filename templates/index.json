@@ -819,7 +819,7 @@
             "subheading": "",
             "button_text": "",
             "button_link": "",
-            "layout": "collage",
+            "layout": "grid",
             "image_size": "small",
             "add_spacing": false,
             "rows_count": 2,
