@@ -5373,6 +5373,22 @@ function OptionButtons(els) {
 
 function createOptionGroup(el) {
   console.log('sdsd');
+  import(flu.chunks.swiper).then(function (_ref) {
+      var Swiper = _ref.Swiper,
+          Pagination = _ref.Pagination;
+        var mobileSwiper = new Swiper(carouselMobile, {
+        pagination: {
+          el: ".swiper-pagination",
+          type: "bullets",
+          dynamicBullets: true,
+          dynamicMainBullets: 3,
+          clickable: true
+        },
+        watchSlidesProgress: true,
+        autoHeight: true
+      });
+
+    });
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
   var buttonClick = e$2(buttons, "click", function (e) {
