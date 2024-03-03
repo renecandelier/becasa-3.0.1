@@ -783,6 +783,41 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
+    "quote_LNrtHX": {
+      "type": "quote",
+      "blocks": {
+        "quote_GPCUKA": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>“Absolutely unparalleled products and service. I'm confident that this store will be the next big thing in its industry, and that its products will be timeless.”<\/p>",
+            "title": "Steve Jordans",
+            "font_size": "medium"
+          }
+        },
+        "quote_hYYBJN": {
+          "type": "quote",
+          "disabled": true,
+          "settings": {
+            "quote": "<p>“Absolutely unparalleled products and service. I'm confident that this store will be the next big thing in its industry, and that its products will be timeless.”<\/p>",
+            "title": "Steve Jordans",
+            "font_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "quote_GPCUKA",
+        "quote_hYYBJN"
+      ],
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
     "1668050752213aaea5": {
       "type": "apps",
       "blocks": {
@@ -818,7 +853,7 @@
         "heading": "",
         "enable_animation": true,
         "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
+        "section_padding": "section--vertical-padding-none"
       }
     }
   },
@@ -836,6 +871,7 @@
     "fa899858-de05-4b36-8335-323075588e0c",
     "b849cb16-b99c-46a5-a478-b739f87071d2",
     "16548801325228c324",
+    "quote_LNrtHX",
     "1668050752213aaea5"
   ]
 }
