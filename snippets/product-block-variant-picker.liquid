@@ -199,6 +199,7 @@
           >
               {%- for value in option.values -%}
                 {%- assign variantColor = value | split: " " | first | downcase -%}  
+<script>console.log({{ value | json }});</script>
 
 {% if variantColor contains "*" %}
 {% else %}
