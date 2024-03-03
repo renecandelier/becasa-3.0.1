@@ -5373,10 +5373,11 @@ function OptionButtons(els) {
 
 function createOptionGroup(el) {
   console.log('sdsd');
+  const carouselMobiles = document.querySelector(".below-mobile.swiper");
   import(flu.chunks.swiper).then(function (_ref) {
       var Swiper = _ref.Swiper,
           Pagination = _ref.Pagination;
-        var mobileSwiper = new Swiper(carouselMobile, {
+        var mobileSwiper = new Swiper(carouselMobiles, {
         pagination: {
           el: ".swiper-pagination",
           type: "bullets",
@@ -5405,6 +5406,7 @@ function createOptionGroup(el) {
     const mainProductThumb = document.querySelectorAll(".product__media-container img");
     const carouselWrapper = document.querySelector(".product__media.carousel__wrapper.swiper-wrapper")
     const carouselMobile = document.querySelector(".below-mobile.swiper");
+    console.log("clickcheck");
     if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
        productThumb.forEach(thumb => {
       const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement
