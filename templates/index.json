@@ -98,6 +98,87 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
+    "grid_WB4Cxe": {
+      "type": "grid",
+      "blocks": {
+        "item_93drzT": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 720,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/becasa-Relaxed-Maxi-Dress-Gold-Wisteria-0_4f0a2e28-bef5-4147-aeac-578ce5ae8b8a.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/becasa-Relaxed-Maxi-Dress-Gold-Wisteria-0_4f0a2e28-bef5-4147-aeac-578ce5ae8b8a.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "item_fE3jQD": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 720,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/becasa-Relaxed-Maxi-Dress-Gold-Wisteria-0_4f0a2e28-bef5-4147-aeac-578ce5ae8b8a.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/becasa-Relaxed-Maxi-Dress-Gold-Wisteria-0_4f0a2e28-bef5-4147-aeac-578ce5ae8b8a.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_93drzT",
+        "item_fE3jQD"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "content_alignment": "left",
+        "enable_animation": true,
+        "full_width": false,
+        "spacing": 24,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
     "5150decb-e44c-41bf-a9bc-491a7173d262": {
       "type": "slideshow",
       "blocks": {
@@ -707,6 +788,7 @@
   "order": [
     "01ffb404-403f-4ca8-a4b9-e6b50f94da3e",
     "featured_collection_slider_rtaCW8",
+    "grid_WB4Cxe",
     "5150decb-e44c-41bf-a9bc-491a7173d262",
     "ecf923bb-5df9-490a-a136-852ed7481b68",
     "3a2d7467-0626-4894-bbb0-e4eb846771d1",
