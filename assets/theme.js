@@ -5695,7 +5695,7 @@ var Carousel = (function (node) {
     // and will always sliding now
 
     if (document.body.classList.contains("user-is-tabbing")) {
-      carousel.slideTo(slideIndex);
+      carousel.slideTo(0, false,false);
     }
   }
   import(flu.chunks.swiper).then(_ref => {
