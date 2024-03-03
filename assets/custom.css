@@ -20,9 +20,7 @@
   .product__media-item.visible__img {
     display: block !important;
 }
-  .flickity-viewport {
-    min-height: 330px;
-}
+  
 
     .product__media-container.below-mobile .product__media-item, .product__media-container.below-mobile .product__media-item .media {
         overflow: hidden !important;
