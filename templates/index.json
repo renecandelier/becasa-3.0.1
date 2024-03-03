@@ -786,14 +786,6 @@
     "quote_LNrtHX": {
       "type": "quote",
       "blocks": {
-        "quote_GPCUKA": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>“Absolutely unparalleled products and service. I'm confident that this store will be the next big thing in its industry, and that its products will be timeless.”<\/p>",
-            "title": "Steve Jordans",
-            "font_size": "medium"
-          }
-        },
         "quote_hYYBJN": {
           "type": "quote",
           "disabled": true,
@@ -805,7 +797,6 @@
         }
       },
       "block_order": [
-        "quote_GPCUKA",
         "quote_hYYBJN"
       ],
       "settings": {
