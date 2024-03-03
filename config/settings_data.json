@@ -1,10 +1,10 @@
 {
   "current": {
-    "color_background_body": "#ffffff",
+    "color_background_body": "#f5f3f0",
     "color_header_text": "#000000",
-    "color_header_bg": "#ffffff",
+    "color_header_bg": "#f5f3f0",
     "color_text_footer": "#0b0a0a",
-    "color_background_footer": "#FFFFFF",
+    "color_background_footer": "#f5f3f0",
     "font_logo": "lato_n4",
     "capitalize_logo": true,
     "logo_base_size": 42,
