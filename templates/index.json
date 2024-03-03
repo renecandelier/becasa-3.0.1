@@ -753,6 +753,7 @@
     },
     "16548801325228c324": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "heading": "JOURNAL",
         "subheading": "",
@@ -778,23 +779,23 @@
         "e64e55ea-619f-4614-a210-99d5d62cf2d4": {
           "type": "shopify:\/\/apps\/maestrooo-section-feed\/blocks\/app-block\/43cd482b-515a-4e82-b170-05d391763cd2",
           "settings": {
-            "title": "JOIN US ON INSTAGRAM",
-            "subheading": "",
+            "title": "",
+            "subheading": "<p>join<\/p>",
             "button_text": "",
             "button_link": "",
-            "layout": "grid",
-            "image_size": "large",
+            "layout": "collage",
+            "image_size": "small",
             "add_spacing": false,
             "rows_count": 2,
             "show_author": false,
-            "show_caption": true,
+            "show_caption": false,
             "show_date": false,
             "click_action": "open_instagram",
             "heading_color": "#000000",
             "subheading_color": "#000000",
             "button_background": "#000000",
             "button_color": "#ffffff",
-            "overlay_color": "#a77a06",
+            "overlay_color": "#e7dbca",
             "overlay_text_color": "#ffffff",
             "overlay_opacity": 65
           }
