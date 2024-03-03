@@ -5383,6 +5383,7 @@ function createOptionGroup(el) {
           type: "bullets",
           dynamicBullets: true,
           dynamicMainBullets: 3,
+          initialSlide: 0,
           clickable: true
         },
         watchSlidesProgress: true,
