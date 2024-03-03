@@ -23,7 +23,7 @@
             "variant_popup_icon": "none",
             "variant_popup_text": "Size guide",
             "variant_popup_page": "",
-            "swatch_size": "medium",
+            "swatch_size": "small",
             "chip_layout": "natural"
           }
         },
@@ -137,11 +137,11 @@
         "gallery_style_mobile": "carousel",
         "gallery_size": "xlarge",
         "gallery_overflow": "never",
-        "enable_mobile_carousel_looping": true,
+        "enable_mobile_carousel_looping": false,
         "enable_video_looping": true,
         "enable_product_lightbox": true,
         "image_aspect_ratio": "natural",
-        "enable_multiple_variant_media": true,
+        "enable_multiple_variant_media": false,
         "enable_gift_card_recipient": true,
         "enable_animation": true
       }

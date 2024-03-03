@@ -28,7 +28,7 @@
 
     {%- capture media_atributes -%}
       {% if enable_product_lightbox %}
-        href="{{ media.src | image_url }}" class="lightbox-image no-transition"
+        href="{{ media.src | image_url }}" class="lightbox-image no-transition {% if product.selected_or_first_available_variant.featured_media.alt != blank and product.selected_or_first_available_variant.featured_media.alt != media.alt %} lighthouse__hide_img {% else %} lighthouse__visible_img  {% endif %}"
         data-pswp-src="{{- media.src | image_url -}}"
         data-pswp-width="{{- media.width -}}"
         data-pswp-height="{{ media.height }}"
@@ -51,7 +51,7 @@
       %}
     </{{ media_link_element }}>
   {%- elsif media.media_type == 'video' -%}
-    {{ media | video_tag: image_size: '1024x' }}
+    {{ media | video_tag: autoplay: true, image_size: '1024x' }}
   {%- elsif media.media_type == 'external_video' -%}
     {%- liquid
       if loop_video

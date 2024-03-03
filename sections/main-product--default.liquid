@@ -250,8 +250,8 @@
   >
     <div class="product__primary-left">
       {% if gallery_style_mobile == 'carousel' -%}
-        <div class="product__media-container below-mobile carousel swiper{% if section.settings.enable_product_lightbox %} lightbox-media-container{% endif %}">
-          <div class="product__media carousel__wrapper swiper-wrapper">
+<div class="product__media-container below-mobile carousel swiper{% if section.settings.enable_product_lightbox %} lightbox-media-container{% endif %}">
+        <div class="product__media carousel__wrapper swiper-wrapper">
             {%- assign media_index = 0 -%}
 
             {% for media in product.media -%}
@@ -279,7 +279,7 @@
                 endif
               -%}
               <div
-                class="product__media-item carousel_slide swiper-slide"
+                class="ocd product__media-item carousel_slide swiper-slide {% if product.selected_or_first_available_variant.featured_media.alt != blank and product.selected_or_first_available_variant.featured_media.alt != media.alt %} hide__img {% else %} visible__img  {% endif %}"
                 data-is-featured="{{ is_featured_media }}"
                 data-slide-index="{{ media_index }}"
                 data-media-item-id="{{ media.id }}"
@@ -463,7 +463,7 @@
               </button>
             </div>
           {%- endif %}
-        </div>
+  </div>
       </div>
 
       {% if first_3d_model -%}
