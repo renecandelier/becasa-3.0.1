@@ -204,6 +204,41 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
+    "3a2d7467-0626-4894-bbb0-e4eb846771d1": {
+      "type": "quote",
+      "blocks": {
+        "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><em>\"Leigh is a style expert. She has an eye for sharp designs that are incredibly wearable in everyday life - it just works. She took our quality fabrics and mood & together we dreamed up something fresh with the Rosewood collection.\" -- BECASA founder, Emily Raffield<br\/><\/em><\/p><p><\/p>",
+            "title": "",
+            "font_size": "small"
+          }
+        },
+        "67a45d1a-0144-4cff-b0ec-b7dc315f1750": {
+          "type": "quote",
+          "disabled": true,
+          "settings": {
+            "quote": "<p>Goodbye to summer, hello to the in-between <br\/><br\/>Three New Styles – our Linen Day Caftan, Dock Shirt, and Margo Midi Dress to style for the next season<\/p>",
+            "title": "Emily Raffield, Founder + Designer BECASA",
+            "font_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0",
+        "67a45d1a-0144-4cff-b0ec-b7dc315f1750"
+      ],
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
     "5150decb-e44c-41bf-a9bc-491a7173d262": {
       "type": "slideshow",
       "blocks": {
@@ -371,41 +406,6 @@
         "overlay_opacity": 7,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
-      }
-    },
-    "3a2d7467-0626-4894-bbb0-e4eb846771d1": {
-      "type": "quote",
-      "blocks": {
-        "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p><em>\"Leigh is a style expert. She has an eye for sharp designs that are incredibly wearable in everyday life - it just works. <br\/>She took our quality fabrics <br\/>and mood & together we dreamed up something fresh with the Rosewood collection. \"<br\/><\/em><\/p><p><\/p>",
-            "title": "BECASA founder, Emily Raffield",
-            "font_size": "small"
-          }
-        },
-        "67a45d1a-0144-4cff-b0ec-b7dc315f1750": {
-          "type": "quote",
-          "disabled": true,
-          "settings": {
-            "quote": "<p>Goodbye to summer, hello to the in-between <br\/><br\/>Three New Styles – our Linen Day Caftan, Dock Shirt, and Margo Midi Dress to style for the next season<\/p>",
-            "title": "Emily Raffield, Founder + Designer BECASA",
-            "font_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0",
-        "67a45d1a-0144-4cff-b0ec-b7dc315f1750"
-      ],
-      "settings": {
-        "autoplay_enabled": true,
-        "autoplay_delay": 7,
-        "pagination_style": "dots",
-        "font_choice": "heading",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "f0d3ab67-bc81-4459-b5f1-afea099f386f": {
@@ -815,9 +815,9 @@
     "featured_collection_slider_rtaCW8",
     "image_hero_wjPh9K",
     "grid_WB4Cxe",
+    "3a2d7467-0626-4894-bbb0-e4eb846771d1",
     "5150decb-e44c-41bf-a9bc-491a7173d262",
     "ecf923bb-5df9-490a-a136-852ed7481b68",
-    "3a2d7467-0626-4894-bbb0-e4eb846771d1",
     "f0d3ab67-bc81-4459-b5f1-afea099f386f",
     "72cfcdbc-1917-4fb1-b91f-8822526f9943",
     "6ab7aec1-b72d-4e90-a96e-10f04f723c48",
