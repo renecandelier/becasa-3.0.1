@@ -19,6 +19,7 @@
       "blocks": {
         "flyout_7LXreq": {
           "type": "flyout",
+          "disabled": true,
           "settings": {
             "delay": "timer_30000",
             "frequency": "frequency_100000",
