@@ -1,10 +1,14 @@
 {
   "current": {
     "color_background_body": "#f5f3f0",
-    "color_header_text": "#000000",
+    "color_text_link": "#2c241b",
+    "color_text": "#2c241b",
+    "color_header_text": "#2c241b",
     "color_header_bg": "#f5f3f0",
-    "color_text_footer": "#0b0a0a",
+    "color_text_footer": "#2c241b",
     "color_background_footer": "#f5f3f0",
+    "color_background_button": "#2c241b",
+    "color_text_button": "#f5f5f5",
     "font_logo": "roboto_n4",
     "capitalize_logo": true,
     "logo_base_size": 42,
