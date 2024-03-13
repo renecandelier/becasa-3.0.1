@@ -6703,7 +6703,7 @@ class Product {
         watchSlidesProgress: true,
         loop: this.loopMobileCarousel,
         autoHeight: true,
-        initialSlide: initialSlide
+        initialSlide: 0
       });
       this.mobileSwiper.on("slideChange", evt => {
         if (this.viewInYourSpace) {
