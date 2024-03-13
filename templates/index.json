@@ -26,15 +26,6 @@
             "text_font_class": "fs-body-100"
           }
         },
-        "button_GGMxag": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link": "shopify:\/\/collections\/becasa-x-l-williams",
-            "link_text": "L WILLIAMS X BECASA",
-            "button_style": "btn--primary"
-          }
-        },
         "text_aQMVpj": {
           "type": "text",
           "disabled": true,
@@ -42,21 +33,43 @@
             "text": "<h1><em>L WILLIAMS x BECASA<\/em><\/h1>",
             "text_font_class": "fs-body-200"
           }
+        },
+        "spacer_Eb7dLj": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "spacer_At3Vwz": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "button_GGMxag": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/becasa-x-l-williams",
+            "link_text": "shop now",
+            "button_style": "btn--callout"
+          }
         }
       },
       "block_order": [
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-accent-1",
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-heading-1",
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-text-1",
-        "button_GGMxag",
-        "text_aQMVpj"
+        "text_aQMVpj",
+        "spacer_Eb7dLj",
+        "spacer_At3Vwz",
+        "button_GGMxag"
       ],
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/BECASA_x_LW_-_Website_Header_2.png",
-        "image_mobile": "shopify:\/\/shop_images\/Untitled_design_1.png",
+        "image": "shopify:\/\/shop_images\/beach-folly-skirt-becasa.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/beach-folly-skirt-becasa.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "shopify:\/\/collections\/becasa-x-l-williams",
