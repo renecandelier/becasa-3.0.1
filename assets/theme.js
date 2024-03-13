@@ -5493,9 +5493,12 @@ console.log('ddd');
           dynamicMainBullets: 3,
           clickable: true
         },
-        watchSlidesProgress: true,
-        autoHeight: true
-      });
+         watchSlidesProgress: true,
+      initialSlide: 0,
+      autoHeight: true
+    });
+
+    mobileSwiper.slideTo(0, false, false);
 
     });
 
