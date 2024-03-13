@@ -139,6 +139,37 @@
     "grid_WB4Cxe": {
       "type": "grid",
       "blocks": {
+        "item_fE3jQD": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 720,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/becasa-relaxed-mini.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/becasa-relaxed-mini.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "https:\/\/shopbecasa.com\/collections\/becasa-x-l-williams\/products\/relaxed-mini-dress",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
         "item_93drzT": {
           "type": "item",
           "settings": {
@@ -169,42 +200,11 @@
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
-        },
-        "item_fE3jQD": {
-          "type": "item",
-          "settings": {
-            "width": "50",
-            "height": 720,
-            "mobile_height": 500,
-            "image": "shopify:\/\/shop_images\/becasa-Sullivans-Top-Cherry-Blossom_8672f2b8-b23e-40ee-ab78-d9bbcd3b3306.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/becasa-Sullivans-Top-Cherry-Blossom_8672f2b8-b23e-40ee-ab78-d9bbcd3b3306.jpg",
-            "media_fit": "cover",
-            "focal_point": "image_presentation",
-            "mobile_focal_point": "image_presentation",
-            "text_position": "center_center",
-            "accent": "",
-            "title": "",
-            "heading_font_class": "fs-heading-2-base",
-            "subheading": "",
-            "subheading_font_class": "fs-heading-5-base",
-            "text": "",
-            "text_font_class": "fs-body-100",
-            "link": "https:\/\/shopbecasa.com\/collections\/becasa-x-l-williams\/products\/sullivan-top",
-            "link_text": "",
-            "button_style": "btn--primary",
-            "background_color": "",
-            "text_color": "#ffffff",
-            "button_background_color": "#ffffff",
-            "button_text_color": "#000000",
-            "color_overlay": "#000000",
-            "color_overlay_gradient": "",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
-        "item_93drzT",
-        "item_fE3jQD"
+        "item_fE3jQD",
+        "item_93drzT"
       ],
       "settings": {
         "heading": "",
