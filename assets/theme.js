@@ -5373,26 +5373,30 @@ function OptionButtons(els) {
 
 function createOptionGroup(el) {
   console.log('sdsd');
+  document.addEventListener("DOMContentLoaded", function() {
   const carouselMobiles = document.querySelector(".below-mobile.swiper");
-  import(flu.chunks.swiper).then(function (_ref) {
-      var Swiper = _ref.Swiper,
-          Pagination = _ref.Pagination;
-        var mobileSwiper = new Swiper(carouselMobiles, {
-        pagination: {
-          el: ".swiper-pagination",
-          type: "bullets",
-          dynamicBullets: true,
-          dynamicMainBullets: 3,
-          
-          clickable: true
-        },
-        watchSlidesProgress: true,
-          initialSlide: 0,
-        autoHeight: true
-      });
-    mobileSwiper.slideTo(0, false,false);
 
+  import(flu.chunks.swiper).then(function (_ref) {
+    var Swiper = _ref.Swiper,
+        Pagination = _ref.Pagination;
+
+    var mobileSwiper = new Swiper(carouselMobiles, {
+      pagination: {
+        el: ".swiper-pagination",
+        type: "bullets",
+        dynamicBullets: true,
+        dynamicMainBullets: 3,
+        clickable: true
+      },
+      watchSlidesProgress: true,
+      initialSlide: 0,
+      autoHeight: true
     });
+
+    mobileSwiper.slideTo(0, false, false);
+  });
+    console.log('d2');
+});
   var select = n$2("select", el);
   var buttons = t$2("[data-button]", el);
   var buttonClick = e$2(buttons, "click", function (e) {
