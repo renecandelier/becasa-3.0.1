@@ -217,6 +217,70 @@
         "section_padding": "section--vertical-padding-top-bottom"
       }
     },
+    "72cfcdbc-1917-4fb1-b91f-8822526f9943": {
+      "type": "video-hero",
+      "blocks": {
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-0": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Video hero",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-2": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use this section to promote a particular feature with editorial video.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-3": {
+          "type": "play-button",
+          "disabled": true,
+          "settings": {
+            "video_source": "external",
+            "video_url": "",
+            "aspect_ratio": "square",
+            "text": "Watch now",
+            "icon_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-0",
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-1",
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-2",
+        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-3"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 80,
+        "mobile_height": 80,
+        "video_mobile": "shopify:\/\/files\/videos\/becasa beach walk video.MP4",
+        "media_link": "",
+        "focal_point": "center",
+        "focal_point_mobile": "image_presentation",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
     "image_hero_tFqM8J": {
       "type": "image-hero",
       "blocks": {
@@ -566,70 +630,6 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "72cfcdbc-1917-4fb1-b91f-8822526f9943": {
-      "type": "video-hero",
-      "blocks": {
-        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-0": {
-          "type": "accent",
-          "disabled": true,
-          "settings": {
-            "accent": "Accent"
-          }
-        },
-        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "Video hero",
-            "heading_font_class": "fs-heading-display-2"
-          }
-        },
-        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-2": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Use this section to promote a particular feature with editorial video.<\/p>",
-            "text_font_class": "fs-body-100"
-          }
-        },
-        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-3": {
-          "type": "play-button",
-          "disabled": true,
-          "settings": {
-            "video_source": "external",
-            "video_url": "",
-            "aspect_ratio": "square",
-            "text": "Watch now",
-            "icon_style": "outline"
-          }
-        }
-      },
-      "block_order": [
-        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-0",
-        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-1",
-        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-2",
-        "template--15452995485749__72cfcdbc-1917-4fb1-b91f-8822526f9943-1676577896512d6094-3"
-      ],
-      "settings": {
-        "image_aspect": "custom",
-        "desktop_height": 80,
-        "mobile_height": 80,
-        "video_mobile": "shopify:\/\/files\/videos\/becasa beach walk video.MP4",
-        "media_link": "",
-        "focal_point": "center",
-        "focal_point_mobile": "image_presentation",
-        "text_position": "center_center",
-        "text_position_mobile": "center_center",
-        "text_color": "#ffffff",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#000000",
-        "color_overlay": "#000000",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 0,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-none"
-      }
-    },
     "6ab7aec1-b72d-4e90-a96e-10f04f723c48": {
       "type": "promo-banner",
       "disabled": true,
@@ -914,12 +914,12 @@
     "featured_collection_slider_rtaCW8",
     "image_hero_wjPh9K",
     "grid_WB4Cxe",
+    "72cfcdbc-1917-4fb1-b91f-8822526f9943",
     "image_hero_tFqM8J",
     "3a2d7467-0626-4894-bbb0-e4eb846771d1",
     "5150decb-e44c-41bf-a9bc-491a7173d262",
     "ecf923bb-5df9-490a-a136-852ed7481b68",
     "f0d3ab67-bc81-4459-b5f1-afea099f386f",
-    "72cfcdbc-1917-4fb1-b91f-8822526f9943",
     "6ab7aec1-b72d-4e90-a96e-10f04f723c48",
     "fa899858-de05-4b36-8335-323075588e0c",
     "b849cb16-b99c-46a5-a478-b739f87071d2",
