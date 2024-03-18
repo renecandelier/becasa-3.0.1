@@ -265,6 +265,7 @@
         "image_aspect": "custom",
         "desktop_height": 80,
         "mobile_height": 80,
+        "video": "shopify:\/\/files\/videos\/becasa beach walk video.MP4",
         "video_mobile": "shopify:\/\/files\/videos\/becasa beach walk video.MP4",
         "media_link": "",
         "focal_point": "center",
