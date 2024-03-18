@@ -495,25 +495,11 @@
     "ecf923bb-5df9-490a-a136-852ed7481b68": {
       "type": "image-hero-split",
       "blocks": {
-        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Cotton-Shirt-Dress-Coral-Bloom_88a71ac7-6a36-40c1-a8b9-6b5cf1883d3c.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Cotton-Shirt-Dress-Coral-Bloom_88a71ac7-6a36-40c1-a8b9-6b5cf1883d3c.jpg",
-            "focal_point": "top",
-            "mobile_focal_point": "center",
-            "title": "",
-            "text": "",
-            "link": "https:\/\/shopbecasa.com\/collections\/becasa-x-l-williams\/products\/cotton-shirt-dress",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        },
         "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/becasa-cabana-dress-0.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/becasa-cabana-dress-0.jpg",
+            "image": "shopify:\/\/shop_images\/becasa-Club-Linen-Pant-Summer-Blue-1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/becasa-Club-Linen-Pant-Summer-Blue-1.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
             "title": "",
@@ -522,11 +508,25 @@
             "link_text": "",
             "button_style": "btn--primary"
           }
+        },
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/becasa-Pareo-Riviera-0.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/becasa-Pareo-Riviera-0.jpg",
+            "focal_point": "top",
+            "mobile_focal_point": "center",
+            "title": "",
+            "text": "",
+            "link": "https:\/\/shopbecasa.com\/collections\/becasa-x-l-williams\/products\/cotton-shirt-dress",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
         }
       },
       "block_order": [
-        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0",
-        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1"
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1",
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0"
       ],
       "settings": {
         "image_aspect": "custom",
