@@ -142,7 +142,6 @@
 
                      {%- assign isCollectionSplit = true -%}
 {%- if collection.description == "non-split" -%}    
-<script>console.log({{ collection | json }});</script>
                    {%- assign isCollectionSplit = false -%}   
   {%- endif -%}
          {%- for product in collection.products -%}   
@@ -160,7 +159,6 @@
                {%- for variant in product.variants -%}  
                   
                  {%- assign variantColor = variant.option1 -%}  
-<script>console.log({{ variant | json }});</script>
 
 {% if variantColor contains "*" %}
 {% else %}
@@ -168,7 +166,11 @@
                    {%- assign currentVariantColor = variantColor -%}    
                    {%- assign foundFirstImage = false -%}   
                    {% for media in product.media %}   
-                     {% assign altName = media.alt %}   
+                     {% assign altName = media.alt %}  
+                     <script>console.log({{ media | json }});</script>
+
+                     <script>console.log({{ media.alt | json }});</script>
+
                      {% if variantColor == altName and foundFirstImage == false and media.media_type == "image" %}    
                        {%- assign foundFirstImage = true -%}    
                        {% assign altIndex = media.position %}   
