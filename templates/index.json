@@ -607,12 +607,6 @@
     "image_hero_fpHHwE": {
       "type": "image-hero",
       "blocks": {
-        "spacer_N96z3c": {
-          "type": "spacer",
-          "settings": {
-            "space": 32
-          }
-        },
         "button_kbKfyr": {
           "type": "button",
           "settings": {
@@ -620,16 +614,57 @@
             "link_text": "BECASA x L.Williams",
             "button_style": "btn--callout"
           }
+        },
+        "spacer_N96z3c": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "spacer_H8nDFm": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "spacer_mLKLbp": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "spacer_EWm4yK": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "spacer_Rr6ME4": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "spacer_9PxFPy": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
         }
       },
       "block_order": [
+        "button_kbKfyr",
         "spacer_N96z3c",
-        "button_kbKfyr"
+        "spacer_H8nDFm",
+        "spacer_mLKLbp",
+        "spacer_EWm4yK",
+        "spacer_Rr6ME4",
+        "spacer_9PxFPy"
       ],
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 100,
-        "mobile_height": 70,
+        "mobile_height": 60,
         "image": "shopify:\/\/shop_images\/beach-folly-skirt-becasa_67149162-c0b3-4d52-89db-ec1a791a4b90.jpg",
         "image_mobile": "shopify:\/\/shop_images\/beach-folly-skirt-becasa_67149162-c0b3-4d52-89db-ec1a791a4b90.jpg",
         "focal_point": "image_presentation",
