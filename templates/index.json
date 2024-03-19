@@ -304,7 +304,7 @@
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "<p>Shop Tops<\/p>",
+            "text": "<p>Tops<\/p>",
             "text_font_class": "fs-body-100",
             "link": "shopify:\/\/collections\/tops",
             "link_text": "",
@@ -315,7 +315,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 0
+            "overlay_opacity": 5
           }
         },
         "item_93drzT": {
@@ -335,7 +335,7 @@
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "<p>Shop Dresses<\/p>",
+            "text": "<p>Dresses<\/p>",
             "text_font_class": "fs-body-100",
             "link": "https:\/\/shopbecasa.com\/products\/sophie-top",
             "link_text": "",
@@ -346,7 +346,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 0
+            "overlay_opacity": 5
           }
         },
         "item_mPA3qJ": {
@@ -365,7 +365,7 @@
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "<p>Shop Bottoms<\/p>",
+            "text": "<p>Bottoms<\/p>",
             "text_font_class": "fs-body-100",
             "link": "https:\/\/shopbecasa.com\/collections\/pants",
             "link_text": "",
@@ -376,7 +376,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 0
+            "overlay_opacity": 5
           }
         }
       },
