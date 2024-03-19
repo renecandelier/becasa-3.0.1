@@ -263,12 +263,12 @@
             "width": "33",
             "height": 320,
             "mobile_height": 500,
-            "image": "shopify:\/\/shop_images\/becasa-Pareo-Riviera-0.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Helena-Dress-Lotus-Mauve-2.jpg",
+            "image": "shopify:\/\/shop_images\/becasa-Sophie-Top-Tidal-Sand-4.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/becasa-Sophie-Top-Tidal-Sand-4.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
-            "text_position": "center_flex-end",
+            "text_position": "center_center",
             "accent": "",
             "title": "",
             "heading_font_class": "fs-heading-2-base",
@@ -294,7 +294,7 @@
             "width": "33",
             "height": 600,
             "mobile_height": 500,
-            "image": "shopify:\/\/shop_images\/becasa-sophie-top.jpg",
+            "image": "shopify:\/\/shop_images\/becasa-San-Juan-Maxi-Dress-summer-blue-4.jpg",
             "mobile_image": "shopify:\/\/shop_images\/becasa-sophie-top.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
@@ -305,7 +305,7 @@
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "",
+            "text": "<p>Shop Dresses<\/p>",
             "text_font_class": "fs-body-100",
             "link": "https:\/\/shopbecasa.com\/products\/sophie-top",
             "link_text": "",
@@ -325,18 +325,19 @@
             "width": "33",
             "height": 500,
             "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/becasa-Club-Linen-Pant-Summer-White-3.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "text_position": "center_center",
             "accent": "",
-            "title": "Grid item",
+            "title": "",
             "heading_font_class": "fs-heading-2-base",
-            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "",
+            "text": "<p>Shop Bottoms<\/p>",
             "text_font_class": "fs-body-100",
-            "link": "",
+            "link": "https:\/\/shopbecasa.com\/collections\/pants",
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
@@ -345,7 +346,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 30
+            "overlay_opacity": 0
           }
         }
       },
@@ -371,8 +372,8 @@
         "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/becasa-Sophie-Top-Tidal-Sand-4.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/becasa-Club-Linen-Pant-Summer-Blue-1.jpg",
+            "image": "shopify:\/\/shop_images\/becasa-Sullivan-Top-Salt-Lace-1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/becasa-Sullivan-Top-Salt-Lace-1.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
             "title": "",
@@ -385,7 +386,7 @@
         "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/becasa-San-Juan-Maxi-Dress-summer-blue-4.jpg",
+            "image": "shopify:\/\/shop_images\/becasa-Pareo-Riviera-0.jpg",
             "image_mobile": "shopify:\/\/shop_images\/becasa-Pareo-Riviera-0.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
@@ -481,49 +482,6 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "image_hero_wjPh9K": {
-      "type": "image-hero",
-      "blocks": {
-        "spacer_xkqTKb": {
-          "type": "spacer",
-          "settings": {
-            "space": 32
-          }
-        },
-        "button_TdwjL6": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/products\/crewneck-sweatshirt-1",
-            "link_text": "Sweatshirts",
-            "button_style": "btn--callout"
-          }
-        }
-      },
-      "block_order": [
-        "spacer_xkqTKb",
-        "button_TdwjL6"
-      ],
-      "settings": {
-        "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 70,
-        "image": "shopify:\/\/shop_images\/becasa-jetty-crewneck-sweatshirt.png",
-        "image_mobile": "shopify:\/\/shop_images\/becasa-jetty-crewneck-sweatshirt.png",
-        "focal_point": "image_presentation",
-        "mobile_focal_point": "image_presentation",
-        "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
-        "text_position": "center_flex-end",
-        "text_position_mobile": "center_flex-end",
-        "text_color": "#ffffff",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#000000",
-        "color_overlay": "#000000",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 0,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-none"
-      }
-    },
     "image_hero_tFqM8J": {
       "type": "image-hero",
       "blocks": {
@@ -569,6 +527,49 @@
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
         "overlay_opacity": 40,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "image_hero_wjPh9K": {
+      "type": "image-hero",
+      "blocks": {
+        "spacer_xkqTKb": {
+          "type": "spacer",
+          "settings": {
+            "space": 32
+          }
+        },
+        "button_TdwjL6": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link_text": "Sweatshirts",
+            "button_style": "btn--callout"
+          }
+        }
+      },
+      "block_order": [
+        "spacer_xkqTKb",
+        "button_TdwjL6"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 70,
+        "image": "shopify:\/\/shop_images\/becasa-jetty-crewneck-sweatshirt.png",
+        "image_mobile": "shopify:\/\/shop_images\/becasa-jetty-crewneck-sweatshirt.png",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+        "text_position": "center_center",
+        "text_position_mobile": "center_flex-end",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
@@ -1110,8 +1111,8 @@
     "grid_WB4Cxe",
     "ecf923bb-5df9-490a-a136-852ed7481b68",
     "72cfcdbc-1917-4fb1-b91f-8822526f9943",
-    "image_hero_wjPh9K",
     "image_hero_tFqM8J",
+    "image_hero_wjPh9K",
     "3a2d7467-0626-4894-bbb0-e4eb846771d1",
     "5150decb-e44c-41bf-a9bc-491a7173d262",
     "f0d3ab67-bc81-4459-b5f1-afea099f386f",
