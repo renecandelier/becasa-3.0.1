@@ -159,7 +159,7 @@
 
                {%- for variant in product.variants -%}  
                   
-                 {%- assign variantColor = variant.title -%}  
+                 {%- assign variantColor = variant.title | split: " " | first | downcase -%}  
 
 {% if variantColor contains "*" %}
 {% else %}
