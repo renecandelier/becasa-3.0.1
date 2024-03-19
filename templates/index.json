@@ -14,8 +14,8 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "title": "resort dresses",
-            "heading_font_class": "fs-heading-display-2"
+            "title": "Spring",
+            "heading_font_class": "fs-heading-display-3"
           }
         },
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-text-1": {
@@ -28,29 +28,16 @@
         },
         "text_aQMVpj": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<h1><em>L WILLIAMS x BECASA<\/em><\/h1>",
+            "text": "<h1><em>Our Spring Line<\/em><\/h1>",
             "text_font_class": "fs-body-200"
-          }
-        },
-        "spacer_Eb7dLj": {
-          "type": "spacer",
-          "settings": {
-            "space": 64
-          }
-        },
-        "spacer_At3Vwz": {
-          "type": "spacer",
-          "settings": {
-            "space": 64
           }
         },
         "button_GGMxag": {
           "type": "button",
           "settings": {
             "link": "shopify:\/\/collections\/spring-24-collection",
-            "link_text": "shop now",
+            "link_text": "explore new styles",
             "button_style": "btn--callout"
           }
         }
@@ -60,8 +47,6 @@
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-heading-1",
         "template--15906633646133__01ffb404-403f-4ca8-a4b9-e6b50f94da3e-text-1",
         "text_aQMVpj",
-        "spacer_Eb7dLj",
-        "spacer_At3Vwz",
         "button_GGMxag"
       ],
       "settings": {
@@ -73,8 +58,8 @@
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "shopify:\/\/collections\/spring-24-collection",
-        "text_position": "center_center",
-        "text_position_mobile": "center_center",
+        "text_position": "flex-start_flex-start",
+        "text_position_mobile": "flex-start_flex-start",
         "text_color": "#ffffff",
         "button_background_color": "#ffffff",
         "button_text_color": "#000000",
@@ -131,10 +116,10 @@
             "heading_font_class": "fs-heading-display-2",
             "subheading": "",
             "subheading_font_class": "fs-heading-6-base",
-            "text": "",
+            "text": "<p><a href=\"\/products\/helena-dress\" title=\"Helena Dress\">shop now<\/a><\/p>",
             "text_font_class": "fs-body-75",
             "link_1": "https:\/\/shopbecasa.com\/products\/helena-dress",
-            "link_text_1": "shop now",
+            "link_text_1": "",
             "button_style_1": "btn--primary",
             "link_2": "",
             "link_text_2": "",
