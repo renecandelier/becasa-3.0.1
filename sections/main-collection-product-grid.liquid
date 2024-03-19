@@ -160,6 +160,7 @@
                {%- for variant in product.variants -%}  
                   
                  {%- assign variantColor = variant.title | split: " " | first | downcase -%}  
+<script>console.log({{ variant | json }});</script>
 
 {% if variantColor contains "*" %}
 {% else %}
