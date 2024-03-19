@@ -268,15 +268,15 @@
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
-            "text_position": "center_center",
+            "text_position": "center_flex-end",
             "accent": "",
             "title": "",
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "",
+            "text": "<p>Shop Tops<\/p>",
             "text_font_class": "fs-body-100",
-            "link": "",
+            "link": "shopify:\/\/collections\/tops",
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
@@ -340,10 +340,10 @@
             "link_text": "",
             "button_style": "btn--primary",
             "background_color": "",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 30
           }
@@ -483,6 +483,26 @@
     },
     "image_hero_wjPh9K": {
       "type": "image-hero",
+      "blocks": {
+        "spacer_xkqTKb": {
+          "type": "spacer",
+          "settings": {
+            "space": 32
+          }
+        },
+        "button_TdwjL6": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link_text": "Sweatshirts",
+            "button_style": "btn--callout"
+          }
+        }
+      },
+      "block_order": [
+        "spacer_xkqTKb",
+        "button_TdwjL6"
+      ],
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 100,
@@ -492,7 +512,7 @@
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
-        "text_position": "center_center",
+        "text_position": "center_flex-end",
         "text_position_mobile": "center_flex-end",
         "text_color": "#ffffff",
         "button_background_color": "#ffffff",
