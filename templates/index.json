@@ -260,7 +260,7 @@
         "item_fE3jQD": {
           "type": "item",
           "settings": {
-            "width": "50",
+            "width": "33",
             "height": 720,
             "mobile_height": 500,
             "image": "shopify:\/\/shop_images\/becasa-Pareo-Riviera-0.jpg",
@@ -291,7 +291,7 @@
         "item_93drzT": {
           "type": "item",
           "settings": {
-            "width": "50",
+            "width": "33",
             "height": 720,
             "mobile_height": 500,
             "image": "shopify:\/\/shop_images\/becasa-sophie-top.jpg",
@@ -318,11 +318,41 @@
             "color_overlay_gradient": "",
             "overlay_opacity": 0
           }
+        },
+        "item_mPA3qJ": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
         }
       },
       "block_order": [
         "item_fE3jQD",
-        "item_93drzT"
+        "item_93drzT",
+        "item_mPA3qJ"
       ],
       "settings": {
         "heading": "",
