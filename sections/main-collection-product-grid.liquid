@@ -159,8 +159,6 @@
                {%- for variant in product.variants -%}  
                   
                  {%- assign variantColor = variant.option1 | downcase -%}  
-<script>console.log({{ variantColor | json }});</script>
-<script>console.log({{ variant.option1 | json }});</script>
 
 {% if variantColor contains "*" %}
 {% else %}
