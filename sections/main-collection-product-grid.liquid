@@ -160,7 +160,7 @@
                   
                  {%- assign variantColor = variant.title | split: " " | first | downcase -%}  
 <script>console.log({{ variantColor | json }});</script>
-<script>console.log({{ variant.title | json }});</script>
+<script>console.log({{ variant.option1 | json }});</script>
 
 {% if variantColor contains "*" %}
 {% else %}
