@@ -158,7 +158,7 @@
 
                {%- for variant in product.variants -%}  
                   
-                 {%- assign variantColor = variant.title | split: " " | first | downcase -%}  
+                 {%- assign variantColor = variant.option1 | downcase -%}  
 <script>console.log({{ variantColor | json }});</script>
 <script>console.log({{ variant.option1 | json }});</script>
 
@@ -168,7 +168,7 @@
                    {%- assign currentVariantColor = variantColor -%}    
                    {%- assign foundFirstImage = false -%}   
                    {% for media in product.media %}   
-                     {% assign altName = media.alt | split: " " | first | downcase %}   
+                     {% assign altName = media.alt | downcase %}   
                      {% if variantColor == altName and foundFirstImage == false and media.media_type == "image" %}    
                        {%- assign foundFirstImage = true -%}    
                        {% assign altIndex = media.position %}   
