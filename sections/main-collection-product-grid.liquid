@@ -142,7 +142,6 @@
 
                      {%- assign isCollectionSplit = true -%}
 {%- if collection.description == "non-split" -%}    
-<script>console.log({{ collection | json }});</script>
                    {%- assign isCollectionSplit = false -%}   
   {%- endif -%}
          {%- for product in collection.products -%}   
@@ -160,6 +159,7 @@
                {%- for variant in product.variants -%}  
                   
                  {%- assign variantColor = variant.title -%}  
+<script>console.log({{ variantColor | json }});</script>
 
 {% if variantColor contains "*" %}
 {% else %}
