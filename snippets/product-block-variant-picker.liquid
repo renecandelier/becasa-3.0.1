@@ -255,7 +255,9 @@
             {%- for value in option.values -%}
   <script>console.log({{ variantColor | json }});</script>
 
+              {% if variantColor contains "*" %}
 
+{% else %}
               <button
                 type="button"
                 data-button
@@ -275,7 +277,7 @@
               >
                 {{ value }}
               </button>
-
+                {%- endif -%} 
             {%- endfor -%}
 
             {{ option_values }}
