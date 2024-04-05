@@ -283,7 +283,7 @@
                 {%- endif -%} 
             {%- endfor -%}
 
-
+            {{ option_values }}
           </div>
         {%- else -%}
           <div
@@ -295,7 +295,7 @@
             "
             data-index="option{{ forloop.index }}"
           >
-            {{ option_values }}
+
 
             {% render 'icon' with icon: 'chevron-small' %}
           </div>
