@@ -254,9 +254,9 @@
           >
             {%- for value in option.values -%}
                               {%- assign variantColor1 = value -%}  
+  <script>console.log({{ variantColor1 | json }});</script>
 
               {% if variantColor1 contains "*" %}
-  <script>console.log({{ variantColor1 | json }});</script>
 
 {% else %}
               <button
