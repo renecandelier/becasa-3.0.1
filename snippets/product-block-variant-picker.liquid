@@ -201,12 +201,12 @@
                 {%- assign variantColor = value | split: " " | first | downcase -%}  
 <script>console.log({{ value | json }});</script>
   <script>console.log({{ variantColor }});</script>
-{%comment %}
+
 {% if variantColor contains "*" %}
   <script>console.log({{ variantColor | json }});</script>
 
 {% else %}
-{% endcomment %}
+
                 <button
                   type="button"
                   data-option-origin="{{ option.name }}"
@@ -234,7 +234,7 @@
 
 
                   </button>
-  {% comment %} {%- endif -%} {% endcomment %}
+   {%- endif -%} 
               {%- endfor -%}
 
               {{ option_values }}
