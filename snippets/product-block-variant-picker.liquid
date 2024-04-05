@@ -261,25 +261,7 @@
   <script>console.log({{ variantColor | json }});</script>
 
 {% else %}
-              <button
-                type="button"
-                data-button
-                data-label="{{ value | url_encode }}"
-                aria-label="{{ value | replace: '"', "'" }}"
-                data-option-value="{{ value | escape }}"
-                data-option-handle="{{ value | handleize }}--{{ forloop.index0 }}"
-                class="
-                  product__chip
-                  {% if option.selected_value == value %}
-                    selected
-                  {% endif %}
-                  {% if dynamic_options %}
-                    dynamic-variant-button
-                  {% endif %}
-                "
-              >
-                {{ value }}
-              </button>
+              
                 {%- endif -%} 
             {%- endfor -%}
 
