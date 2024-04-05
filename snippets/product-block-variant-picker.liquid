@@ -255,9 +255,8 @@
             data-layout="{{ chip_layout }}"
           >
             {%- for value in option.values -%}
-                              {%- assign variantColor1 = value -%}  
 
-              {% if variantColor1 contains "*" %}
+              {% if variantColor contains "*" %}
   <script>console.log({{ variantColor | json }});</script>
 
 {% else %}
