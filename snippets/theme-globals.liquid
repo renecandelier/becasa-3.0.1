@@ -17,16 +17,16 @@
 {% assign useUnminThemeJS = false %}
 
 {% if useUnminThemeJS %}
-  <script type="module" src="{{ 'theme.js' | asset_url }}"></script>
-{% else %}
   <script type="module" src="{{ 'theme.min.js' | asset_url }}"></script>
+{% else %}
+  <script type="module" src="{{ 'theme.js' | asset_url }}"></script>
 {% endif %}
 
 {% # Set the following line to true to import custom-events.js %}
 {% assign useCustomEvents = false %}
 
 {% # Set the following line to true to import custom.css %}
-{% assign useCustomCSS = false %}
+{% assign useCustomCSS = true %}
 
 {% if useCustomEvents %}
   <script src="{{ 'custom-events.js' | asset_url }}" defer></script>

@@ -5352,33 +5352,170 @@ function reviewsHandler (node, container) {
   i$1(accordion, classes$q.hidden);
 }
 
+
+
 function OptionButtons(els) {
-  const groups = els.map(createOptionGroup);
+  var groups = els.map(createOptionGroup);
+
   function destroy() {
-    groups && groups.forEach(group => group());
+    groups && groups.forEach(function (group) {
+      return group();
+    });
   }
+
   return {
-    groups,
-    destroy
+    groups: groups,
+    destroy: destroy
   };
 }
+
+// ***&&&*** variant project 
+
 function createOptionGroup(el) {
-  const select = n$2("select", el);
-  const buttons = t$2("[data-button]", el);
-  const buttonClick = e$2(buttons, "click", e => {
+  console.log('sdsd');
+  document.addEventListener("DOMContentLoaded", function() {
+  const carouselMobiles = document.querySelector(".below-mobile.swiper");
+
+  import(flu.chunks.swiper).then(function (_ref) {
+    var Swiper = _ref.Swiper,
+        Pagination = _ref.Pagination;
+
+    var mobileSwiper = new Swiper(carouselMobiles, {
+      pagination: {
+        el: ".swiper-pagination",
+        type: "bullets",
+        dynamicBullets: true,
+        dynamicMainBullets: 3,
+        clickable: true
+      },
+      watchSlidesProgress: true,
+      initialSlide: 0,
+      autoHeight: true
+    });
+
+    mobileSwiper.slideTo(0, false, false);
+  });
+    console.log('d2');
+});
+  var select = n$2("select", el);
+  var buttons = t$2("[data-button]", el);
+  var buttonClick = e$2(buttons, "click", function (e) {
     e.preventDefault();
-    const buttonEl = e.currentTarget;
-    const {
-      optionHandle
-    } = buttonEl.dataset;
-    buttons.forEach(btn => {
+    
+    var buttonEl = e.currentTarget;
+    var optionHandle = buttonEl.dataset.optionHandle;
+    var optionHandleValue = buttonEl.dataset.optionValue;
+    var colorOptionHandle = buttonEl.dataset.optionOrigin;
+   
+    const optionHandleValueLower = optionHandleValue.toLowerCase();
+     
+    const productThumb = document.querySelectorAll(".product-thumbnails__items img");
+    const mainProductThumb = document.querySelectorAll(".product__media-container img");
+    const carouselWrapper = document.querySelector(".product__media.carousel__wrapper.swiper-wrapper")
+    const carouselMobile = document.querySelector(".below-mobile.swiper");
+    console.log("clickcheck");
+    if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
+       productThumb.forEach(thumb => {
+      const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement
+      
+      if(optionHandleValueLower !== thumb.alt.toLowerCase()){
+        //console.log("optionHandleValueLower",optionHandleValueLower, thumb.alt.toLowerCase())
+        thumbParent.classList.add("hide__img");
+        thumbParent.classList.remove("visible__img");   
+         
+      }else {
+        //console.log("optionHandleValueLower",optionHandleValueLower, thumb.alt.toLowerCase())
+        thumbParent.classList.add("visible__img");
+        thumbParent.classList.remove("hide__img", "hidden");
+
+      }
+    })
+    }
+
+    if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
+       mainProductThumb.forEach(thumb => {
+      const thumbParent = thumb.parentElement.parentElement.parentElement.parentElement;
+         const videoParent = thumb.parentElement.parentElement.parentElement.parentElement.parentElement;
+      const lightThumbParent = thumb.parentElement.parentElement.parentElement;
+     
+      if(optionHandleValueLower !== thumb.alt.toLowerCase()){
+        thumbParent.classList.add("hide__img");
+        thumbParent.classList.remove("visible__img");
+
+        videoParent.classList.add("hide__img");
+        videoParent.classList.remove("visible__img");
+
+        lightThumbParent.classList.add("lighthouse__hide_img");
+        lightThumbParent.classList.remove("lighthouse__visible_img");
+
+console.log('ddd');
+      
+      }else {
+        thumbParent.classList.add("visible__img");
+        thumbParent.classList.remove("hide__img", "hidden");
+
+        videoParent.classList.add("visible__img");
+        videoParent.classList.remove("hide__img", "hidden");
+        
+        lightThumbParent.classList.remove("lighthouse__hide_img");
+        lightThumbParent.classList.add("lighthouse__visible_img");
+        console.log('fff');
+
+      }
+    })
+    }
+
+    
+    
+   
+    //console.log("product-thumbnails__items",productThumb)
+    buttons.forEach(function (btn) {
       l(btn, "selected", btn.dataset.optionHandle === optionHandle);
     });
-    const opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
+    var opt = n$2("[data-value-handle=\"".concat(optionHandle, "\"]"), select);
+    console.log("OPT", opt, colorOptionHandle);
     opt.selected = true;
+
     select.dispatchEvent(new Event("change"));
+    // if(colorOptionHandle ==="Color" || colorOptionHandle ==="color"){
+    //   select.dispatchEvent(new Event("change"));
+    // }
+
+
+    import(flu.chunks.swiper).then(function (_ref) {
+      var Swiper = _ref.Swiper,
+          Pagination = _ref.Pagination;
+        var mobileSwiper = new Swiper(carouselMobile, {
+        pagination: {
+          el: ".swiper-pagination",
+          type: "bullets",
+          dynamicBullets: true,
+          dynamicMainBullets: 3,
+          clickable: true
+        },
+         watchSlidesProgress: true,
+      initialSlide: 0,
+      autoHeight: true
+    });
+
+    mobileSwiper.slideTo(0, false, false);
+
+    });
+
+    // var swiper = new Swiper(carouselMobile, {
+    //   navigation: {
+    //     nextEl: '.swiper-button-next',
+    //     prevEl: '.swiper-button-prev',
+    //   }
+    // });
+    
+    
   });
-  return () => buttonClick();
+  return function () {
+    return buttonClick();
+  };
+
+  
 }
 
 const selectors$M = {
@@ -5565,7 +5702,7 @@ var Carousel = (function (node) {
     // and will always sliding now
 
     if (document.body.classList.contains("user-is-tabbing")) {
-      carousel.slideTo(slideIndex);
+      carousel.slideTo(0, false,false);
     }
   }
   import(flu.chunks.swiper).then(_ref => {
@@ -6247,7 +6384,7 @@ const {
   icons: icons$1
 } = window.theme;
 function productLightbox() {
-  const lightboxImages = t$2(".lightbox-image", document);
+  var lightboxImages = t$2(".lightbox-image.lighthouse__visible_img", document);
   if (!lightboxImages.length) return;
   let productLightbox;
   import(flu.chunks.photoswipe).then(_ref => {
@@ -6257,7 +6394,7 @@ function productLightbox() {
     } = _ref;
     productLightbox = new PhotoSwipeLightbox({
       gallery: ".lightbox-media-container",
-      children: ".lightbox-image",
+      children: ".lightbox-image.lighthouse__visible_img",
       showHideAnimationType: "zoom",
       pswpModule: PhotoSwipe,
       mainClass: "pswp--product-lightbox",
@@ -6566,7 +6703,7 @@ class Product {
         watchSlidesProgress: true,
         loop: this.loopMobileCarousel,
         autoHeight: true,
-        initialSlide: initialSlide
+        initialSlide: 0
       });
       this.mobileSwiper.on("slideChange", evt => {
         if (this.viewInYourSpace) {
@@ -6726,7 +6863,7 @@ class Product {
           const targetSlide = n$2("[data-media-item-id=\"".concat(variant.featured_media.id, "\"]"), slidesWrap);
           if (targetSlide) {
             const targetSlideIndex = [...targetSlide.parentElement.children].indexOf(targetSlide);
-            this.mobileSwiper.slideTo(targetSlideIndex);
+            this.mobileSwiper.slideTo(0, false,false);
           }
         } else {
           const imagesWrap = n$2(".product__media-container.above-mobile");
