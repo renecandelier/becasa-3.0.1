@@ -320,7 +320,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/z1-029A0036.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/becasa-springcollection-hotelbar-margarita-r1_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/z1-029A0036.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "https:\/\/shopbecasa.com\/products\/pareo?_pos=2&_psq=pareo&_ss=e&_v=1.0&variant=42867639877685",
@@ -351,7 +351,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/029A9867.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/becasa-springcollection-hotelbar-martini-r1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/029A9867.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "https:\/\/shopbecasa.com\/products\/pareo?_pos=2&_psq=pareo&_ss=e&_v=1.0&variant=42867639943221",
@@ -382,7 +382,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/z1-029A0578.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/becasa-springcollection-hotelbar-mimosa-r1_1.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/z1-029A0578.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "https:\/\/shopbecasa.com\/products\/pareo?_pos=2&_psq=pareo&_ss=e&_v=1.0&variant=42867639910453",
@@ -413,6 +413,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/z1-029A1739.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/z1-029A1739.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "",
@@ -436,7 +437,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 40
+            "overlay_opacity": 6
           }
         }
       },
@@ -463,6 +464,37 @@
     "grid_WB4Cxe": {
       "type": "grid",
       "blocks": {
+        "item_93drzT": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 600,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/VSP_9903.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/VSP_9903.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p>Dresses<\/p>",
+            "text_font_class": "fs-body-100",
+            "link": "https:\/\/shopbecasa.com\/collections\/dresses",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 5
+          }
+        },
         "item_fE3jQD": {
           "type": "item",
           "settings": {
@@ -491,38 +523,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 5
-          }
-        },
-        "item_93drzT": {
-          "type": "item",
-          "settings": {
-            "width": "33",
-            "height": 600,
-            "mobile_height": 500,
-            "image": "shopify:\/\/shop_images\/CabanaDress-Citrus-Flower-1.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/CabanaDress-Citrus-Flower-1.jpg",
-            "media_fit": "cover",
-            "focal_point": "image_presentation",
-            "mobile_focal_point": "image_presentation",
-            "text_position": "center_center",
-            "accent": "",
-            "title": "",
-            "heading_font_class": "fs-heading-2-base",
-            "subheading": "",
-            "subheading_font_class": "fs-heading-5-base",
-            "text": "<p>Dresses<\/p>",
-            "text_font_class": "fs-body-100",
-            "link": "https:\/\/shopbecasa.com\/collections\/dresses",
-            "link_text": "",
-            "button_style": "btn--primary",
-            "background_color": "",
-            "text_color": "#ffffff",
-            "button_background_color": "#ffffff",
-            "button_text_color": "#000000",
-            "color_overlay": "#000000",
-            "color_overlay_gradient": "",
-            "overlay_opacity": 5
+            "overlay_opacity": 6
           }
         },
         "item_mPA3qJ": {
@@ -531,8 +532,8 @@
             "width": "33",
             "height": 500,
             "mobile_height": 500,
-            "image": "shopify:\/\/shop_images\/becasa-Club-Linen-Pant-Summer-Blue-3_20c11bbb-2e64-4300-b75a-d2956dff9e0a.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/becasa-Club-Linen-Pant-Summer-Blue-5_5d6ee1af-e995-4530-ade2-6a00e89c755f.jpg",
+            "image": "shopify:\/\/shop_images\/VSP_9847.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/VSP_9847.jpg",
             "media_fit": "cover",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
@@ -553,13 +554,13 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 5
+            "overlay_opacity": 6
           }
         }
       },
       "block_order": [
-        "item_fE3jQD",
         "item_93drzT",
+        "item_fE3jQD",
         "item_mPA3qJ"
       ],
       "settings": {
@@ -703,8 +704,8 @@
         "image_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 70,
-        "image": "shopify:\/\/shop_images\/BecasaAugust2023-2403.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-2403.jpg",
+        "image": "shopify:\/\/shop_images\/BecasaAugust2023-1977.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1977.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
@@ -726,8 +727,8 @@
         "button_kbKfyr": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections\/becasa-x-l-williams",
-            "link_text": "BECASA x L.Williams",
+            "link": "shopify:\/\/collections\/summer-collection",
+            "link_text": "Our Classics",
             "button_style": "btn--callout"
           }
         }
@@ -739,11 +740,11 @@
         "image_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 60,
-        "image": "shopify:\/\/shop_images\/029A6891.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/029A6891.jpg",
+        "image": "shopify:\/\/shop_images\/BecasaAugust2023-0223.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-0227.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
-        "media_link": "shopify:\/\/collections\/becasa-x-l-williams",
+        "media_link": "shopify:\/\/collections",
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
@@ -762,8 +763,8 @@
         "image_aspect": "custom",
         "desktop_height": 80,
         "mobile_height": 70,
-        "image": "shopify:\/\/shop_images\/becasa_beach_image_e1381d67-b365-4116-8bea-1cb8c3122d1c.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/becasa_beach_image_8ed2cc02-96a9-40ff-96f3-2b03a8194a37.jpg",
+        "image": "shopify:\/\/shop_images\/z1-029A0673.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/z1-029A0673.jpg",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "shopify:\/\/collections\/spring-24-collection",
@@ -784,6 +785,7 @@
       "blocks": {
         "template--15554391310389__5150decb-e44c-41bf-a9bc-491a7173d262-slide-2": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/beach-folly-skirt-becasa.jpg",
             "image_mobile": "shopify:\/\/shop_images\/beach-folly-skirt-becasa.jpg",
@@ -797,7 +799,7 @@
             "heading_font_class": "fs-heading-display-2",
             "subheading": "",
             "subheading_font_class": "fs-heading-6-base",
-            "text": "<p><a href=\"\/collections\/becasa-x-l-williams\" title=\"BECASA x L.Williams\">BECASA x L.Williams<\/a><\/p>",
+            "text": "<p>Our Classics<\/p>",
             "text_font_class": "fs-body-100",
             "link_1": "shopify:\/\/collections\/becasa-x-l-williams",
             "link_text_1": "",
@@ -1137,7 +1139,7 @@
             "height": 500,
             "mobile_height": 500,
             "image": "shopify:\/\/shop_images\/Becasa-July-2181.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/BecasaAugust2023-1974_8e9e9e4d-d5cb-468e-879d-814abb3614bc.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/z1-029A1593.jpg",
             "media_fit": "cover",
             "focal_point": "center",
             "mobile_focal_point": "center",
