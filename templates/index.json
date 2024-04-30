@@ -222,7 +222,7 @@
         "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0": {
           "type": "quote",
           "settings": {
-            "quote": "<p><em>Summer at Home -- xxx new quote from <\/em>Emily<em> about summer line -- <\/em><\/p><p><\/p><p><em>Our Spring Line is all about our luxurious linens and breathable cotton. <\/em><\/p><p><em>The designs encapsulate the <\/em>carefree essence of seaside living<em>; <\/em><\/p><p><em>ensuring that you carry a piece of that beauty with you wherever your travels take you. <\/em><\/p><p><em>The palette invokes the serene beauty of natural and coastal landscapes, both near and far.\" <\/em><\/p><p><\/p><p><em>-- BECASA founder, Emily Raffield<\/em><\/p>",
+            "quote": "<p><em>\"Summer is when our spirits sing. The beach calls, our yards glow with greenery and twinkling lights, days stretch, and the sun warms us inside and out. <\/em>BECASA's Summer Line<em> is ready for the season.\"<\/em><\/p><p><em>-- BECASA founder, Emily Raffield<\/em><\/p>",
             "title": "",
             "font_size": "small"
           }
@@ -432,10 +432,10 @@
             "link_2": "",
             "link_text_2": "",
             "button_style_2": "btn--primary",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 6
           }
