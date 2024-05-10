@@ -37,7 +37,7 @@
           "type": "button",
           "settings": {
             "link": "shopify:\/\/collections\/spring-24-collection",
-            "link_text": "explore our latest collection - verdant summer",
+            "link_text": "shop our latest collection",
             "button_style": "btn--callout"
           }
         }
@@ -86,10 +86,10 @@
         "collection_JyMnPH"
       ],
       "settings": {
-        "heading": "",
-        "subheading": "<p><em>Our Summer Line<\/em><\/p>",
+        "heading": "Verdant Summer",
+        "subheading": "",
         "link": "shopify:\/\/collections\/summer-collection",
-        "link_text": "",
+        "link_text": "Our Summer Line",
         "maximum_products": 15,
         "columns": "5",
         "mobile_columns": "2",
@@ -114,7 +114,7 @@
             "accent": "",
             "title": "honey dress",
             "heading_font_class": "fs-heading-display-2",
-            "subheading": "shop our latest dress style",
+            "subheading": "shop the look",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-75",
@@ -129,7 +129,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 13
+            "overlay_opacity": 17
           }
         },
         "slide_zzNRia": {
@@ -655,8 +655,8 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 100,
+        "desktop_height": 80,
+        "mobile_height": 80,
         "text_position": "flex-end",
         "text_color": "#f5f3f0",
         "button_background_color": "#ffffff",
@@ -674,7 +674,7 @@
         "quote_Fx37Vg": {
           "type": "quote",
           "settings": {
-            "quote": "<p><em>We invite you in to the coastal mentality... Let's Find the Beach<\/em><\/p>",
+            "quote": "<p><em>The Verdant Beauty of a BECASA Summer<\/em><\/p><p>Green, blooming, and lush at every turn—that's what we envision for our BECASA summer.<\/p>",
             "title": "",
             "font_size": "small"
           }
@@ -717,8 +717,8 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 70,
+        "desktop_height": 90,
+        "mobile_height": 65,
         "image": "shopify:\/\/shop_images\/BecasaAugust2023-1977.jpg",
         "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1977.jpg",
         "focal_point": "image_presentation",
@@ -762,8 +762,8 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 60,
+        "desktop_height": 90,
+        "mobile_height": 55,
         "image": "shopify:\/\/shop_images\/BecasaAugust2023-0223.jpg",
         "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-0227.jpg",
         "focal_point": "image_presentation",
