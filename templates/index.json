@@ -36,7 +36,7 @@
         "button_GGMxag": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections\/spring-24-collection",
+            "link": "shopify:\/\/collections\/summer-collection",
             "link_text": "shop our latest collection",
             "button_style": "btn--callout"
           }
@@ -108,11 +108,11 @@
             "image_mobile": "shopify:\/\/shop_images\/029A9399.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
-            "media_link": "https:\/\/shopbecasa.com\/collections\/spring-24-collection\/products\/amelia-blouse?variant=42989694844981",
+            "media_link": "shopify:\/\/collections\/all",
             "text_position": "center_center",
             "text_position_mobile": "center_center",
             "accent": "",
-            "title": "honey dress",
+            "title": "honey cinch dress",
             "heading_font_class": "fs-heading-display-2",
             "subheading": "shop the look",
             "subheading_font_class": "fs-heading-5-base",
@@ -204,8 +204,8 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 100,
+        "desktop_height": 90,
+        "mobile_height": 75,
         "enable_autoplay": true,
         "duration_autoplay": 6,
         "navigation_alignment": "center",
@@ -416,7 +416,7 @@
             "text_position": "center_center",
             "accent": "",
             "title": "Dresses",
-            "heading_font_class": "fs-heading-2-base",
+            "heading_font_class": "fs-heading-3-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
@@ -617,6 +617,176 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
+    "quote_etgEVM": {
+      "type": "quote",
+      "blocks": {
+        "quote_Fx37Vg": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><em>Green, blooming, and lush at every turn—that's what we envision for our BECASA summer. With an intense love for coastal landscapes, we're drawn to the virescent palms, lush foliage, and thick St. Augustine grass carpets beneath our feet. These familiar textures and colors frame our lives, grounding us in a shared summer experience.<\/em><\/p>",
+            "title": "",
+            "font_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "quote_Fx37Vg"
+      ],
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "grid_nGDXi6": {
+      "type": "grid",
+      "blocks": {
+        "item_Dmwzy8": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/029A8209_b7d12286-1ce3-427b-b24d-7a980a096c80.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/029A8209_a7dafc38-b84d-42be-9126-eae633fef2a0.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "BECASA x L.Williams",
+            "heading_font_class": "fs-heading-3-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/collections\/becasa-x-l-williams",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 15
+          }
+        },
+        "item_F8ckTL": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/BECASA-Beach_Day_2-VSP_9446_5fcb40cb-d2bb-4d4f-b97f-7a329f720d95.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/BECASA-Beach_Day_2-VSP_9446_6c54241d-8590-4617-b8e3-33f1d5c638e8.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Our Spring Line",
+            "heading_font_class": "fs-heading-3-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/collections\/spring-24-collection",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 13
+          }
+        },
+        "item_RrAJk9": {
+          "type": "item",
+          "settings": {
+            "width": "100",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1977_ec4334c6-b8d7-4dcb-8989-bde4197eda99.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/BecasaAugust2023-1977_017ed9cc-bcd4-464b-af94-9ead5b70dbf5.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Sweatshirts",
+            "heading_font_class": "fs-heading-3-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 17
+          }
+        },
+        "item_YrT9UN": {
+          "type": "item",
+          "settings": {
+            "width": "100",
+            "height": 500,
+            "mobile_height": 500,
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-0223_53893837-e50b-45a8-aa50-639c2504a23d.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/BecasaAugust2023-0223_84367b19-139c-430c-a9a1-b97587d6bd79.jpg",
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Our Classics",
+            "heading_font_class": "fs-heading-3-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "shopify:\/\/collections",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 17
+          }
+        }
+      },
+      "block_order": [
+        "item_Dmwzy8",
+        "item_F8ckTL",
+        "item_RrAJk9",
+        "item_YrT9UN"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "content_alignment": "left",
+        "enable_animation": true,
+        "full_width": false,
+        "spacing": 24,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
     "ecf923bb-5df9-490a-a136-852ed7481b68": {
       "type": "image-hero-split",
       "blocks": {
@@ -629,7 +799,7 @@
             "mobile_focal_point": "center",
             "title": "BECASA x LW",
             "text": "",
-            "link": "shopify:\/\/products\/resort-dress-maxi",
+            "link": "shopify:\/\/collections\/becasa-x-l-williams",
             "link_text": "",
             "button_style": "btn--primary"
           }
@@ -653,10 +823,11 @@
         "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1",
         "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 80,
-        "mobile_height": 80,
+        "desktop_height": 75,
+        "mobile_height": 75,
         "text_position": "flex-end",
         "text_color": "#f5f3f0",
         "button_background_color": "#ffffff",
@@ -666,31 +837,6 @@
         "overlay_opacity": 7,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
-      }
-    },
-    "quote_etgEVM": {
-      "type": "quote",
-      "blocks": {
-        "quote_Fx37Vg": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p><em>The Verdant Beauty of a BECASA Summer<\/em><\/p><p>Green, blooming, and lush at every turn—that's what we envision for our BECASA summer.<\/p>",
-            "title": "",
-            "font_size": "small"
-          }
-        }
-      },
-      "block_order": [
-        "quote_Fx37Vg"
-      ],
-      "settings": {
-        "autoplay_enabled": true,
-        "autoplay_delay": 7,
-        "pagination_style": "dots",
-        "font_choice": "heading",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "image_hero_wjPh9K": {
@@ -715,6 +861,7 @@
         "spacer_xkqTKb",
         "heading_wJqbjD"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 90,
@@ -760,6 +907,7 @@
         "button_kbKfyr",
         "heading_kAyHLc"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 90,
@@ -1300,8 +1448,9 @@
     "image_hero_tFqM8J",
     "video_iMdnDU",
     "video_hero_xc7AwN",
-    "ecf923bb-5df9-490a-a136-852ed7481b68",
     "quote_etgEVM",
+    "grid_nGDXi6",
+    "ecf923bb-5df9-490a-a136-852ed7481b68",
     "image_hero_wjPh9K",
     "image_hero_fpHHwE",
     "image_hero_673r8Y",
