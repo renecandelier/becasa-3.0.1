@@ -95,7 +95,7 @@
         "image_aspect": "custom",
         "desktop_height": 90,
         "mobile_height": 90,
-        "image": "shopify:\/\/shop_images\/BecasaAugust2023-1820.jpg",
+        "image": "shopify:\/\/shop_images\/z1-029A1604.jpg",
         "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1820.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
@@ -108,57 +108,6 @@
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
         "overlay_opacity": 22,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-none"
-      }
-    },
-    "53cfe736-3dd8-4ffd-89fd-29df39d1a55b": {
-      "type": "image-hero-split",
-      "blocks": {
-        "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1368.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1368.jpg",
-            "focal_point": "center",
-            "mobile_focal_point": "center",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/rachel-november",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        },
-        "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/film4293_0005_copy.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/film4293_0005_copy.jpg",
-            "focal_point": "center",
-            "mobile_focal_point": "center",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/collections\/rachel-november",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-0",
-        "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-1"
-      ],
-      "settings": {
-        "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 100,
-        "text_position": "center",
-        "text_color": "#ffffff",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#000000",
-        "color_overlay": "#000000",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 0,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
@@ -310,6 +259,57 @@
         "navigation_background_opacity": 100,
         "enable_animation": true,
         "section_padding": "none"
+      }
+    },
+    "53cfe736-3dd8-4ffd-89fd-29df39d1a55b": {
+      "type": "image-hero-split",
+      "blocks": {
+        "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1368.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1368.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/rachel-november",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/film4293_0005_copy.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/film4293_0005_copy.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/collections\/rachel-november",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-0",
+        "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "text_position": "center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
       }
     },
     "rich-text-1": {
@@ -1175,6 +1175,7 @@
         "template--15376799727669__43248247-e002-49ae-ab50-f5e52522a06b-1668222967ce8aad84-0",
         "template--15376799727669__43248247-e002-49ae-ab50-f5e52522a06b-1668222967ce8aad84-1"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 100,
@@ -1402,8 +1403,8 @@
     "main",
     "be35c8eb-1631-428d-aade-73bca58ac371",
     "9eb22eab-14f7-4df6-acb4-a8cabf35478b",
-    "53cfe736-3dd8-4ffd-89fd-29df39d1a55b",
     "3666f493-d773-4b79-ab95-809b416bb5ae",
+    "53cfe736-3dd8-4ffd-89fd-29df39d1a55b",
     "rich-text-1",
     "8331a491-4095-4e4d-bedc-35afa15f6d67",
     "84d2d6d7-4a15-48f9-8c3a-5f03ceb641a3",
