@@ -415,12 +415,12 @@
             "mobile_focal_point": "image_presentation",
             "text_position": "center_center",
             "accent": "",
-            "title": "",
+            "title": "Dresses",
             "heading_font_class": "fs-heading-2-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "<p>Dresses<\/p>",
-            "text_font_class": "fs-body-100",
+            "text": "",
+            "text_font_class": "fs-body-75",
             "link": "https:\/\/shopbecasa.com\/collections\/dresses",
             "link_text": "",
             "button_style": "btn--primary",
@@ -430,7 +430,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 5
+            "overlay_opacity": 15
           }
         },
         "item_fE3jQD": {
@@ -446,11 +446,11 @@
             "mobile_focal_point": "image_presentation",
             "text_position": "center_center",
             "accent": "",
-            "title": "",
-            "heading_font_class": "fs-heading-2-base",
+            "title": "Tops",
+            "heading_font_class": "fs-heading-3-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "<p>Tops<\/p>",
+            "text": "",
             "text_font_class": "fs-body-100",
             "link": "shopify:\/\/collections\/tops",
             "link_text": "",
@@ -461,7 +461,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 6
+            "overlay_opacity": 15
           }
         },
         "item_mPA3qJ": {
@@ -477,11 +477,11 @@
             "mobile_focal_point": "image_presentation",
             "text_position": "center_center",
             "accent": "",
-            "title": "",
-            "heading_font_class": "fs-heading-2-base",
+            "title": "Bottoms",
+            "heading_font_class": "fs-heading-3-base",
             "subheading": "",
             "subheading_font_class": "fs-heading-5-base",
-            "text": "<p>Bottoms<\/p>",
+            "text": "",
             "text_font_class": "fs-body-100",
             "link": "https:\/\/shopbecasa.com\/collections\/pants",
             "link_text": "",
@@ -492,7 +492,7 @@
             "button_text_color": "#000000",
             "color_overlay": "#000000",
             "color_overlay_gradient": "",
-            "overlay_opacity": 6
+            "overlay_opacity": 15
           }
         }
       },
@@ -627,7 +627,7 @@
             "image_mobile": "shopify:\/\/shop_images\/029A8209_bfc4a68c-dd8b-4dd2-9e07-395dd436b02a.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
-            "title": "",
+            "title": "BECASA x LW",
             "text": "",
             "link": "shopify:\/\/products\/resort-dress-maxi",
             "link_text": "",
@@ -641,7 +641,7 @@
             "image_mobile": "shopify:\/\/shop_images\/BECASA-Beach_Day_2-VSP_9446.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
-            "title": "",
+            "title": "Spring Line",
             "text": "",
             "link": "shopify:\/\/products\/amelia-blouse",
             "link_text": "",
@@ -657,8 +657,8 @@
         "image_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 100,
-        "text_position": "center",
-        "text_color": "#111111",
+        "text_position": "flex-end",
+        "text_color": "#f5f3f0",
         "button_background_color": "#ffffff",
         "button_text_color": "#111111",
         "color_overlay": "#000000",
@@ -666,6 +666,31 @@
         "overlay_opacity": 7,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "quote_etgEVM": {
+      "type": "quote",
+      "blocks": {
+        "quote_Fx37Vg": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><em>We invite you in to the coastal mentality... Let's Find the Beach<\/em><\/p>",
+            "title": "",
+            "font_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "quote_Fx37Vg"
+      ],
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "image_hero_wjPh9K": {
@@ -677,18 +702,17 @@
             "space": 32
           }
         },
-        "button_TdwjL6": {
-          "type": "button",
+        "heading_wJqbjD": {
+          "type": "heading",
           "settings": {
-            "link": "shopify:\/\/products\/crewneck-sweatshirt-1",
-            "link_text": "Sweatshirts",
-            "button_style": "btn--callout"
+            "title": "Sweatshirts",
+            "heading_font_class": "fs-heading-display-2"
           }
         }
       },
       "block_order": [
         "spacer_xkqTKb",
-        "button_TdwjL6"
+        "heading_wJqbjD"
       ],
       "settings": {
         "image_aspect": "custom",
@@ -699,8 +723,8 @@
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
-        "text_position": "center_center",
-        "text_position_mobile": "center_center",
+        "text_position": "center_flex-end",
+        "text_position_mobile": "center_flex-end",
         "text_color": "#ffffff",
         "button_background_color": "#ffffff",
         "button_text_color": "#000000",
@@ -1267,6 +1291,7 @@
     "video_iMdnDU",
     "video_hero_xc7AwN",
     "ecf923bb-5df9-490a-a136-852ed7481b68",
+    "quote_etgEVM",
     "image_hero_wjPh9K",
     "image_hero_fpHHwE",
     "image_hero_673r8Y",
