@@ -698,6 +698,7 @@
       "blocks": {
         "spacer_xkqTKb": {
           "type": "spacer",
+          "disabled": true,
           "settings": {
             "space": 32
           }
@@ -706,7 +707,7 @@
           "type": "heading",
           "settings": {
             "title": "Sweatshirts",
-            "heading_font_class": "fs-heading-display-2"
+            "heading_font_class": "fs-heading-display-3"
           }
         }
       },
@@ -723,14 +724,14 @@
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
         "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
-        "text_position": "center_flex-end",
-        "text_position_mobile": "center_flex-end",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
         "text_color": "#ffffff",
         "button_background_color": "#ffffff",
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
-        "overlay_opacity": 0,
+        "overlay_opacity": 7,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
@@ -740,15 +741,24 @@
       "blocks": {
         "button_kbKfyr": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "link": "shopify:\/\/collections\/summer-collection",
             "link_text": "Our Classics",
             "button_style": "btn--callout"
           }
+        },
+        "heading_kAyHLc": {
+          "type": "heading",
+          "settings": {
+            "title": "Our Classics",
+            "heading_font_class": "fs-heading-display-3"
+          }
         }
       },
       "block_order": [
-        "button_kbKfyr"
+        "button_kbKfyr",
+        "heading_kAyHLc"
       ],
       "settings": {
         "image_aspect": "custom",
@@ -766,7 +776,7 @@
         "button_text_color": "#000000",
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
-        "overlay_opacity": 0,
+        "overlay_opacity": 7,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
