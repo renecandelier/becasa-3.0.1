@@ -29,7 +29,7 @@
         "text_aQMVpj": {
           "type": "text",
           "settings": {
-            "text": "<h1><em>Summer '24<\/em><\/h1>",
+            "text": "<h1><em>Embrace your summer style<\/em><\/h1>",
             "text_font_class": "fs-body-200"
           }
         },
@@ -37,7 +37,7 @@
           "type": "button",
           "settings": {
             "link": "shopify:\/\/collections\/spring-24-collection",
-            "link_text": "explore our styles",
+            "link_text": "explore our latest collection - verdant summer",
             "button_style": "btn--callout"
           }
         }
@@ -114,7 +114,7 @@
             "accent": "",
             "title": "honey dress",
             "heading_font_class": "fs-heading-display-2",
-            "subheading": "sweet as summer",
+            "subheading": "shop our latest dress style",
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-75",
@@ -235,21 +235,11 @@
             "title": "",
             "font_size": "small"
           }
-        },
-        "67a45d1a-0144-4cff-b0ec-b7dc315f1750": {
-          "type": "quote",
-          "disabled": true,
-          "settings": {
-            "quote": "<p>Goodbye to summer, hello to the in-between <br\/><br\/>Three New Styles – our Linen Day Caftan, Dock Shirt, and Margo Midi Dress to style for the next season<\/p>",
-            "title": "Emily Raffield, Founder + Designer BECASA",
-            "font_size": "small"
-          }
         }
       },
       "block_order": [
         "template--15376799498293__3a2d7467-0626-4894-bbb0-e4eb846771d1-1668046469468369f8-0",
-        "quote_rMMixa",
-        "67a45d1a-0144-4cff-b0ec-b7dc315f1750"
+        "quote_rMMixa"
       ],
       "settings": {
         "autoplay_enabled": true,
@@ -259,58 +249,6 @@
         "enable_animation": true,
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
-      }
-    },
-    "ecf923bb-5df9-490a-a136-852ed7481b68": {
-      "type": "image-hero-split",
-      "blocks": {
-        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Moodboard_image_-_website.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/Moodboard_image_-_website.jpg",
-            "focal_point": "center",
-            "mobile_focal_point": "center",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/products\/resort-dress-maxi",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        },
-        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/moodboard_for_site_v3.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/moodboard_for_site_v3.jpg",
-            "focal_point": "top",
-            "mobile_focal_point": "center",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/products\/amelia-blouse",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1",
-        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 100,
-        "text_position": "center",
-        "text_color": "#111111",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#111111",
-        "color_overlay": "#000000",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 7,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-none"
       }
     },
     "slideshow_zGFTTw": {
@@ -381,8 +319,8 @@
         "slide_h3gfrp": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/z1-029A0578.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/z1-029A0578.jpg",
+            "image": "shopify:\/\/shop_images\/z1-029A1282.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/z1-029A1282_70b50904-4e64-4228-9e4c-db97b7449efb.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
             "media_link": "https:\/\/shopbecasa.com\/products\/pareo?_pos=2&_psq=pareo&_ss=e&_v=1.0&variant=42867639910453",
@@ -675,6 +613,57 @@
         "color_overlay": "#000000",
         "color_overlay_gradient": "",
         "overlay_opacity": 13,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "ecf923bb-5df9-490a-a136-852ed7481b68": {
+      "type": "image-hero-split",
+      "blocks": {
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/029A8209.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/029A8209_bfc4a68c-dd8b-4dd2-9e07-395dd436b02a.jpg",
+            "focal_point": "center",
+            "mobile_focal_point": "center",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/products\/resort-dress-maxi",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BECASA-Beach_Day_2-VSP_9446_67deecad-1079-4e43-8b8a-71cc46c6a94f.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/BECASA-Beach_Day_2-VSP_9446.jpg",
+            "focal_point": "top",
+            "mobile_focal_point": "center",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/products\/amelia-blouse",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-1",
+        "template--15511990272053__ecf923bb-5df9-490a-a136-852ed7481b68-16851326878de06fcf-0"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "text_position": "center",
+        "text_color": "#111111",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#111111",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 7,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
@@ -1272,12 +1261,12 @@
     "featured_collection_slider_rtaCW8",
     "slideshow_9C9U64",
     "3a2d7467-0626-4894-bbb0-e4eb846771d1",
-    "ecf923bb-5df9-490a-a136-852ed7481b68",
     "slideshow_zGFTTw",
     "grid_WB4Cxe",
     "image_hero_tFqM8J",
     "video_iMdnDU",
     "video_hero_xc7AwN",
+    "ecf923bb-5df9-490a-a136-852ed7481b68",
     "image_hero_wjPh9K",
     "image_hero_fpHHwE",
     "image_hero_673r8Y",
