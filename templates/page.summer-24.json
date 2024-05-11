@@ -503,6 +503,59 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
+    "a97d06f5-27ec-4a57-8666-f48050891422": {
+      "type": "image-hero",
+      "blocks": {
+        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-accent-1": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image hero",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-accent-1",
+        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-heading-1",
+        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-text-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/z1-029A0666-2.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/z1-029A0666-2.jpg",
+        "focal_point": "center",
+        "mobile_focal_point": "center",
+        "media_link": "shopify:\/\/products\/pareo-bronze",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
     "a860cf28-c1d4-47b2-8dc7-15aa8309b684": {
       "type": "image-with-text-split",
       "blocks": {
@@ -1079,59 +1132,6 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "a97d06f5-27ec-4a57-8666-f48050891422": {
-      "type": "image-hero",
-      "blocks": {
-        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-accent-1": {
-          "type": "accent",
-          "disabled": true,
-          "settings": {
-            "accent": "Accent"
-          }
-        },
-        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "title": "Image hero",
-            "heading_font_class": "fs-heading-display-2"
-          }
-        },
-        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
-            "text_font_class": "fs-body-100"
-          }
-        }
-      },
-      "block_order": [
-        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-accent-1",
-        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-heading-1",
-        "template--15669107195957__a97d06f5-27ec-4a57-8666-f48050891422-text-1"
-      ],
-      "settings": {
-        "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/z1-029A0666-2.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/z1-029A0666-2.jpg",
-        "focal_point": "center",
-        "mobile_focal_point": "center",
-        "media_link": "shopify:\/\/products\/pareo-bronze",
-        "text_position": "center_center",
-        "text_position_mobile": "center_center",
-        "text_color": "#ffffff",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#000000",
-        "color_overlay": "#000000",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 0,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-none"
-      }
-    },
     "43248247-e002-49ae-ab50-f5e52522a06b": {
       "type": "image-hero-split",
       "blocks": {
@@ -1390,6 +1390,31 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
+    },
+    "quote_aMKACk": {
+      "type": "quote",
+      "blocks": {
+        "quote_raceLy": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>“Absolutely unparalleled products and service. I'm confident that this store will be the next big thing in its industry, and that its products will be timeless.”<\/p>",
+            "title": "Steve Jordans",
+            "font_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "quote_raceLy"
+      ],
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
     }
   },
   "order": [
@@ -1402,6 +1427,7 @@
     "rich-text-1",
     "8331a491-4095-4e4d-bedc-35afa15f6d67",
     "84d2d6d7-4a15-48f9-8c3a-5f03ceb641a3",
+    "a97d06f5-27ec-4a57-8666-f48050891422",
     "a860cf28-c1d4-47b2-8dc7-15aa8309b684",
     "259f0a58-9dee-45f7-95f3-180cb862d5dd",
     "8dc49ff2-bf9b-4f62-80a5-f6b04c051209",
@@ -1410,12 +1436,12 @@
     "c6d5a5e6-290b-4842-b129-4e48ff00df77",
     "498e4ca6-bd59-4a11-aadb-8539b4c0283c",
     "f68e96e0-7a17-47c0-8a4c-cf92936fcb54",
-    "a97d06f5-27ec-4a57-8666-f48050891422",
     "43248247-e002-49ae-ab50-f5e52522a06b",
     "4eba9de4-34f3-4925-b352-9c38ccf1352d",
     "8422c62c-aadf-4897-aadb-3f2a10811827",
     "790ae8b4-dcc8-46a3-ab4e-c2b0357975c0",
     "62bac39d-ef02-4d78-9739-e144ed4c0c93",
-    "c8d9d27f-7f0c-4fce-ae96-97a1dc8fcff6"
+    "c8d9d27f-7f0c-4fce-ae96-97a1dc8fcff6",
+    "quote_aMKACk"
   ]
 }
