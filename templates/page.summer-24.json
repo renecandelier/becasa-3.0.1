@@ -73,8 +73,26 @@
         "template--15487369379893__9eb22eab-14f7-4df6-acb4-a8cabf35478b-1681392371abe1568a-1": {
           "type": "heading",
           "settings": {
-            "title": "Hazel Flora",
-            "heading_font_class": "fs-heading-display-1"
+            "title": "Verdant Summer",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "spacer_pyANrr": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "spacer_q4fc4W": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
+          }
+        },
+        "spacer_wczwrA": {
+          "type": "spacer",
+          "settings": {
+            "space": 64
           }
         },
         "template--15487369379893__9eb22eab-14f7-4df6-acb4-a8cabf35478b-1681392371abe1568a-2": {
@@ -89,17 +107,20 @@
       "block_order": [
         "template--15487369379893__9eb22eab-14f7-4df6-acb4-a8cabf35478b-1681392371abe1568a-0",
         "template--15487369379893__9eb22eab-14f7-4df6-acb4-a8cabf35478b-1681392371abe1568a-1",
+        "spacer_pyANrr",
+        "spacer_q4fc4W",
+        "spacer_wczwrA",
         "template--15487369379893__9eb22eab-14f7-4df6-acb4-a8cabf35478b-1681392371abe1568a-2"
       ],
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 90,
         "mobile_height": 90,
-        "image": "shopify:\/\/shop_images\/z1-029A1604.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1820.jpg",
+        "image": "shopify:\/\/shop_images\/z1-029A1183_78152800-4915-42db-9a8b-9f38d8b45e00.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/z1-029A1183_78152800-4915-42db-9a8b-9f38d8b45e00.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
-        "media_link": "shopify:\/\/collections\/rachel-november",
+        "media_link": "shopify:\/\/collections\/summer-collection",
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
@@ -118,25 +139,25 @@
         "template--15376799727669__3666f493-d773-4b79-ab95-809b416bb5ae-16682233822e56c3e8-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1519.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1519.jpg",
+            "image": "shopify:\/\/shop_images\/z1-029A1528.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/z1-029A1528.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
             "media_link": "shopify:\/\/collections\/rachel-november",
-            "text_position": "center_center",
-            "text_position_mobile": "center_center",
+            "text_position": "flex-end_flex-start",
+            "text_position_mobile": "flex-end_center",
             "accent": "",
             "title": "",
-            "heading_font_class": "fs-heading-display-2",
-            "subheading": "",
-            "subheading_font_class": "fs-heading-5-base",
-            "text": "",
+            "heading_font_class": "fs-heading-display-3",
+            "subheading": "The Lavish Spirit of the Verdant Wilds",
+            "subheading_font_class": "fs-heading-4-base",
+            "text": "<p>A BECASA SUMMER<\/p>",
             "text_font_class": "fs-body-100",
             "link_1": "",
-            "link_text_1": "Read more",
+            "link_text_1": "",
             "button_style_1": "btn--primary",
             "link_2": "https:\/\/shopbecasa.com\/collections\/rachel-november\/products\/linen-dunes-top?variant=42459758002229",
-            "link_text_2": "Read more",
+            "link_text_2": "",
             "button_style_2": "btn--primary",
             "text_color": "#ffffff",
             "button_background_color": "#ffffff",
@@ -267,8 +288,8 @@
         "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1368.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1368.jpg",
+            "image": "shopify:\/\/shop_images\/029A9845_75fe4c77-f8b6-4998-9e3d-e567faaab54f.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/029A9845_75fe4c77-f8b6-4998-9e3d-e567faaab54f.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
             "title": "",
@@ -281,8 +302,8 @@
         "template--15452997189685__53cfe736-3dd8-4ffd-89fd-29df39d1a55b-1676605226c240729e-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/film4293_0005_copy.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/film4293_0005_copy.jpg",
+            "image": "shopify:\/\/shop_images\/029A9935.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/029A9935.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
             "title": "",
@@ -310,6 +331,31 @@
         "overlay_opacity": 0,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "quote_AUqfyP": {
+      "type": "quote",
+      "blocks": {
+        "quote_88tRPz": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><em>BECASA thrives in a world of native species, lush foliage, shade, and seclusion – an overgrown privacy we all crave. Join us on a journey to the vibrant beach path of your imagination. Picture heavy swaying palms, canopies of leaves from years of growth, and soft white quartz sand underfoot, leading to a calm expanse of deep turquoise.<\/em><\/p>",
+            "title": "",
+            "font_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "quote_88tRPz"
+      ],
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "heading",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
       }
     },
     "rich-text-1": {
@@ -440,8 +486,8 @@
         "image_aspect": "custom",
         "desktop_height": 85,
         "mobile_height": 85,
-        "image": "shopify:\/\/shop_images\/BecasaAugust2023-0098-2.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-0098-2.jpg",
+        "image": "shopify:\/\/shop_images\/z1-029A0733.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/z1-029A0733.jpg",
         "focal_point": "bottom",
         "mobile_focal_point": "center",
         "media_link": "shopify:\/\/collections\/rachel-november",
@@ -453,57 +499,6 @@
         "color_overlay": "#edf9ff",
         "color_overlay_gradient": "",
         "overlay_opacity": 13,
-        "enable_animation": true,
-        "section_padding": "section--vertical-padding-none"
-      }
-    },
-    "182f8cd7-4144-47a4-8643-85e3dcd31e9e": {
-      "type": "image-hero-split",
-      "blocks": {
-        "template--15376799727669__182f8cd7-4144-47a4-8643-85e3dcd31e9e-1668222967ce8aad84-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BecasaAugust2023-0652_57a49582-759f-488c-9254-3107dc4d1e81.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-0652_57a49582-759f-488c-9254-3107dc4d1e81.jpg",
-            "focal_point": "top",
-            "mobile_focal_point": "bottom",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/products\/scout-peasant-top",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        },
-        "template--15376799727669__182f8cd7-4144-47a4-8643-85e3dcd31e9e-1668222967ce8aad84-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BecasaAugust2023-0276_1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-0276_1.jpg",
-            "focal_point": "top",
-            "mobile_focal_point": "center",
-            "title": "",
-            "text": "",
-            "link": "shopify:\/\/products\/copy-of-cotton-scout-top",
-            "link_text": "",
-            "button_style": "btn--primary"
-          }
-        }
-      },
-      "block_order": [
-        "template--15376799727669__182f8cd7-4144-47a4-8643-85e3dcd31e9e-1668222967ce8aad84-0",
-        "template--15376799727669__182f8cd7-4144-47a4-8643-85e3dcd31e9e-1668222967ce8aad84-1"
-      ],
-      "settings": {
-        "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 100,
-        "text_position": "center",
-        "text_color": "#ffffff",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#000000",
-        "color_overlay": "#000000",
-        "color_overlay_gradient": "",
-        "overlay_opacity": 0,
         "enable_animation": true,
         "section_padding": "section--vertical-padding-none"
       }
@@ -556,67 +551,14 @@
         "section_padding": "section--vertical-padding-none"
       }
     },
-    "multi-column-2": {
-      "type": "multi-column",
-      "blocks": {
-        "block-0": {
-          "type": "image_column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BecasaAugust2023-1858_1.jpg",
-            "image_width": 100,
-            "aspect_ratio": "natural",
-            "focal_point": "center",
-            "image_position": "above_text",
-            "image_link": "shopify:\/\/collections\/rachel-november",
-            "small_caption": "",
-            "accent": "",
-            "heading": "",
-            "heading_font_class": "fs-heading-4-base",
-            "text": "",
-            "text_font_class": "fs-body-75",
-            "text_max_width": 100,
-            "link": "shopify:\/\/collections\/rachel-november",
-            "link_text": "",
-            "button_style": "btn--callout"
-          }
-        }
-      },
-      "block_order": [
-        "block-0"
-      ],
-      "settings": {
-        "title": "",
-        "subheading": "",
-        "heading_font_class": "fs-heading-3-base",
-        "heading_alignment": "left",
-        "content_vertical_alignment": "top",
-        "content_background_padding": "large",
-        "columns": "1",
-        "column_spacing": 28,
-        "row_spacing": 28,
-        "column_alignment": "center",
-        "columns_mobile": "1",
-        "column_spacing_mobile": 20,
-        "row_spacing_mobile": 20,
-        "column_alignment_mobile": "center",
-        "background_behind_columns": false,
-        "background_color": "#ffffff",
-        "text_color": "#000000",
-        "button_background_color": "#000000",
-        "button_text_color": "#ffffff",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-bottom-only"
-      }
-    },
     "259f0a58-9dee-45f7-95f3-180cb862d5dd": {
       "type": "image-hero-split",
       "blocks": {
         "template--15376799727669__259f0a58-9dee-45f7-95f3-180cb862d5dd-1668222967ce8aad84-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BecasaAugust2023-2450_1.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-2450_1.jpg",
+            "image": "shopify:\/\/shop_images\/z1-029A0979.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/z1-029A0979.jpg",
             "focal_point": "top",
             "mobile_focal_point": "center",
             "title": "",
@@ -629,8 +571,8 @@
         "template--15376799727669__259f0a58-9dee-45f7-95f3-180cb862d5dd-1668222967ce8aad84-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BecasaAugust2023-2422.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-2422.jpg",
+            "image": "shopify:\/\/shop_images\/z1-029A0855.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/z1-029A0855.jpg",
             "focal_point": "bottom",
             "mobile_focal_point": "center",
             "title": "",
@@ -867,6 +809,57 @@
         "section_padding": "none"
       }
     },
+    "182f8cd7-4144-47a4-8643-85e3dcd31e9e": {
+      "type": "image-hero-split",
+      "blocks": {
+        "template--15376799727669__182f8cd7-4144-47a4-8643-85e3dcd31e9e-1668222967ce8aad84-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/029A8814.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/029A8814.jpg",
+            "focal_point": "top",
+            "mobile_focal_point": "bottom",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/products\/scout-peasant-top",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "template--15376799727669__182f8cd7-4144-47a4-8643-85e3dcd31e9e-1668222967ce8aad84-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/029A8804.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/029A8804.jpg",
+            "focal_point": "top",
+            "mobile_focal_point": "center",
+            "title": "",
+            "text": "",
+            "link": "shopify:\/\/products\/copy-of-cotton-scout-top",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--15376799727669__182f8cd7-4144-47a4-8643-85e3dcd31e9e-1668222967ce8aad84-0",
+        "template--15376799727669__182f8cd7-4144-47a4-8643-85e3dcd31e9e-1668222967ce8aad84-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "text_position": "center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
     "d16dca45-8d7b-4bdc-94ba-b5c487c42437": {
       "type": "rich-text",
       "blocks": {
@@ -1015,10 +1008,10 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/BecasaAugust2023-1591.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1534_1.jpg",
+        "desktop_height": 90,
+        "mobile_height": 85,
+        "image": "shopify:\/\/shop_images\/z1-029A1791.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/z1-029A1791.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "shopify:\/\/products\/linen-dunes-top",
@@ -1122,8 +1115,8 @@
         "image_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/BecasaAugust2023-1645.jpg",
-        "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1645.jpg",
+        "image": "shopify:\/\/shop_images\/z1-029A0666-2.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/z1-029A0666-2.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "shopify:\/\/products\/pareo-bronze",
@@ -1227,7 +1220,7 @@
         "image_aspect": "custom",
         "desktop_height": 100,
         "mobile_height": 100,
-        "image": "shopify:\/\/shop_images\/BecasaAugust2023-1489.jpg",
+        "image": "shopify:\/\/shop_images\/029A9424_1_9c42e844-1c9d-46a5-b783-ebefc3e58e21.jpg",
         "image_mobile": "shopify:\/\/shop_images\/BecasaAugust2023-1489.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
@@ -1378,7 +1371,7 @@
         "template--15376799727669__c8d9d27f-7f0c-4fce-ae96-97a1dc8fcff6-16682229659a54e06e-0": {
           "type": "collection",
           "settings": {
-            "collection": "rachel-november"
+            "collection": "summer-collection"
           }
         }
       },
@@ -1405,14 +1398,14 @@
     "9eb22eab-14f7-4df6-acb4-a8cabf35478b",
     "3666f493-d773-4b79-ab95-809b416bb5ae",
     "53cfe736-3dd8-4ffd-89fd-29df39d1a55b",
+    "quote_AUqfyP",
     "rich-text-1",
     "8331a491-4095-4e4d-bedc-35afa15f6d67",
     "84d2d6d7-4a15-48f9-8c3a-5f03ceb641a3",
-    "182f8cd7-4144-47a4-8643-85e3dcd31e9e",
     "a860cf28-c1d4-47b2-8dc7-15aa8309b684",
-    "multi-column-2",
     "259f0a58-9dee-45f7-95f3-180cb862d5dd",
     "8dc49ff2-bf9b-4f62-80a5-f6b04c051209",
+    "182f8cd7-4144-47a4-8643-85e3dcd31e9e",
     "d16dca45-8d7b-4bdc-94ba-b5c487c42437",
     "c6d5a5e6-290b-4842-b129-4e48ff00df77",
     "498e4ca6-bd59-4a11-aadb-8539b4c0283c",
