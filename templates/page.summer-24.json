@@ -1094,31 +1094,6 @@
         "divider_style": "none",
         "section_padding": "section--vertical-padding-top-bottom"
       }
-    },
-    "quote_aMKACk": {
-      "type": "quote",
-      "blocks": {
-        "quote_raceLy": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>“Absolutely unparalleled products and service. I'm confident that this store will be the next big thing in its industry, and that its products will be timeless.”<\/p>",
-            "title": "Steve Jordans",
-            "font_size": "medium"
-          }
-        }
-      },
-      "block_order": [
-        "quote_raceLy"
-      ],
-      "settings": {
-        "autoplay_enabled": true,
-        "autoplay_delay": 7,
-        "pagination_style": "dots",
-        "font_choice": "heading",
-        "enable_animation": true,
-        "divider_style": "none",
-        "section_padding": "section--vertical-padding-top-bottom"
-      }
     }
   },
   "order": [
@@ -1139,7 +1114,6 @@
     "slideshow_3jzW9a",
     "259f0a58-9dee-45f7-95f3-180cb862d5dd",
     "c6d5a5e6-290b-4842-b129-4e48ff00df77",
-    "c8d9d27f-7f0c-4fce-ae96-97a1dc8fcff6",
-    "quote_aMKACk"
+    "c8d9d27f-7f0c-4fce-ae96-97a1dc8fcff6"
   ]
 }
