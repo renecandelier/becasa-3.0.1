@@ -143,7 +143,7 @@
             "image_mobile": "shopify:\/\/shop_images\/z1-029A1528.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
-            "media_link": "shopify:\/\/collections\/rachel-november",
+            "media_link": "shopify:\/\/collections\/summer-collection",
             "text_position": "flex-end_flex-start",
             "text_position_mobile": "flex-end_center",
             "accent": "",
@@ -332,7 +332,7 @@
         "image_mobile": "shopify:\/\/shop_images\/z1-029A0733.jpg",
         "focal_point": "bottom",
         "mobile_focal_point": "center",
-        "media_link": "shopify:\/\/collections\/rachel-november",
+        "media_link": "shopify:\/\/collections\/summer-collection",
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "text_color": "#000000",
@@ -410,7 +410,7 @@
         "image_mobile": "shopify:\/\/shop_images\/z1-029A0666-2.jpg",
         "focal_point": "center",
         "mobile_focal_point": "center",
-        "media_link": "shopify:\/\/products\/pareo-bronze",
+        "media_link": "shopify:\/\/collections\/summer-collection",
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
@@ -484,7 +484,7 @@
             "mobile_focal_point": "center",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/rachel-november",
+            "link": "shopify:\/\/products\/sullivan-s-top-floral-stitch",
             "link_text": "",
             "button_style": "btn--primary"
           }
@@ -498,7 +498,7 @@
             "mobile_focal_point": "center",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/collections\/rachel-november",
+            "link": "shopify:\/\/products\/sullivan-s-top-floral-stitch",
             "link_text": "",
             "button_style": "btn--primary"
           }
@@ -568,8 +568,8 @@
             "mobile_focal_point": "image_presentation",
             "title": "",
             "text": "",
-            "link": "",
-            "link_text": "Read more",
+            "link": "shopify:\/\/products\/resort-skirt-grove-leaf",
+            "link_text": "",
             "button_style": "btn--primary"
           }
         },
@@ -582,8 +582,8 @@
             "mobile_focal_point": "image_presentation",
             "title": "Grove Leaf",
             "text": "",
-            "link": "",
-            "link_text": "Read more",
+            "link": "shopify:\/\/products\/resort-skirt-grove-leaf",
+            "link_text": "",
             "button_style": "btn--primary"
           }
         }
@@ -619,7 +619,7 @@
             "mobile_focal_point": "image_presentation",
             "title": "Green Crest",
             "text": "",
-            "link": "",
+            "link": "shopify:\/\/products\/honey-dress",
             "link_text": "",
             "button_style": "btn--secondary"
           }
@@ -632,8 +632,8 @@
             "mobile_focal_point": "image_presentation",
             "title": "",
             "text": "",
-            "link": "",
-            "link_text": "Read more",
+            "link": "shopify:\/\/products\/honey-dress",
+            "link_text": "",
             "button_style": "btn--primary"
           }
         }
@@ -669,10 +669,9 @@
         },
         "template--15452997189685__498e4ca6-bd59-4a11-aadb-8539b4c0283c-1676605237dbe755f0-1": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "title": "Image hero",
-            "heading_font_class": "fs-heading-display-2"
+            "title": "Warmth of Summer",
+            "heading_font_class": "fs-heading-display-3"
           }
         },
         "template--15452997189685__498e4ca6-bd59-4a11-aadb-8539b4c0283c-1676605237dbe755f0-2": {
@@ -698,7 +697,7 @@
         "focal_point": "center",
         "mobile_focal_point": "center",
         "media_link": "shopify:\/\/products\/linen-dunes-top",
-        "text_position": "center_center",
+        "text_position": "flex-end_center",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
         "button_background_color": "#ffffff",
@@ -784,10 +783,10 @@
             "link_2": "",
             "link_text_2": "",
             "button_style_2": "btn--primary",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 14
           }
@@ -799,7 +798,7 @@
             "image_mobile": "shopify:\/\/shop_images\/z1-029A1122.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
-            "media_link": "",
+            "media_link": "shopify:\/\/products\/beachwalk-popover",
             "text_position": "center_center",
             "text_position_mobile": "center_center",
             "accent": "",
@@ -815,10 +814,10 @@
             "link_2": "",
             "link_text_2": "Read more",
             "button_style_2": "btn--primary",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 14
           }
@@ -846,10 +845,10 @@
             "link_2": "",
             "link_text_2": "Read more",
             "button_style_2": "btn--primary",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 40
           }
@@ -861,7 +860,7 @@
             "image_mobile": "shopify:\/\/shop_images\/029A8814.jpg",
             "focal_point": "image_presentation",
             "mobile_focal_point": "image_presentation",
-            "media_link": "",
+            "media_link": "shopify:\/\/products\/beach-dress",
             "text_position": "center_center",
             "text_position_mobile": "center_center",
             "accent": "",
@@ -877,10 +876,10 @@
             "link_2": "",
             "link_text_2": "Read more",
             "button_style_2": "btn--primary",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 14
           }
@@ -908,10 +907,10 @@
             "link_2": "",
             "link_text_2": "Read more",
             "button_style_2": "btn--primary",
-            "text_color": "#FFFFFF",
-            "button_background_color": "#FFFFFF",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
             "button_text_color": "#000000",
-            "color_overlay": "#000",
+            "color_overlay": "#000000",
             "color_overlay_gradient": "",
             "overlay_opacity": 14
           }
@@ -931,7 +930,7 @@
         "enable_autoplay": true,
         "duration_autoplay": 4,
         "navigation_alignment": "center",
-        "navigation_color_foreground": "#fff",
+        "navigation_color_foreground": "#ffffff",
         "navigation_color_background": "",
         "navigation_background_opacity": 100,
         "enable_animation": true,
@@ -950,7 +949,7 @@
             "mobile_focal_point": "center",
             "title": "",
             "text": "",
-            "link": "https:\/\/shopbecasa.com\/collections\/rachel-november\/products\/crewneck-sweatshirt-1?variant=42596530356277",
+            "link": "shopify:\/\/collections\/summer-collection",
             "link_text": "",
             "button_style": "btn--primary"
           }
@@ -964,7 +963,7 @@
             "mobile_focal_point": "center",
             "title": "",
             "text": "",
-            "link": "https:\/\/shopbecasa.com\/collections\/rachel-november\/products\/crewneck-sweatshirt-1?variant=42596530356277",
+            "link": "shopify:\/\/products\/weekend-tee",
             "link_text": "",
             "button_style": "btn--primary"
           }
