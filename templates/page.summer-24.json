@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -568,7 +577,7 @@
             "mobile_focal_point": "image_presentation",
             "title": "",
             "text": "",
-            "link": "shopify:\/\/products\/resort-skirt-grove-leaf",
+            "link": "shopify:\/\/products\/resort-maxi-skirt-grove-leaf",
             "link_text": "",
             "button_style": "btn--primary"
           }
@@ -582,7 +591,7 @@
             "mobile_focal_point": "image_presentation",
             "title": "Grove Leaf",
             "text": "",
-            "link": "shopify:\/\/products\/resort-skirt-grove-leaf",
+            "link": "shopify:\/\/products\/resort-maxi-skirt-grove-leaf",
             "link_text": "",
             "button_style": "btn--primary"
           }
