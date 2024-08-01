@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "01ffb404-403f-4ca8-a4b9-e6b50f94da3e": {
@@ -272,7 +281,7 @@
             "image_mobile": "shopify:\/\/shop_images\/Beach-Folly-Shirt-Dress-Cinch-Belt-4.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
-            "media_link": "shopify:\/\/products\/folly-shirt-dress",
+            "media_link": "shopify:\/\/products\/beach-folly-shirt-dress",
             "text_position": "center_center",
             "text_position_mobile": "center_center",
             "accent": "",
@@ -282,7 +291,7 @@
             "subheading_font_class": "fs-heading-6-base",
             "text": "",
             "text_font_class": "fs-body-75",
-            "link_1": "shopify:\/\/products\/folly-shirt-dress",
+            "link_1": "shopify:\/\/products\/beach-folly-shirt-dress",
             "link_text_1": "shop now",
             "button_style_1": "btn--primary",
             "link_2": "",
