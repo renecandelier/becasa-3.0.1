@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "01ffb404-403f-4ca8-a4b9-e6b50f94da3e": {
@@ -140,7 +149,7 @@
             "image_mobile": "shopify:\/\/shop_images\/BECASA-9709.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
-            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-2",
             "text_position": "center_center",
             "text_position_mobile": "center_center",
             "accent": "",
@@ -150,7 +159,7 @@
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link_1": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link_1": "shopify:\/\/products\/crewneck-sweatshirt-2",
             "link_text_1": "SHOP JETTY CREWNECK",
             "button_style_1": "btn--secondary",
             "link_2": "",
@@ -172,7 +181,7 @@
             "image_mobile": "shopify:\/\/shop_images\/BECASA-9341_3ca5ddd5-79bd-49da-8ce4-8596f1022959.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
-            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-2",
             "text_position": "center_center",
             "text_position_mobile": "center_center",
             "accent": "",
@@ -573,7 +582,7 @@
         "button_TdwjL6": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link": "shopify:\/\/products\/crewneck-sweatshirt-2",
             "link_text": "sweatshirts",
             "button_style": "btn--callout"
           }
@@ -591,7 +600,7 @@
         "image_mobile": "shopify:\/\/shop_images\/becasa-jetty-crewneck-sweatshirt.png",
         "focal_point": "image_presentation",
         "mobile_focal_point": "image_presentation",
-        "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+        "media_link": "shopify:\/\/products\/crewneck-sweatshirt-2",
         "text_position": "center_center",
         "text_position_mobile": "center_center",
         "text_color": "#ffffff",
@@ -682,7 +691,7 @@
             "image_mobile": "shopify:\/\/shop_images\/BECASA-9709.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
-            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-2",
             "text_position": "center_center",
             "text_position_mobile": "center_center",
             "accent": "",
@@ -692,7 +701,7 @@
             "subheading_font_class": "fs-heading-5-base",
             "text": "",
             "text_font_class": "fs-body-100",
-            "link_1": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "link_1": "shopify:\/\/products\/crewneck-sweatshirt-2",
             "link_text_1": "SHOP JETTY CREWNECK",
             "button_style_1": "btn--secondary",
             "link_2": "",
@@ -714,7 +723,7 @@
             "image_mobile": "shopify:\/\/shop_images\/BECASA-9341_3ca5ddd5-79bd-49da-8ce4-8596f1022959.jpg",
             "focal_point": "center",
             "mobile_focal_point": "center",
-            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-1",
+            "media_link": "shopify:\/\/products\/crewneck-sweatshirt-2",
             "text_position": "center_center",
             "text_position_mobile": "center_center",
             "accent": "",
